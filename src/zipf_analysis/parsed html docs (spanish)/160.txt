@@ -1,0 +1,649 @@
+https://es.wikipedia.org/wiki/Portal:Software_libre
+
+ (en  ) es el  que, una vez obtenido, puede ser usado, copiado, estudiado, modificado y redistribuido libremente. El software libre suele estar disponible gratuitamente en , o a precio del coste de la distribución a través de otros medios; sin embargo no es obligatorio que sea así y, aunque conserve su carácter de libre, puede ser vendido comercialmente.
+
+
+
+
+cita|La Fundación para el Software Libre FSF está dedicada a eliminar las restricciones sobre la copia, redistribución, entendimiento, y modificación de programas de computadoras. Hacemos esto, promocionando el desarrollo y uso del software libre en todas las áreas de la computación, pero muy particularmente, ayudando a desarrollar el sistema operativo . Muchas organizaciones distribuyen cualquier software libre que esté disponible. En cambio, la Fundación para el Software Libre se concentra en desarrollar nuevo software libre, y en hacer de este software un sistema coherente, el cual puede eliminar la necesidad de uso del software privativo o no libre
+ (pronunciado en  ) es un  desarrollado por la  y un gran número de voluntarios externos.​ 
+Se basa en el  , el cual se encarga de procesar el contenido de las páginas web, desarrollado en su mayor parte utilizando el lenguaje .
+ (llamado simplemente Firefox) es un navegador web libre y de código abierto​ desarrollado para Linux, Android, IOS, OS X y Microsoft Windows coordinado por la  y la Fundación Mozilla. Usa el motor Gecko para renderizar páginas web, el cual implementa actuales y futuros estándares web.​
+Incorpora bloqueo de ventanas emergentes, navegación por pestañas, marcadores dinámicos, compatibilidad con estándares abiertos, y un mecanismo para añadir funciones mediante extensiones.
+Firefox comenzó como una rama experimental del proyecto Mozilla a cargo de Dave Hyatt, Joe Hewitt y Blake Ross. En su opinión, las exigencias comerciales del patrocinio de Netscape y el gran número de características de Mozilla Application Suite comprometían la utilidad de este.​ Para combatir lo que ellos denominaban inflada Mozilla Application Suite, crearon un navegador independiente con la intención de reemplazarla. El 3 de abril de 2003, la Organización Mozilla anuncia que centraría sus esfuerzos en  y .​
+El programa es  y está disponible en versiones para ,  y . El código ha sido  por terceros a ,​ , , ,  y .​
+Su  es , publicado bajo una  //.​
+Los sistemas GNU/Linux reconocidos como libres por la FSF están en esta lista : 
+Distribuciones basadas en :
+... ver más en 
+Distribuciones de :
+... ver más 
+Sistemas operativos libres de :
+Otros notables:
+
+
+
+
+ 
+
+
+Lea en  las noticias más recientes sobre 
+.
+
+· 
+·  
+·  
+
+ 
+· 
+· 
+La proposición no de ley del , a la que se incorporaron enmiendas de varios grupos parlamentarios, fue aprobada con 299 votos a favor, y sólo uno negativo y una abstención.
+La iniciativa aprobada insta al Ejecutivo a aplicar los criterios de  a la hora de adquirir programas informáticos y fomentar el desarrollo de sistemas  y de código abierto también en las aplicaciones destinadas al uso de los ciudadanos.
+El desarrollador mexicano de Software Libre , propuso al gobierno de México un modelo de desarrollo basado en código abierto tanto para el acceso a la red de la comunidad en general, como de desarrollo de aplicaciones gubernamentales. En lugar de esta propuesta, el gobierno de su país decidió pagar a  para dotar de la infraestructura de software de éste proyecto.
+ 
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+
+ 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+
+ • 
+
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+, , , ,  • 
+ • 
+ • 
+
+  
+ 
+ • 
+ • 
+ • 
+ ( •  •  •  • ) • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ 
+, , , , , , 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ • 
+ • 
+ • 
+
+ • 
+ ( • ) • 
+ () • 
+ () • 
+
+
+
+
+
+
+
+
+
+ (en  ) es el  que, una vez obtenido, puede ser usado, copiado, estudiado, modificado y redistribuido libremente. El software libre suele estar disponible gratuitamente en , o a precio del coste de la distribución a través de otros medios; sin embargo no es obligatorio que sea así y, aunque conserve su carácter de libre, puede ser vendido comercialmente.
+
+
+
+
+cita|La Fundación para el Software Libre FSF está dedicada a eliminar las restricciones sobre la copia, redistribución, entendimiento, y modificación de programas de computadoras. Hacemos esto, promocionando el desarrollo y uso del software libre en todas las áreas de la computación, pero muy particularmente, ayudando a desarrollar el sistema operativo . Muchas organizaciones distribuyen cualquier software libre que esté disponible. En cambio, la Fundación para el Software Libre se concentra en desarrollar nuevo software libre, y en hacer de este software un sistema coherente, el cual puede eliminar la necesidad de uso del software privativo o no libre
+ (pronunciado en  ) es un  desarrollado por la  y un gran número de voluntarios externos.​ 
+Se basa en el  , el cual se encarga de procesar el contenido de las páginas web, desarrollado en su mayor parte utilizando el lenguaje .
+ (llamado simplemente Firefox) es un navegador web libre y de código abierto​ desarrollado para Linux, Android, IOS, OS X y Microsoft Windows coordinado por la  y la Fundación Mozilla. Usa el motor Gecko para renderizar páginas web, el cual implementa actuales y futuros estándares web.​
+Incorpora bloqueo de ventanas emergentes, navegación por pestañas, marcadores dinámicos, compatibilidad con estándares abiertos, y un mecanismo para añadir funciones mediante extensiones.
+Firefox comenzó como una rama experimental del proyecto Mozilla a cargo de Dave Hyatt, Joe Hewitt y Blake Ross. En su opinión, las exigencias comerciales del patrocinio de Netscape y el gran número de características de Mozilla Application Suite comprometían la utilidad de este.​ Para combatir lo que ellos denominaban inflada Mozilla Application Suite, crearon un navegador independiente con la intención de reemplazarla. El 3 de abril de 2003, la Organización Mozilla anuncia que centraría sus esfuerzos en  y .​
+El programa es  y está disponible en versiones para ,  y . El código ha sido  por terceros a ,​ , , ,  y .​
+Su  es , publicado bajo una  //.​
+Los sistemas GNU/Linux reconocidos como libres por la FSF están en esta lista : 
+Distribuciones basadas en :
+... ver más en 
+Distribuciones de :
+... ver más 
+Sistemas operativos libres de :
+Otros notables:
+
+
+
+
+ 
+
+
+Lea en  las noticias más recientes sobre 
+.
+
+· 
+·  
+·  
+
+ 
+· 
+· 
+La proposición no de ley del , a la que se incorporaron enmiendas de varios grupos parlamentarios, fue aprobada con 299 votos a favor, y sólo uno negativo y una abstención.
+La iniciativa aprobada insta al Ejecutivo a aplicar los criterios de  a la hora de adquirir programas informáticos y fomentar el desarrollo de sistemas  y de código abierto también en las aplicaciones destinadas al uso de los ciudadanos.
+El desarrollador mexicano de Software Libre , propuso al gobierno de México un modelo de desarrollo basado en código abierto tanto para el acceso a la red de la comunidad en general, como de desarrollo de aplicaciones gubernamentales. En lugar de esta propuesta, el gobierno de su país decidió pagar a  para dotar de la infraestructura de software de éste proyecto.
+ 
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+
+ 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+
+ • 
+
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+, , , ,  • 
+ • 
+ • 
+
+  
+ 
+ • 
+ • 
+ • 
+ ( •  •  •  • ) • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ 
+, , , , , , 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+
+ 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+
+ • 
+ • 
+ • 
+
+ • 
+ ( • ) • 
+ () • 
+ () • 
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+	
+	
+	
+		De Wikipedia, la enciclopedia libre
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+Free Software FoundationLa  es una organización creada en Octubre de 1985 a partir del esfuerzo de  y otros entusiastas del software libre con el propósito de difundir este movimiento.Símbolo de la fundación
+
+
+ 
+El Navegador Libre Mozilla Firefox
+
+
+
+
+ 
+Sistemas Operativos LibresLos siguientes son  de código abierto, algunos libres y sus variantes.
+
+
+
+
+
+
+
+
+
+
+
+ Ver más  
+Categorías de Software Libre
+
+                             
+
+
+  
+Como puedes contribuir
+
+
+   
+Portales relacionados
+
+
+ 
+
+ 
+
+ 
+
+
+
+   
+Actualidad
+
+
+
+
+  
+Ayuda
+
+
+   
+¿Sabías que . . .El 12 de diciembre de 2006 el  español aprobó una proposición que insta al Gobierno a favorecer la industria y el desarrollo del  y a promover la generación de soluciones que en la actualidad solo existen bajo fórmulas de software privativo.
+
+
+ 
+Portales
+
+
+  
+Otras wikis relacionadas con Software Libre
+
+
+  
+
+
+
+
+
+
+
+
+
+
+		Obtenido de «»
+		: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

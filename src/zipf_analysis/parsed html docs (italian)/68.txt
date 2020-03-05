@@ -1,0 +1,184 @@
+https://it.wikipedia.org/wiki/Anno_bisestileUn  è un  in cui avviene la periodica  di un giorno aggiuntivo nell'anno stesso, un accorgimento utilizzato in quasi tutti i  (quali quelli  e ) per evitare lo slittamento delle stagioni: ogni 128 anni (per il giuliano) e ogni 3323 anni (per il gregoriano) si accumula un giorno in più di ritardo rispetto all'evento astronomico. Per correggere questo slittamento, agli anni "normali" di 365 giorni (ogni 4 anni) si intercalano gli anni "bisestili" di 366: il giorno in più viene inserito nel mese di febbraio, il più corto dell'anno, che negli anni bisestili arriva a contare 29 giorni anziché 28. In questo modo si può ottenere una durata  dell'anno pari a un numero non intero di giorni.
+Il prossimo anno bisestile sarà il .
+Nella tradizione popolare l'anno bisestile sarebbe foriero di sventure, secondo il detto .
+Nel  è bisestile un anno ogni 4 (quelli la cui numerazione è divisibile per 4). La durata media dell'anno diventa così di 365,25 giorni (365 giorni e 6 ore) e la differenza rispetto all' si riduce da 5,8128 ore in difetto ad appena 11 minuti e 14 secondi in eccesso. Il  riduce ulteriormente questa approssimazione eliminando 3 anni bisestili ogni 400, portando la durata media dell'anno a 365,2425 giorni (365 + 97/400), con una differenza di soli 26 secondi in eccesso.
+Nel calendario gregoriano, quindi, sono bisestili:
+Per fare qualche esempio, il  e il  sono stati entrambi bisestili (non secolari divisibili per 4), il , il  e il  non lo sono stati (secolari non divisibili per 400), mentre il  e il  lo sono stati (secolari divisibili per 400).
+Il  si applica dal , anno della sua introduzione. Benché, in via teorica, sia possibile estenderlo anche agli anni precedenti, per questi, di norma, si usa il . Perciò sono bisestili tutti gli anni divisibili per 4, compresi quelli secolari, dal  al  dell'. Per gli anni precedenti l'era volgare, invece, non si applicano gli anni bisestili, visto che  regolò definitivamente l'applicazione degli anni bisestili nell'
+I  aggiungevano il giorno in più dopo il , che essi chiamavano  (sesto giorno prima delle  di marzo); il giorno aggiuntivo si chiamava  (sesto giorno ripetuto) da cui l'aggettivo "bisestile". Oggi i giorni di febbraio vengono semplicemente numerati a partire da 1, per cui normalmente si considera che il giorno aggiunto sia il . Solo in  il  fu un anno "doppiamente bisestile", cioè con il 29 e il  (diverso è invece il caso del 30 febbraio nel ).
+Mentre negli anni comuni ogni data cade un giorno della settimana più avanti rispetto all'anno precedente, negli anni bisestili si salta un giorno e le date dopo il 29 febbraio sono spostate di due giorni della settimana più avanti anziché uno solo, e lo stesso accade alle date fino al 28 febbraio dell'anno successivo: per questo motivo in inglese l'anno bisestile è chiamato  (anno del salto), in riferimento appunto al fatto di saltare un giorno in più rispetto all'anno precedente. Risulta inoltre caratteristico che in presenza di un anno bisestile si creano 2 "triplette" di mesi distanti fra loro 3 mesi, che presentano gli stessi giorni della settimana. Esse sono:
+Inoltre, per ritrovare un mese con gli stessi giorni della settimana di luglio, e quindi anche di gennaio e aprile dell'anno bisestile, bisogna attendere il settembre dell'anno successivo.
+Accorgimenti analoghi all'intercalazione bisestile dei  sono usati anche nei  (come ), ma con la funzione di mantenere l'allineamento dell'inizio di ogni mese con le . I  (come ) applicano entrambi questi accorgimenti e, inoltre, inseriscono periodicamente un mese intercalare per mantenere fissa la stagionalità dei mesi.
+       ( 
+        
+      
+Un  è un  in cui avviene la periodica  di un giorno aggiuntivo nell'anno stesso, un accorgimento utilizzato in quasi tutti i  (quali quelli  e ) per evitare lo slittamento delle stagioni: ogni 128 anni (per il giuliano) e ogni 3323 anni (per il gregoriano) si accumula un giorno in più di ritardo rispetto all'evento astronomico. Per correggere questo slittamento, agli anni "normali" di 365 giorni (ogni 4 anni) si intercalano gli anni "bisestili" di 366: il giorno in più viene inserito nel mese di febbraio, il più corto dell'anno, che negli anni bisestili arriva a contare 29 giorni anziché 28. In questo modo si può ottenere una durata  dell'anno pari a un numero non intero di giorni.
+Il prossimo anno bisestile sarà il .
+Nella tradizione popolare l'anno bisestile sarebbe foriero di sventure, secondo il detto .
+Nel  è bisestile un anno ogni 4 (quelli la cui numerazione è divisibile per 4). La durata media dell'anno diventa così di 365,25 giorni (365 giorni e 6 ore) e la differenza rispetto all' si riduce da 5,8128 ore in difetto ad appena 11 minuti e 14 secondi in eccesso. Il  riduce ulteriormente questa approssimazione eliminando 3 anni bisestili ogni 400, portando la durata media dell'anno a 365,2425 giorni (365 + 97/400), con una differenza di soli 26 secondi in eccesso.
+Nel calendario gregoriano, quindi, sono bisestili:
+Per fare qualche esempio, il  e il  sono stati entrambi bisestili (non secolari divisibili per 4), il , il  e il  non lo sono stati (secolari non divisibili per 400), mentre il  e il  lo sono stati (secolari divisibili per 400).
+Il  si applica dal , anno della sua introduzione. Benché, in via teorica, sia possibile estenderlo anche agli anni precedenti, per questi, di norma, si usa il . Perciò sono bisestili tutti gli anni divisibili per 4, compresi quelli secolari, dal  al  dell'. Per gli anni precedenti l'era volgare, invece, non si applicano gli anni bisestili, visto che  regolò definitivamente l'applicazione degli anni bisestili nell'
+I  aggiungevano il giorno in più dopo il , che essi chiamavano  (sesto giorno prima delle  di marzo); il giorno aggiuntivo si chiamava  (sesto giorno ripetuto) da cui l'aggettivo "bisestile". Oggi i giorni di febbraio vengono semplicemente numerati a partire da 1, per cui normalmente si considera che il giorno aggiunto sia il . Solo in  il  fu un anno "doppiamente bisestile", cioè con il 29 e il  (diverso è invece il caso del 30 febbraio nel ).
+Mentre negli anni comuni ogni data cade un giorno della settimana più avanti rispetto all'anno precedente, negli anni bisestili si salta un giorno e le date dopo il 29 febbraio sono spostate di due giorni della settimana più avanti anziché uno solo, e lo stesso accade alle date fino al 28 febbraio dell'anno successivo: per questo motivo in inglese l'anno bisestile è chiamato  (anno del salto), in riferimento appunto al fatto di saltare un giorno in più rispetto all'anno precedente. Risulta inoltre caratteristico che in presenza di un anno bisestile si creano 2 "triplette" di mesi distanti fra loro 3 mesi, che presentano gli stessi giorni della settimana. Esse sono:
+Inoltre, per ritrovare un mese con gli stessi giorni della settimana di luglio, e quindi anche di gennaio e aprile dell'anno bisestile, bisogna attendere il settembre dell'anno successivo.
+Accorgimenti analoghi all'intercalazione bisestile dei  sono usati anche nei  (come ), ma con la funzione di mantenere l'allineamento dell'inizio di ogni mese con le . I  (come ) applicano entrambi questi accorgimenti e, inoltre, inseriscono periodicamente un mese intercalare per mantenere fissa la stagionalità dei mesi.
+       ( 
+        
+      
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		  Calendario del  , anno bisestile.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ·  · 
+
+  
+
+
+
+
+
+		Estratto da ""
+		: Categorie nascoste: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

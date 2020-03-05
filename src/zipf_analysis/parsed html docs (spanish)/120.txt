@@ -1,0 +1,377 @@
+https://es.wikipedia.org/wiki/PlayStation_2
+La  (プレイステーション2  Tsu, oficialmente abreviada como ) es la segunda  de sobremesa producida por  y la sucesora de . 
+Fue lanzada por primera vez el 4 de marzo del año 2000 en Japón, y unos meses después en el resto del mundo. Es la videoconsola más vendida de la historia, con más de 160 millones de unidades vendidas. Esta consola es también la que más títulos posee, aproximadamente 3870 títulos (y no 10000 como muchos creen), seguida por su predecesora la PlayStation con unos 2500 títulos. Esta cantidad de títulos dada la extraordinaria acogida por parte del público en general hacia la misma, lo que incluso la consolidó como la consola con más tiempo en el mercado y a su vez la consola con más duración en el mismo, hasta que el 3 de enero del año 2013 se decide detener su fabricación tras 13 años de actividad.​ A pesar del anuncio, se continuaron produciendo nuevos juegos para la consola hasta finales de 2013, estos fueron  y .
+La PlayStation 2 es la sucesora de la , y compitió contra la  de , la  de  y la  de . A pesar del lanzamiento de su sucesora, , en 2006, la consola siguió en el mercado y con un importante número de usuarios, compitiendo con las , siendo la única consola que ha logrado tener un ciclo de vida tan largo que compite con la generación posterior a la suya. También compitió temporalmente en la actualidad con las  consiguiendo el primer puesto de la .
+La PlayStation 2 es un sistema de entretenimiento aún disponible económicamente para las personas que les gustan los videojuegos, la cual alberga una gran variedad de géneros en sus juegos para todas las edades.
+Una de las principales características distintivas son su procesador central conocido como  y su controlador . También el equipo incorpora un  y 2  1.1 (algunos controladores utilizan estos puertos). Dispone de un puerto  para que pueda ser utilizado el servicio de internet . Algunos juegos incorporan la posibilidad de jugar a través de una  (LAN), lo que permite además jugar por  a través del sistema gratuito . En el primer modelo original grueso de la consola podía ser usado un disco duro oficial convirtiendo así a Playstation 2 en la primera consola con .
+Desde su salida, la PlayStation 2 ha logrado vender más de 155 000 000 de unidades aproximadamente, convirtiéndose en la videoconsola más vendida de la historia. En 2010 coincidiendo con el periodo navideño, Sony lanzó al mercado un televisor LCD que incorpora en su base una versión adaptada de la PlayStation 2.​
+En abril de 1999, se conocieron las primeras noticias acerca de la sucesora de la , poco después del lanzamiento de la . En 2000 llegaron noticias del primer videojuego para PS2, .
+El lanzamiento oficial de PlayStation 2 fue el 4 de marzo de 2000 en , y el 26 de octubre del mismo año en los . La noticia logró generar una gran expectativa en los compradores, lo cual provocó una escasez de consolas en las tiendas el día del lanzamiento. Sony sabía lo que iba suceder el día de presentación de la videoconsola así que dio la posibilidad de vender este equipo mediante el sitio de subastas , llegando algunos compradores compulsivos a pagar $1000  por este equipo mediante la página de comercio electrónico. Muy pocas personas obtuvieron su consola a finales del año 2000 debido a los retrasos de fabricación.
+Las espectaculares ventas iniciales de la PlayStation 2 se debieron en buena medida al éxito de su predecesora, la , y al hecho de que es compatible con los juegos de ésta. Solo en  y en su primera semana se vendieron alrededor de 900,000 consolas. Más tarde,  ganó aún más popularidad por los fuertes títulos y el desarrollo de más periféricos desarrollados por terceros.
+A medida de que las compañías productoras de videoconsolas ya empezaban con la inclusión del juego en línea en las videoconsolas (tal ejemplo era la  de ), todavía  no hacía énfasis en el juego en línea hasta que  incursiona en el mercado de videojuegos con su .  se adaptó a finales del año 2002 para competir con  con muchos títulos , como . Sony y  al comenzar más tarde, siguieron un modelo descentralizado para el juego en línea donde la responsabilidad recaía en los desarrolladores para proveer los servidores. Sony intentó hacer del juego en línea un mayor punto de venta para la PlayStation 2.
+La PlayStation 2 ha pasado por muchas revisiones, algunas solamente en la construcción interna y otras con grandes cambios en el aspecto. Son coloquialmente conocidas como V0, V1, V2, V3... hasta la V19.
+PlayStation 2 tiene dos versiones: El modelo original con un tamaño grande y grueso el cual se suele conocer por el término inglés "Fat", y el modelo que se rediseñó para reducir dimensiones más delgado que se suele conocer por el mismo término en inglés ".
+Tres de los modelos del lanzamiento original de la PlayStation 2, que se vendieron sólo en , carecían del puerto de expansión Dev9 de los modelos actuales. Estas versiones fueron SCPH-10000, SCPH-15000 y SCPH-18000. Estos modelos incluían una ranura PCMCIA en lugar de la bahía de expansión (Dev9), encontrada en modelos más recientes. Un adaptador PCMCIA a Dev9 fue lanzado para estos modelos. SCPH-10000 y SCPH-15000 no tenían un reproductor de  incorporado y en su lugar confiaban en un reproductor cifrado que se copiaba a una tarjeta de memoria desde un .
+La V3 tiene una estructura interna bastante diferente a las revisiones subsecuentes, presentando varias tarjetas de circuitos interconectadas. En la V4 todo estaba unido en una sola tarjeta (excepto la fuente de alimentación). La V5 introdujo cambios menores, y la única diferencia entre la V5 y la V6 (también conocida como V5.1) es la orientación del interruptor de encendido/reinicio, el cual fue invertido para evitar la instalación de los modchips sin soldar. Las V7 y V8 son similares. El ensamblado de la PlayStation 2 se mudó a  con el modelo V9 (SCPH-50000 o SCPH-50001), que añadió el puerto infrarrojo para el control remoto opcional, suprimió el puerto , añadió la capacidad de leer los discos DVD-/+RW, añadió el escaneo progresivo para las películas en DVD y un ventilador mucho más silencioso.
+Los números de modelo de la versión 9 son SCPH-50000, 50001, 50002, 50003 o 50004.
+En las versiones 9, 10 y 11, al encender la consola y presionar el botón «triángulo», sin introducir ningún disco dentro y dependiendo de la versión de DVD aparece uno de los siguientes mensajes:
+La  es una revisión de la  que fue lanzada en septiembre de 2004, más conocida como PlayStation 2 delgada "Slim", el rediseño fue hecho por . Es una PlayStation bastante menor en cuanto a su tamaño en comparación a la antigua Playstation 2.
+En septiembre de 2004 se lanzó la revisión más importante, la V12 o SCPH-70000. Disponible en noviembre de 2004, es más pequeña que la antigua versión y tiene el puerto Ethernet integrado en la consola. Las dimensiones y el peso se han reducido a 230 mm de altura, 152 mm de ancho, y 28 mm de fondo (es decir un 32 % menos) y la fuente de alimentación pasó a conectarse de forma externa.
+Debido a su perfil más delgado, no contiene la bahía de expansión de 3.5 pulgadas, y por lo tanto no soporta el disco duro interno, de modo que no se puede hacer uso de las ventajas del disco duro oficial ni jugar a un juego tan específico de este periférico como es el , ni poder usar el paquete oficial de PlayStation 2 Linux. También ha habido conflictos en la numeración de este , puesto que hay dos subversiones del SCPH-70000. Una de ellas incluye los antiguos EE y GS y la otra contiene el nuevo chip unificado EE+GS. Dos propuestas para nombrarlos al  antiguo (EE y GS separados) V11.5 y al viejo modelo V12 y al nuevo V13. Hoy en día, la mayoría de la gente sólo llama V12 a ambos modelos o V12 para el antiguo y el V13 para el nuevo.
+El modelo V12 fue lanzado primero en color negro, aunque posteriormente se lanzó en otros colores, como el plateado.
+También hay un modelo V14 (SCPH-70000 y SCPH-75002) que contiene el chip EE+GS y circuitos diferentes comparados con las revisiones anteriores, algunos chips contienen la fecha de Copyright de  comparados con  o  para los modelos antiguos. También tiene una lente diferente y algunos problemas de  en incluso de . Las revisiones posteriores mejoraron la compatibilidad con los juegos de PlayStation.
+A finales de 2005 se encontró que algunas fuentes de alimentación de los modelos delgados negros eran defectuosas y podían recalentarse. Las unidades fueron llamadas por , con la compañía suministrando un  de reemplazo. La 70040 era la que más sufría este problema ya que al ser nueva  no se había percatado de tal . El día 9 de julio de 2005  sacó la 70050 con los problemas solucionados.
+Otra versión mejorada del modelo slim de  (SCPH-90000) fue lanzada en  el 22 de noviembre de 2007, en Estados Unidos y Europa a fines del 2008, con un rediseño interno que incorporó la fuente de alimentación como parte de la , y un ventilador más silencioso que logró bajar la  interna, a diferencia de las versiones anteriores, reduciendo el peso total a 720 g. La serie de consolas SCPH-90000 y la 90001 fabricadas después de marzo del 2008 incorporan una revisión del BIOS, la cual corrige los problemas de los modelos anteriores.
+El último modelo V19 lanzado por Sony es la 90010.
+El 13 de enero de 2009, la  logra acumular 60 000 000 de consolas vendidas en todo el mundo, cantidad acumulada a partir de su lanzamiento en el año 2004.
+En la siguiente lista se muestra los accesorios más sobresalientes de este sistema:
+Es un dispositivo de almacenamiento en el que pueden almacenarse datos de los videojuegos, como el estado de la partida, las partes ya desbloqueadas de este o incluso repeticiones de goles o canastas. La versión oficial de este dispositivo de almacenamiento tiene un tamaño de 8 MB, aunque otras compañías han llegado a fabricar tarjetas clónicas de 16 MB, 64 MB, 128 MB y 256 MB de capacidad.​
+El único volante oficial para la consola, creado por  para su uso en . Pocos juegos son compatibles con él, uno de los primeros volantes en usar . Este también es compatible con su sucesora: PlayStation 3.
+Es un periférico que tenía como meta la participación más activa del jugador. Es una cámara que capta los movimientos del jugador en  y los envía al equipo. Junto con ella se lanzaron una serie de juegos que permitían aprovechar las prestaciones de la cámara.
+El juego  incorpora dos  y un adaptador . El lanzamiento sorprendió a la comunidad de los videojuegos por su innovadora tecnología de .
+Con el lanzamiento de  y  se comercializó por primera vez un modelo de guitarra inalámbrica, el cual se convirtió en el periférico más conocido de la historia del PS2.
+Es una  de baile de forma cuadrada, de aproximadamente 1 metro de lado, utilizada en los juegos de  (también se puede usar con cualquier otro juego pero al carecer de ciertos botones no se puede jugar correctamente), ejecutando su control con los pies. En su superficie se sitúan los controles de dirección dispuestos en la parte central superior, inferior, izquierda y derecha para accionar la instrucción arriba, abajo, izquierda y derecha respectivamente, además de los botones de control  (Δ),  (□),  (X), y  (O) situados en las diagonales, y en la parte superior los controles  y 
+El kit  está compuesto por un  de 40 , un adaptador de red y , un  y un   y un sistema operativo GNU/Linux para PlayStation 2, este kit está pensado para programar, igualmente se puede introducir una distribución de GNU/Linux llamada Black Rhino . Para usar el Kit Linux se necesita de una PS2 Fat.
+Es un accesorio que permite al jugador comunicarse con sus compañeros en juegos en red o en algunos juegos dar órdenes a los personajes mediante la voz. El periférico está compuesto por un  y un .
+Desarrollada y fabricada por  para garantizar la compatibilidad completa con el reproductor de  de la PlayStation 2, la cual incluye un disco compacto azul para la reproducción multimedia de la consola.
+Incluye características de visión óptima, entre las que se incluyen 5 modos de reproducción diferentes, velocidad variable de avance y retroceso e indicadores del tiempo de reproducción y el tiempo restante. Su cuidado estilo rivaliza con el impresionante diseño de PlayStation 2. Incluye  de actualización funcional.
+Con el lanzamiento de  salió a la venta un nuevo instrumento para PlayStation 2, la primera batería USB.
+En la PlayStation 2, Sony ha preservado la forma de su mando y el nombre, mejorando la función de este. En la PlayStation se conoció al mando como  y en la PlayStation 2 se le denominó al mando . En la PlayStation 3, Sony le cambió el nombre inicialmente por Sixaxis, aunque más tarde al añadirle a dicho mando de nuevo la vibración, le cambiaría el nombre a .
+El Data East Player (データイーストプレイヤー, Dēta Īsuto Pureiyā) fue un complemento publicado por  en 2000. Ya en el fin de ciclo de vida de la empresa, servía para jugar videojuegos de dicha empresa como  y . Fue descontinuado en 2003 y su último juego fue .
+Sony dotó de características avanzadas en la PlayStation 2, que no existían en otras consolas contemporáneas, tales como incluir puertos  (versión 1.1), que fueron de gran ayuda para conectar mandos fabricados por otras compañías o discos duros. También hay ciertas restricciones con los puertos USB, por ejemplo, la consola por sí misma no puede reconocer otros dispositivos que usen puerto USB como discos duros no oficiales. Hay ciertos juegos que fueron programados para aprovechar el puerto USB, como el famoso juego , dicho juego fue programado para guardar capturas de pantalla en una unidad USB o imprimir imágenes en una impresora .
+Este mando es similar al Dualshock 2, sólo que no tiene un cable conectado al mando, solo un adaptador de infrarrojos, hecho por compañías de terceros. El mando inalámbrico sirve para las personas que tienen mandos normales pero con cables cortos o para los que quieran estar cómodos. Dicho mando tuvo distintos modelos, los modelos originales funcionan con pilas tanto  como , mientras que los modelos de terceros son recargables, similares a los DualShock 3 de . Este periférico sirve en todos los modelos de PS2, incluyendo al PSX (de Japón) y la PSOne (PS1 Slim).
+Con el lanzamiento del juego  llegaría un panel de DJ, que es muy similar a la guitarra, pero para los fanáticos de los juegos de DJ, el cual cuenta con 3 botones de colores.
+Debido a la buena aceptación del primer ,  decidió traer de vuelta a este periférico en su PS2, aunque muchos lo llaman simplemente "Multitap". Contiene un cable que tiene una salida igual a la de los controles y al igual que el anterior, posee 4 entradas de control (, ,  y ). Va colocado en las mismas ranuras donde se conectan los controles, usualmente sin importar la ranura que sea (1 o 2), conectado en la ranura 1 el comando aparece como 1-A,1-B,1-C y 1-D siendo lo mismo en la ranura 2,2-A,2-B,2-C y 2-D sirviendo esto para distinguir unos comandas de otros, así pudiendo conectar hasta 8 controles. Cada ranura de control que contiene posee una entrada de memory card, esto para que cada jugador cargue su configuración. Funciona en las consolas (PS2, PS2 Slim y PSX). Es soportado por múltiples juegos, como , , , entre otros.
+La Playstation 2 cuenta con un gran número de títulos disponibles (más de 10000, teniendo en cuenta todo el mundo, ya que en realidad no salieron todos esos juegos en un solo continente, hablando de remasterizaciones, greatest hits , sumando las versiones NTSC De America, PAL De Europa y NTSC-J De Japón, siendo realmente alrededor de 3500 los juegos oficiales producidos para la consola) de diferentes categorías cada uno. En el transcurso de sus grandes ventas, se dan lanzamientos de muchos títulos importantes y algunas exclusivas que favorecieron a la consola( entre muchísimos más). Gracias a sus millones de títulos vendidos en su catálogo logro ser el mejor videojuego de sobremesa en toda su historia, y mejorar potencialmente su dominio en el mercado de los videojuegos y lograr tomar una ventaja mayor ante la incursión de la compañía de  en el mercado con su .
+El soporte para los juegos de  ha sido un importante punto de venta para la PlayStation 2, permitiendo a quienes tenían una PlayStation 1 actualizar su consola sin perder sus juegos y permitir a los usuarios seguir disfrutándolos hasta que se desarrollara un catálogo más grande para el nuevo sistema. Como un extra adicional aún más favorable, PlayStation 2 incluye la capacidad de mejorar los juegos de PlayStation 1 acelerando la velocidad de carga y suavizando las texturas para mejorar los gráficos. Mientras el suavizado funcionaba bien en la mayoría de los casos, la aceleración de la carga podría causar que algunos juegos no se carguen o funcionen incorrectamente.
+Algunos títulos de PlayStation 1 no funcionaban en PlayStation 2, al principio. Este problema fue corregido en modelos posteriores, ya que la mayoría de los juegos anteriormente no compatibles pueden ser jugados sin ningún problema.
+Los juegos para todas las consolas PlayStation tienen uno de cuatro códigos de regiones: para Japón y Asia NTSC/J, para América NTSC U-C, Europa y Oceanía PAL, y China NTSC/C
+ es una serie de anuncios televisivos que forman parte de la campaña publicitaria, llevada a cabo en año 2000, relativa al dispositivo electrónico de entretenimiento propiedad de Sony Ent. y dirigida por David Lynch, cineasta norteamericano de reconocida y extensa obra fílmica.
+La propuesta en la serie de anuncios reside en presentar el nuevo producto desde una perspectiva inédita, en la cual se permite incluir algún guiño en alguno de los anuncios, dando como resultado un spin off hacia su propia obra. En general, los cortometrajes pueden tomarse uno por uno para identificar las particularidades diferenciadoras entre toda la serie de anuncios, aunque también están provistos de denominador común, gracias a la previsibilidad que supone conocer la obra de David Lynch o por la novedad que interrumpe la rutina publicitaria.
+Aparte de ser un equipo de videojuegos, también es un equipo de  que puede reproducir películas en  y música en . Esta característica fue un incentivo determinante para justificar su compra.
+
+El 13 de enero de 2009, la PlayStation 2 logra acumular 50 000 000 de consolas vendidas en Estados Unidos.​ Esta cantidad acumulada es a partir de su lanzamiento de 2000.​
+La PlayStation 2 es la única consola de  cuyo periodo de vida y soporte oficial siguieron vigentes hasta la octava generación. Aún publicándose muchos títulos que no vieron luz en competidoras de su generación como  o . Es la consola más vendida de la historia.
+En diciembre de 2010, coincidiendo con el periodo navideño, Sony lanzó al mercado una   que incorpora en su base una versión adaptada de la PS2.
+El grupo japonés Sony Computer Entertainment anunció que ha vendido más de 159 000 000 de consolas de su PlayStation 2 (PS2) en todo el mundo a más de 13 años después de su salida al mercado, en marzo del año 2000.
+En un comunicado, Sony señaló que a 31 de enero de 2011 se habían vendido, además, más de 1 520 000 000 de unidades de juegos para la PS2, pertenecientes a los aproximadamente 10 900 títulos que se ofrecen para esta consola, siendo la que más títulos posee, seguida por su predecesora la  con 8000 títulos aproximadamente.
+Sony también fabricó un producto llamado  que podía ser usado como  y grabadora de DVD, y que era compatible con los videojuegos para PlayStation 2. Fue puesto a la venta en Japón el 13 de diciembre del 2003, y fue el primer producto de Sony que incluyó la interfaz . Como no tuvo mucho éxito en el mercado japonés no fue vendida en el extranjero. La PSX incluía un puerto USB, un lector de tarjetas  y dos ranuras para las tarjetas de memoria de PlayStation 2.​
+
+La  (プレイステーション2  Tsu, oficialmente abreviada como ) es la segunda  de sobremesa producida por  y la sucesora de . 
+Fue lanzada por primera vez el 4 de marzo del año 2000 en Japón, y unos meses después en el resto del mundo. Es la videoconsola más vendida de la historia, con más de 160 millones de unidades vendidas. Esta consola es también la que más títulos posee, aproximadamente 3870 títulos (y no 10000 como muchos creen), seguida por su predecesora la PlayStation con unos 2500 títulos. Esta cantidad de títulos dada la extraordinaria acogida por parte del público en general hacia la misma, lo que incluso la consolidó como la consola con más tiempo en el mercado y a su vez la consola con más duración en el mismo, hasta que el 3 de enero del año 2013 se decide detener su fabricación tras 13 años de actividad.​ A pesar del anuncio, se continuaron produciendo nuevos juegos para la consola hasta finales de 2013, estos fueron  y .
+La PlayStation 2 es la sucesora de la , y compitió contra la  de , la  de  y la  de . A pesar del lanzamiento de su sucesora, , en 2006, la consola siguió en el mercado y con un importante número de usuarios, compitiendo con las , siendo la única consola que ha logrado tener un ciclo de vida tan largo que compite con la generación posterior a la suya. También compitió temporalmente en la actualidad con las  consiguiendo el primer puesto de la .
+La PlayStation 2 es un sistema de entretenimiento aún disponible económicamente para las personas que les gustan los videojuegos, la cual alberga una gran variedad de géneros en sus juegos para todas las edades.
+Una de las principales características distintivas son su procesador central conocido como  y su controlador . También el equipo incorpora un  y 2  1.1 (algunos controladores utilizan estos puertos). Dispone de un puerto  para que pueda ser utilizado el servicio de internet . Algunos juegos incorporan la posibilidad de jugar a través de una  (LAN), lo que permite además jugar por  a través del sistema gratuito . En el primer modelo original grueso de la consola podía ser usado un disco duro oficial convirtiendo así a Playstation 2 en la primera consola con .
+Desde su salida, la PlayStation 2 ha logrado vender más de 155 000 000 de unidades aproximadamente, convirtiéndose en la videoconsola más vendida de la historia. En 2010 coincidiendo con el periodo navideño, Sony lanzó al mercado un televisor LCD que incorpora en su base una versión adaptada de la PlayStation 2.​
+En abril de 1999, se conocieron las primeras noticias acerca de la sucesora de la , poco después del lanzamiento de la . En 2000 llegaron noticias del primer videojuego para PS2, .
+El lanzamiento oficial de PlayStation 2 fue el 4 de marzo de 2000 en , y el 26 de octubre del mismo año en los . La noticia logró generar una gran expectativa en los compradores, lo cual provocó una escasez de consolas en las tiendas el día del lanzamiento. Sony sabía lo que iba suceder el día de presentación de la videoconsola así que dio la posibilidad de vender este equipo mediante el sitio de subastas , llegando algunos compradores compulsivos a pagar $1000  por este equipo mediante la página de comercio electrónico. Muy pocas personas obtuvieron su consola a finales del año 2000 debido a los retrasos de fabricación.
+Las espectaculares ventas iniciales de la PlayStation 2 se debieron en buena medida al éxito de su predecesora, la , y al hecho de que es compatible con los juegos de ésta. Solo en  y en su primera semana se vendieron alrededor de 900,000 consolas. Más tarde,  ganó aún más popularidad por los fuertes títulos y el desarrollo de más periféricos desarrollados por terceros.
+A medida de que las compañías productoras de videoconsolas ya empezaban con la inclusión del juego en línea en las videoconsolas (tal ejemplo era la  de ), todavía  no hacía énfasis en el juego en línea hasta que  incursiona en el mercado de videojuegos con su .  se adaptó a finales del año 2002 para competir con  con muchos títulos , como . Sony y  al comenzar más tarde, siguieron un modelo descentralizado para el juego en línea donde la responsabilidad recaía en los desarrolladores para proveer los servidores. Sony intentó hacer del juego en línea un mayor punto de venta para la PlayStation 2.
+La PlayStation 2 ha pasado por muchas revisiones, algunas solamente en la construcción interna y otras con grandes cambios en el aspecto. Son coloquialmente conocidas como V0, V1, V2, V3... hasta la V19.
+PlayStation 2 tiene dos versiones: El modelo original con un tamaño grande y grueso el cual se suele conocer por el término inglés "Fat", y el modelo que se rediseñó para reducir dimensiones más delgado que se suele conocer por el mismo término en inglés ".
+Tres de los modelos del lanzamiento original de la PlayStation 2, que se vendieron sólo en , carecían del puerto de expansión Dev9 de los modelos actuales. Estas versiones fueron SCPH-10000, SCPH-15000 y SCPH-18000. Estos modelos incluían una ranura PCMCIA en lugar de la bahía de expansión (Dev9), encontrada en modelos más recientes. Un adaptador PCMCIA a Dev9 fue lanzado para estos modelos. SCPH-10000 y SCPH-15000 no tenían un reproductor de  incorporado y en su lugar confiaban en un reproductor cifrado que se copiaba a una tarjeta de memoria desde un .
+La V3 tiene una estructura interna bastante diferente a las revisiones subsecuentes, presentando varias tarjetas de circuitos interconectadas. En la V4 todo estaba unido en una sola tarjeta (excepto la fuente de alimentación). La V5 introdujo cambios menores, y la única diferencia entre la V5 y la V6 (también conocida como V5.1) es la orientación del interruptor de encendido/reinicio, el cual fue invertido para evitar la instalación de los modchips sin soldar. Las V7 y V8 son similares. El ensamblado de la PlayStation 2 se mudó a  con el modelo V9 (SCPH-50000 o SCPH-50001), que añadió el puerto infrarrojo para el control remoto opcional, suprimió el puerto , añadió la capacidad de leer los discos DVD-/+RW, añadió el escaneo progresivo para las películas en DVD y un ventilador mucho más silencioso.
+Los números de modelo de la versión 9 son SCPH-50000, 50001, 50002, 50003 o 50004.
+En las versiones 9, 10 y 11, al encender la consola y presionar el botón «triángulo», sin introducir ningún disco dentro y dependiendo de la versión de DVD aparece uno de los siguientes mensajes:
+La  es una revisión de la  que fue lanzada en septiembre de 2004, más conocida como PlayStation 2 delgada "Slim", el rediseño fue hecho por . Es una PlayStation bastante menor en cuanto a su tamaño en comparación a la antigua Playstation 2.
+En septiembre de 2004 se lanzó la revisión más importante, la V12 o SCPH-70000. Disponible en noviembre de 2004, es más pequeña que la antigua versión y tiene el puerto Ethernet integrado en la consola. Las dimensiones y el peso se han reducido a 230 mm de altura, 152 mm de ancho, y 28 mm de fondo (es decir un 32 % menos) y la fuente de alimentación pasó a conectarse de forma externa.
+Debido a su perfil más delgado, no contiene la bahía de expansión de 3.5 pulgadas, y por lo tanto no soporta el disco duro interno, de modo que no se puede hacer uso de las ventajas del disco duro oficial ni jugar a un juego tan específico de este periférico como es el , ni poder usar el paquete oficial de PlayStation 2 Linux. También ha habido conflictos en la numeración de este , puesto que hay dos subversiones del SCPH-70000. Una de ellas incluye los antiguos EE y GS y la otra contiene el nuevo chip unificado EE+GS. Dos propuestas para nombrarlos al  antiguo (EE y GS separados) V11.5 y al viejo modelo V12 y al nuevo V13. Hoy en día, la mayoría de la gente sólo llama V12 a ambos modelos o V12 para el antiguo y el V13 para el nuevo.
+El modelo V12 fue lanzado primero en color negro, aunque posteriormente se lanzó en otros colores, como el plateado.
+También hay un modelo V14 (SCPH-70000 y SCPH-75002) que contiene el chip EE+GS y circuitos diferentes comparados con las revisiones anteriores, algunos chips contienen la fecha de Copyright de  comparados con  o  para los modelos antiguos. También tiene una lente diferente y algunos problemas de  en incluso de . Las revisiones posteriores mejoraron la compatibilidad con los juegos de PlayStation.
+A finales de 2005 se encontró que algunas fuentes de alimentación de los modelos delgados negros eran defectuosas y podían recalentarse. Las unidades fueron llamadas por , con la compañía suministrando un  de reemplazo. La 70040 era la que más sufría este problema ya que al ser nueva  no se había percatado de tal . El día 9 de julio de 2005  sacó la 70050 con los problemas solucionados.
+Otra versión mejorada del modelo slim de  (SCPH-90000) fue lanzada en  el 22 de noviembre de 2007, en Estados Unidos y Europa a fines del 2008, con un rediseño interno que incorporó la fuente de alimentación como parte de la , y un ventilador más silencioso que logró bajar la  interna, a diferencia de las versiones anteriores, reduciendo el peso total a 720 g. La serie de consolas SCPH-90000 y la 90001 fabricadas después de marzo del 2008 incorporan una revisión del BIOS, la cual corrige los problemas de los modelos anteriores.
+El último modelo V19 lanzado por Sony es la 90010.
+El 13 de enero de 2009, la  logra acumular 60 000 000 de consolas vendidas en todo el mundo, cantidad acumulada a partir de su lanzamiento en el año 2004.
+En la siguiente lista se muestra los accesorios más sobresalientes de este sistema:
+Es un dispositivo de almacenamiento en el que pueden almacenarse datos de los videojuegos, como el estado de la partida, las partes ya desbloqueadas de este o incluso repeticiones de goles o canastas. La versión oficial de este dispositivo de almacenamiento tiene un tamaño de 8 MB, aunque otras compañías han llegado a fabricar tarjetas clónicas de 16 MB, 64 MB, 128 MB y 256 MB de capacidad.​
+El único volante oficial para la consola, creado por  para su uso en . Pocos juegos son compatibles con él, uno de los primeros volantes en usar . Este también es compatible con su sucesora: PlayStation 3.
+Es un periférico que tenía como meta la participación más activa del jugador. Es una cámara que capta los movimientos del jugador en  y los envía al equipo. Junto con ella se lanzaron una serie de juegos que permitían aprovechar las prestaciones de la cámara.
+El juego  incorpora dos  y un adaptador . El lanzamiento sorprendió a la comunidad de los videojuegos por su innovadora tecnología de .
+Con el lanzamiento de  y  se comercializó por primera vez un modelo de guitarra inalámbrica, el cual se convirtió en el periférico más conocido de la historia del PS2.
+Es una  de baile de forma cuadrada, de aproximadamente 1 metro de lado, utilizada en los juegos de  (también se puede usar con cualquier otro juego pero al carecer de ciertos botones no se puede jugar correctamente), ejecutando su control con los pies. En su superficie se sitúan los controles de dirección dispuestos en la parte central superior, inferior, izquierda y derecha para accionar la instrucción arriba, abajo, izquierda y derecha respectivamente, además de los botones de control  (Δ),  (□),  (X), y  (O) situados en las diagonales, y en la parte superior los controles  y 
+El kit  está compuesto por un  de 40 , un adaptador de red y , un  y un   y un sistema operativo GNU/Linux para PlayStation 2, este kit está pensado para programar, igualmente se puede introducir una distribución de GNU/Linux llamada Black Rhino . Para usar el Kit Linux se necesita de una PS2 Fat.
+Es un accesorio que permite al jugador comunicarse con sus compañeros en juegos en red o en algunos juegos dar órdenes a los personajes mediante la voz. El periférico está compuesto por un  y un .
+Desarrollada y fabricada por  para garantizar la compatibilidad completa con el reproductor de  de la PlayStation 2, la cual incluye un disco compacto azul para la reproducción multimedia de la consola.
+Incluye características de visión óptima, entre las que se incluyen 5 modos de reproducción diferentes, velocidad variable de avance y retroceso e indicadores del tiempo de reproducción y el tiempo restante. Su cuidado estilo rivaliza con el impresionante diseño de PlayStation 2. Incluye  de actualización funcional.
+Con el lanzamiento de  salió a la venta un nuevo instrumento para PlayStation 2, la primera batería USB.
+En la PlayStation 2, Sony ha preservado la forma de su mando y el nombre, mejorando la función de este. En la PlayStation se conoció al mando como  y en la PlayStation 2 se le denominó al mando . En la PlayStation 3, Sony le cambió el nombre inicialmente por Sixaxis, aunque más tarde al añadirle a dicho mando de nuevo la vibración, le cambiaría el nombre a .
+El Data East Player (データイーストプレイヤー, Dēta Īsuto Pureiyā) fue un complemento publicado por  en 2000. Ya en el fin de ciclo de vida de la empresa, servía para jugar videojuegos de dicha empresa como  y . Fue descontinuado en 2003 y su último juego fue .
+Sony dotó de características avanzadas en la PlayStation 2, que no existían en otras consolas contemporáneas, tales como incluir puertos  (versión 1.1), que fueron de gran ayuda para conectar mandos fabricados por otras compañías o discos duros. También hay ciertas restricciones con los puertos USB, por ejemplo, la consola por sí misma no puede reconocer otros dispositivos que usen puerto USB como discos duros no oficiales. Hay ciertos juegos que fueron programados para aprovechar el puerto USB, como el famoso juego , dicho juego fue programado para guardar capturas de pantalla en una unidad USB o imprimir imágenes en una impresora .
+Este mando es similar al Dualshock 2, sólo que no tiene un cable conectado al mando, solo un adaptador de infrarrojos, hecho por compañías de terceros. El mando inalámbrico sirve para las personas que tienen mandos normales pero con cables cortos o para los que quieran estar cómodos. Dicho mando tuvo distintos modelos, los modelos originales funcionan con pilas tanto  como , mientras que los modelos de terceros son recargables, similares a los DualShock 3 de . Este periférico sirve en todos los modelos de PS2, incluyendo al PSX (de Japón) y la PSOne (PS1 Slim).
+Con el lanzamiento del juego  llegaría un panel de DJ, que es muy similar a la guitarra, pero para los fanáticos de los juegos de DJ, el cual cuenta con 3 botones de colores.
+Debido a la buena aceptación del primer ,  decidió traer de vuelta a este periférico en su PS2, aunque muchos lo llaman simplemente "Multitap". Contiene un cable que tiene una salida igual a la de los controles y al igual que el anterior, posee 4 entradas de control (, ,  y ). Va colocado en las mismas ranuras donde se conectan los controles, usualmente sin importar la ranura que sea (1 o 2), conectado en la ranura 1 el comando aparece como 1-A,1-B,1-C y 1-D siendo lo mismo en la ranura 2,2-A,2-B,2-C y 2-D sirviendo esto para distinguir unos comandas de otros, así pudiendo conectar hasta 8 controles. Cada ranura de control que contiene posee una entrada de memory card, esto para que cada jugador cargue su configuración. Funciona en las consolas (PS2, PS2 Slim y PSX). Es soportado por múltiples juegos, como , , , entre otros.
+La Playstation 2 cuenta con un gran número de títulos disponibles (más de 10000, teniendo en cuenta todo el mundo, ya que en realidad no salieron todos esos juegos en un solo continente, hablando de remasterizaciones, greatest hits , sumando las versiones NTSC De America, PAL De Europa y NTSC-J De Japón, siendo realmente alrededor de 3500 los juegos oficiales producidos para la consola) de diferentes categorías cada uno. En el transcurso de sus grandes ventas, se dan lanzamientos de muchos títulos importantes y algunas exclusivas que favorecieron a la consola( entre muchísimos más). Gracias a sus millones de títulos vendidos en su catálogo logro ser el mejor videojuego de sobremesa en toda su historia, y mejorar potencialmente su dominio en el mercado de los videojuegos y lograr tomar una ventaja mayor ante la incursión de la compañía de  en el mercado con su .
+El soporte para los juegos de  ha sido un importante punto de venta para la PlayStation 2, permitiendo a quienes tenían una PlayStation 1 actualizar su consola sin perder sus juegos y permitir a los usuarios seguir disfrutándolos hasta que se desarrollara un catálogo más grande para el nuevo sistema. Como un extra adicional aún más favorable, PlayStation 2 incluye la capacidad de mejorar los juegos de PlayStation 1 acelerando la velocidad de carga y suavizando las texturas para mejorar los gráficos. Mientras el suavizado funcionaba bien en la mayoría de los casos, la aceleración de la carga podría causar que algunos juegos no se carguen o funcionen incorrectamente.
+Algunos títulos de PlayStation 1 no funcionaban en PlayStation 2, al principio. Este problema fue corregido en modelos posteriores, ya que la mayoría de los juegos anteriormente no compatibles pueden ser jugados sin ningún problema.
+Los juegos para todas las consolas PlayStation tienen uno de cuatro códigos de regiones: para Japón y Asia NTSC/J, para América NTSC U-C, Europa y Oceanía PAL, y China NTSC/C
+ es una serie de anuncios televisivos que forman parte de la campaña publicitaria, llevada a cabo en año 2000, relativa al dispositivo electrónico de entretenimiento propiedad de Sony Ent. y dirigida por David Lynch, cineasta norteamericano de reconocida y extensa obra fílmica.
+La propuesta en la serie de anuncios reside en presentar el nuevo producto desde una perspectiva inédita, en la cual se permite incluir algún guiño en alguno de los anuncios, dando como resultado un spin off hacia su propia obra. En general, los cortometrajes pueden tomarse uno por uno para identificar las particularidades diferenciadoras entre toda la serie de anuncios, aunque también están provistos de denominador común, gracias a la previsibilidad que supone conocer la obra de David Lynch o por la novedad que interrumpe la rutina publicitaria.
+Aparte de ser un equipo de videojuegos, también es un equipo de  que puede reproducir películas en  y música en . Esta característica fue un incentivo determinante para justificar su compra.
+
+El 13 de enero de 2009, la PlayStation 2 logra acumular 50 000 000 de consolas vendidas en Estados Unidos.​ Esta cantidad acumulada es a partir de su lanzamiento de 2000.​
+La PlayStation 2 es la única consola de  cuyo periodo de vida y soporte oficial siguieron vigentes hasta la octava generación. Aún publicándose muchos títulos que no vieron luz en competidoras de su generación como  o . Es la consola más vendida de la historia.
+En diciembre de 2010, coincidiendo con el periodo navideño, Sony lanzó al mercado una   que incorpora en su base una versión adaptada de la PS2.
+El grupo japonés Sony Computer Entertainment anunció que ha vendido más de 159 000 000 de consolas de su PlayStation 2 (PS2) en todo el mundo a más de 13 años después de su salida al mercado, en marzo del año 2000.
+En un comunicado, Sony señaló que a 31 de enero de 2011 se habían vendido, además, más de 1 520 000 000 de unidades de juegos para la PS2, pertenecientes a los aproximadamente 10 900 títulos que se ofrecen para esta consola, siendo la que más títulos posee, seguida por su predecesora la  con 8000 títulos aproximadamente.
+Sony también fabricó un producto llamado  que podía ser usado como  y grabadora de DVD, y que era compatible con los videojuegos para PlayStation 2. Fue puesto a la venta en Japón el 13 de diciembre del 2003, y fue el primer producto de Sony que incluyó la interfaz . Como no tuvo mucho éxito en el mercado japonés no fue vendida en el extranjero. La PSX incluía un puerto USB, un lector de tarjetas  y dos ranuras para las tarjetas de memoria de PlayStation 2.​
+
+	
+	
+	
+
+
+	
+	
+	
+		De Wikipedia, la enciclopedia libre
+		
+		
+		
+		
+		
+		
+		
+
+
+Ver lista
+
+
+PlayStation 2[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Parte superior y frontal de la PlayStation 2.
+
+
+
+
+  Comparación de la Playstation 2 original gruesa (Fat) con la versión , con una cámara Eye Toy conectada al puerto USB.
+
+
+
+  La PlayStation 2 Slim en color plateado con la tapa del disco abierta.
+
+
+  1.consola PlayStation2; 2.mandos analógicos Dualshock 2; 3.Tarjetas de memoria 8MB; 4.cable ~AC IN; 5.cable AV multi out; 6. reproductor DVD para PlayStation 2.
+
+
+ 
+  Tarjeta de Memoria (Memory Card) para PlayStation 2.
+
+
+
+
+ 
+  Cámara EyeToy para PlayStation 2
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+  Mando DualShock 2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+  CPU "Emotion Engine".
+  GPU "GraphicsSynthesizer".
+  Graphics Synthesizer hasta la versión SCPH39000.
+  El Adaptador de Conexión Ethernet para PS2. (Solo para el modelo original grande de la consola). Este accesorio no es necesario para los modelos delgados (slim) de la consola, puesto que el puerto ethernet lo llevan integrado en la propia consola.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  PSX en exposición.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Obtenido de «»
+		: Categorías ocultas: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

@@ -1,0 +1,179 @@
+https://it.wikipedia.org/wiki/Liber_Liber è un'associazione che ha per scopo la promozione dell'accesso libero alla cultura. Operativa dal 1993, è stata fondata ufficialmente il 28 novembre  da  (presidente), , ,  e . Il 28 luglio 2019, in seguito alla riforma del terzo settore del , è divenuta una ; l'associazione si occupa di portare avanti diversi progetti, tutti orientati alla condivisione e alla diffusione del sapere on-line.
+È una  ad accesso gratuito che prende nome dal tipografo ed editore rinascimentale . Fu una delle prime iniziative di questo genere in Italia ed è attiva dal 1993. Nel 1998 vantava 293 testi in rete, 800 accessi giornalieri e 7 siti ; dieci anni dopo, nel 2009, i testi disponibili erano saliti a 2000 e i lettori a mezzo milione al mese; nel novembre 2017 conta più di 3000 opere digitalizzate, grazie al lavoro di un "piccolo esercito" di amanuensi volontari che impagina "con cura certosina e rispetto filologico il testo originale".I testi che contiene sono prevalentemente classici della letteratura italiana e straniera(tradotti in italiano) ormai fuori copyright. Sono presenti anche - con l'autorizzazione dei detentori dei diritti - alcune opere contemporanee. L'affidabilità dei testi è continuamente verificata dai collaboratori volontari, sia nella fase precedente alla pubblicazione sulla piattaforma, sia in seguito, attraverso il progetto LiberCorrige, che consente di segnalare ed emendare eventuali errori.
+Storicamente, i libri disponibili su Liber Liber sono stati offerti in tre formati: , , . I libri nel formato rtf hanno una tipica copertina azzurra con la colomba. Una volta decompresso il file, la copertina ha la dimensione di una dozzina di Mb: ad esempio, nel caso della , essa è una decina di volte più pesante del testo che racchiude. La sproporzione si riduce di molto (2/3) se si considera l'archivio compresso.
+Nell'aprile  è stato annunciato che il formato .rtf verrà abbandonato e sostituito con il formato  (l' utilizzato da ). La rinuncia al formato .rtf, ritenuto un formato "datato e inefficiente", a favore del  .odt non crea inconvenienti a chi può scaricare Open Office, che è liberamente scaricabile. Nei punti internet pubblici (biblioteche, scuole, università, ) in cui OpenOffice non fosse disponibile e in cui l'utente non fosse autorizzato a installare nuovi software, l'utente potrà utilizzare solo il formato testo o il .pdf.
+Con la nascita del , nel febbraio , è partita l'impaginazione dell'intera biblioteca digitale in formato .
+Il progetto Griffo si prefigge lo scopo di convertire l’intera biblioteca digitale del progetto Manuzio al formato standard aperto .
+L'iniziativa LiberGNU, nata dalla collaborazione con il Progetto GNUtemberg, è stata lanciata nel 2001, per incoraggiare la creazione di  e di pubblico dominio per l'editing e la lettura degli . Al momento il progetto risulta essere stato archiviato o sospeso a tempo indeterminato
+È un'audioteca, con migliaia di file musicali gratuitamente prelevabili, contenente per lo più i grandi classici (Chopin, Puccini, Verdi ecc.). I file sono disponibili in formato , Ipod/M4B o .
+Il progetto si ispira, anche nel nome, all'antica . L'auspicio è quello di riuscire a creare, per il , uno strumento di catalogazione e ricerca del sapere che ricopra il ruolo che nel mondo antico ebbe la grande biblioteca ellenistica, che radunava in un unico luogo le più importanti opere in tutti i campi. I contenuti distribuiti sul Web si trovano spesso in siti non interoperabili fra loro, e non sempre sono facilmente indicizzabili dai motori di ricerca. Queste difficoltà potrebbero essere superate attraverso la progettazione di una piattaforma  che permetta di fruire in modo integrato dei contenuti provenienti dalle fonti più diverse. Per raggiungere questo scopo Open Alexandria cerca di promuovere l'implementazione del protocollo libero ,sviluppato dal gruppo di , che consente alle piattaforme che lo adottano di interagire fra loro. Per catalogare in maniera efficace i contenuti, Open Alexandria propone anche l'adozione di un identificatore univoco universale che sostituisca i diversi sistemi oggi in uso, come l'. (il  italiano di ) collabora alla realizzazione del progetto, insieme ad alcune università italiane.
+Il progetto ha lo scopo di creare  letti da attori e volontari e disponibili per il download gratuito in formato .
+Si tratta di un'iniziativa ispirata al fenomeno del , che consiste nella "liberazione" di libri in spazi pubblici(stazioni, parchi, panchine) dove possono essere trovati e letti da altre persone, che a loro volta li rimettono in circolo, o li sostituiscono con altri libri. I volumi liberati in questo modo sono riconoscibili grazie all'apposizione di un logo.
+È uno dei progetti più recenti. Attraverso esso LiberLiber punta ad ampliare la propria offerta culturale, rendendo disponibili anche filmati di rappresentazioni teatrali.
+ è un'associazione che ha per scopo la promozione dell'accesso libero alla cultura. Operativa dal 1993, è stata fondata ufficialmente il 28 novembre  da  (presidente), , ,  e . Il 28 luglio 2019, in seguito alla riforma del terzo settore del , è divenuta una ; l'associazione si occupa di portare avanti diversi progetti, tutti orientati alla condivisione e alla diffusione del sapere on-line.
+È una  ad accesso gratuito che prende nome dal tipografo ed editore rinascimentale . Fu una delle prime iniziative di questo genere in Italia ed è attiva dal 1993. Nel 1998 vantava 293 testi in rete, 800 accessi giornalieri e 7 siti ; dieci anni dopo, nel 2009, i testi disponibili erano saliti a 2000 e i lettori a mezzo milione al mese; nel novembre 2017 conta più di 3000 opere digitalizzate, grazie al lavoro di un "piccolo esercito" di amanuensi volontari che impagina "con cura certosina e rispetto filologico il testo originale".I testi che contiene sono prevalentemente classici della letteratura italiana e straniera(tradotti in italiano) ormai fuori copyright. Sono presenti anche - con l'autorizzazione dei detentori dei diritti - alcune opere contemporanee. L'affidabilità dei testi è continuamente verificata dai collaboratori volontari, sia nella fase precedente alla pubblicazione sulla piattaforma, sia in seguito, attraverso il progetto LiberCorrige, che consente di segnalare ed emendare eventuali errori.
+Storicamente, i libri disponibili su Liber Liber sono stati offerti in tre formati: , , . I libri nel formato rtf hanno una tipica copertina azzurra con la colomba. Una volta decompresso il file, la copertina ha la dimensione di una dozzina di Mb: ad esempio, nel caso della , essa è una decina di volte più pesante del testo che racchiude. La sproporzione si riduce di molto (2/3) se si considera l'archivio compresso.
+Nell'aprile  è stato annunciato che il formato .rtf verrà abbandonato e sostituito con il formato  (l' utilizzato da ). La rinuncia al formato .rtf, ritenuto un formato "datato e inefficiente", a favore del  .odt non crea inconvenienti a chi può scaricare Open Office, che è liberamente scaricabile. Nei punti internet pubblici (biblioteche, scuole, università, ) in cui OpenOffice non fosse disponibile e in cui l'utente non fosse autorizzato a installare nuovi software, l'utente potrà utilizzare solo il formato testo o il .pdf.
+Con la nascita del , nel febbraio , è partita l'impaginazione dell'intera biblioteca digitale in formato .
+Il progetto Griffo si prefigge lo scopo di convertire l’intera biblioteca digitale del progetto Manuzio al formato standard aperto .
+L'iniziativa LiberGNU, nata dalla collaborazione con il Progetto GNUtemberg, è stata lanciata nel 2001, per incoraggiare la creazione di  e di pubblico dominio per l'editing e la lettura degli . Al momento il progetto risulta essere stato archiviato o sospeso a tempo indeterminato
+È un'audioteca, con migliaia di file musicali gratuitamente prelevabili, contenente per lo più i grandi classici (Chopin, Puccini, Verdi ecc.). I file sono disponibili in formato , Ipod/M4B o .
+Il progetto si ispira, anche nel nome, all'antica . L'auspicio è quello di riuscire a creare, per il , uno strumento di catalogazione e ricerca del sapere che ricopra il ruolo che nel mondo antico ebbe la grande biblioteca ellenistica, che radunava in un unico luogo le più importanti opere in tutti i campi. I contenuti distribuiti sul Web si trovano spesso in siti non interoperabili fra loro, e non sempre sono facilmente indicizzabili dai motori di ricerca. Queste difficoltà potrebbero essere superate attraverso la progettazione di una piattaforma  che permetta di fruire in modo integrato dei contenuti provenienti dalle fonti più diverse. Per raggiungere questo scopo Open Alexandria cerca di promuovere l'implementazione del protocollo libero ,sviluppato dal gruppo di , che consente alle piattaforme che lo adottano di interagire fra loro. Per catalogare in maniera efficace i contenuti, Open Alexandria propone anche l'adozione di un identificatore univoco universale che sostituisca i diversi sistemi oggi in uso, come l'. (il  italiano di ) collabora alla realizzazione del progetto, insieme ad alcune università italiane.
+Il progetto ha lo scopo di creare  letti da attori e volontari e disponibili per il download gratuito in formato .
+Si tratta di un'iniziativa ispirata al fenomeno del , che consiste nella "liberazione" di libri in spazi pubblici(stazioni, parchi, panchine) dove possono essere trovati e letti da altre persone, che a loro volta li rimettono in circolo, o li sostituiscono con altri libri. I volumi liberati in questo modo sono riconoscibili grazie all'apposizione di un logo.
+È uno dei progetti più recenti. Attraverso esso LiberLiber punta ad ampliare la propria offerta culturale, rendendo disponibili anche filmati di rappresentazioni teatrali.
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Logo dei libri liberati
+
+
+
+
+
+
+
+
+
+ : accedi alle voci di Wikipedia che trattano di editoria
+
+
+
+
+
+		Estratto da ""
+		: Categorie nascoste: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

@@ -1,0 +1,394 @@
+https://es.wikipedia.org/wiki/Portal:Matem%C3%A1tica 
+La  (del  μάθημα, : ciencia, conocimiento, aprendizaje, μαθηματικóς, : amante del conocimiento) es la disciplina que, mediante el , estudia las propiedades de los entes abstractos (, , , etc.) así como las relaciones que se establecen entre ellos.​
+Aunque la  matemática sea la supuesta  «Reina de las Ciencias», ella misma no se considera una . Principalmente, los  definen e investigan  y conceptos abstractos por razones puramente internas a la matemática, debido a que tales estructuras pueden proveer, por ejemplo, una generalización elegante o una útil herramienta para  frecuentes o complejos, a fin de realizar aportes para la investigación de las ciencias naturales y aplicadas. Además, muchos matemáticos también estudian sus áreas de preferencia simplemente por razones estéticas, viendo así la matemática como una forma del  en vez de una  o práctica. 
+Las matemáticas son fundamentales en las  y en la , y ésta encuentra sus aplicaciones en ellas, particularmente en la .
+
+ 
+
+ 
+El  es una generalización del  aplicable a cualquier tipo de triángulo que se utiliza, normalmente, en .
+El teorema relaciona un lado de un triángulo cualquiera con los otros dos y con el  del  formado por estos dos lados: 
+ 
+
+En la mayoría de los idiomas, este teorema es conocido con el nombre de , denominación no obstante relativamente tardía. En , sin embargo, lleva el nombre del    que unificó los resultados de sus predecesores.
+ 
+
+ 
+ 
+
+ 
+Crédito:
+: Uso de las propiedades de las tangentes para construir una  mediante dobleces en papel.
+  en    
+
+ 
+ | 
+ 
+
+ 
+ (Андре́й Колмого́ров) ( - ) fue un  , miembro de la Academia de Ciencias de la Unión Soviética. Nació el 25 de abril de 1903 en la ciudad de Tambov (Rusia).  En 1925 terminó sus estudios en la Primera Universidad de Moscú- actualmente llamada Universidad Estatal Lomonósov-.En esta empezó a trabajar en 1931, fue jefe de varios departamentos académicos y decano de la Facultad de Mecánica y Matemática de la misma universidad. 
+Hizo progresos importantes en los campos de la  y de la . En particular, estructuró el sistema axiomático de la  a partir de la . Trabajó al principio de su carrera en lógica constructivista y en las . También trabajó en  y . Asimismo, fue el fundador de la .
+ 
+
+ 
+ 
+
+ 
+Wikipedia se nutre de la colaboración de todos. Si quieres contribuir eres muy bienvenido al , que es el lugar de encuentro de los wikipedistas de esta área. Hay muchas cosas que puedes hacer: 
+ mejorar 
+ crear
+ categorizar 
+ wikificar
+ vigilar 
+ etc
+. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+Véase  y   
+
+ 
+ 
+  
+  
+
+
+
+Las matemáticas tiene muchas ramas como: estadística, geometría, álgebra, cálculo, etc. 
+La  (del  μάθημα, : ciencia, conocimiento, aprendizaje, μαθηματικóς, : amante del conocimiento) es la disciplina que, mediante el , estudia las propiedades de los entes abstractos (, , , etc.) así como las relaciones que se establecen entre ellos.​
+Aunque la  matemática sea la supuesta  «Reina de las Ciencias», ella misma no se considera una . Principalmente, los  definen e investigan  y conceptos abstractos por razones puramente internas a la matemática, debido a que tales estructuras pueden proveer, por ejemplo, una generalización elegante o una útil herramienta para  frecuentes o complejos, a fin de realizar aportes para la investigación de las ciencias naturales y aplicadas. Además, muchos matemáticos también estudian sus áreas de preferencia simplemente por razones estéticas, viendo así la matemática como una forma del  en vez de una  o práctica. 
+Las matemáticas son fundamentales en las  y en la , y ésta encuentra sus aplicaciones en ellas, particularmente en la .
+
+ 
+
+ 
+El  es una generalización del  aplicable a cualquier tipo de triángulo que se utiliza, normalmente, en .
+El teorema relaciona un lado de un triángulo cualquiera con los otros dos y con el  del  formado por estos dos lados: 
+ 
+
+En la mayoría de los idiomas, este teorema es conocido con el nombre de , denominación no obstante relativamente tardía. En , sin embargo, lleva el nombre del    que unificó los resultados de sus predecesores.
+ 
+
+ 
+ 
+
+ 
+Crédito:
+: Uso de las propiedades de las tangentes para construir una  mediante dobleces en papel.
+  en    
+
+ 
+ | 
+ 
+
+ 
+ (Андре́й Колмого́ров) ( - ) fue un  , miembro de la Academia de Ciencias de la Unión Soviética. Nació el 25 de abril de 1903 en la ciudad de Tambov (Rusia).  En 1925 terminó sus estudios en la Primera Universidad de Moscú- actualmente llamada Universidad Estatal Lomonósov-.En esta empezó a trabajar en 1931, fue jefe de varios departamentos académicos y decano de la Facultad de Mecánica y Matemática de la misma universidad. 
+Hizo progresos importantes en los campos de la  y de la . En particular, estructuró el sistema axiomático de la  a partir de la . Trabajó al principio de su carrera en lógica constructivista y en las . También trabajó en  y . Asimismo, fue el fundador de la .
+ 
+
+ 
+ 
+
+ 
+Wikipedia se nutre de la colaboración de todos. Si quieres contribuir eres muy bienvenido al , que es el lugar de encuentro de los wikipedistas de esta área. Hay muchas cosas que puedes hacer: 
+ mejorar 
+ crear
+ categorizar 
+ wikificar
+ vigilar 
+ etc
+. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+Véase  y   
+
+ 
+ 
+  
+  
+
+
+
+Las matemáticas tiene muchas ramas como: estadística, geometría, álgebra, cálculo, etc.
+	
+	
+	
+
+
+	
+	
+	
+		De Wikipedia, la enciclopedia libre
+		
+		
+		
+		
+		
+		
+		
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Notación más habitual de un triángulo.
+
+
+
+Dado un triángulo ABC, siendo α, β, γ, los ángulos, y , , , los lados respectivamente opuestos a estos ángulos  entonces: 
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+  Andréi Kolmogórov.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+                  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Obtenido de «»
+		: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

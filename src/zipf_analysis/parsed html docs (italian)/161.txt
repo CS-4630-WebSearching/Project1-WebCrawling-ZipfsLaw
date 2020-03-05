@@ -1,0 +1,203 @@
+https://it.wikipedia.org/wiki/Inkscape è un  di  basato sul formato  (SVG),  ma particolarmente focalizzato per i sistemi . Esiste sia la versione per l' a  che per la vecchia architettura a .
+L'obiettivo del progetto è quello di fornire un potente strumento grafico, che offra una piena compatibilità con gli standard ,  e  e che dia retro-compatibilità ai  di , , .
+Lo sviluppo di Inkscape cominciò nel , come un  del programma , causato dalle divergenze sullo sviluppo futuro del progetto. Sodipodi è esso stesso  di , un software di grafica creato da Raph Levien per le applicazioni da ufficio per .
+Inkscape è, tra l'altro, passato dal linguaggio di programmazione  a , e ai  C++ della libreria grafica  (). Delle modifiche sono state fatte a livello di interfaccia utente e nuove funzionalità sono state aggiunte (lo sviluppo è tuttora attivo).
+L'attenzione è stata messa particolarmente sull' e la facilità d'uso dell'interfaccia del programma, anche attraverso una maggiore conformità con la Guida per l'interfaccia umana del desktop , usando le scorciatoie da tastiera universale, ecc.
+Dopo l'annuncio di , in ottobre 2005, della liberazione dei sorgenti del proprio software di disegno vettoriale , con il loro rilascio sotto licenza , è nata una volontà di lavoro in collaborazione con il team di sviluppo di Inkscape. Entrambi i software intendono condividere il loro codice e coordinare i loro sforzi al fine di raggiungere il livello di sviluppo dei software di disegno vettoriale commerciali.
+Inkscape è dotato di strumenti molto potenti che, inoltre, migliorano di qualità e aumentano di numero ad ogni versione. Al momento gli strumenti che il software offre sono:
+Inkscape permette, come altri programmi simili, un gran numero di operazioni sugli oggetti e ha diversi strumenti utili.
+Possono essere create delle guide, di cui si possono regolare la posizione (in diverse unità di misura) e l'inclinazione; possono anche essere create a partire da un poligono. Il programma permette di gestire oggetti su diversi livelli.
+Le operazioni possibili con gli oggetti in Inkscape sono di Unione (anche multipla), Differenza, Intersezione, Esclusione, Divisione, Taglia tracciato, Combina e Separa; inoltre si possono applicare azioni come Intrudi, Estrudi, Proiezione dinamica, Proiezione collegata e operazioni come Semplifica tracciati o inverti. Gli oggetti si possono raggruppare, allineare, distribuire, incolonnare, selezionare, spostare, riflettere, duplicare, clonare, trasformare in altezza, larghezza, inclinazione e rotazione.
+Inkscape permette di gestire il colore e di creare gradienti con singoli colori in percentuale di trasparenza alpha. Permette di diminuire l'opacità dell'intero oggetto e di sfocarlo in percentuale. Questa opzione è utile per creare figure curve più realistiche. Lo strumento "effetto su tracciato" permette di deformare l'oggetto e di creare duplicazioni di oggetti lungo una tracciato.
+Inkscape può gestire il testo, che può essere disposto lungo un tracciato anche curvo, ma non ha un controllo ortografico.
+Dispone di un editor XML che permette di modificare a mano i nodi che compongono il documento. Questo rende possibile l'utilizzo di trucchi che non sono possibili con il solo editor grafico, a patto di conoscere la sintassi  e quella  (è utile anche conoscere lo standard ). Tuttavia, anche una persona non esperta in questi linguaggi può intuitivamente eseguire alcune operazioni comuni (ad esempio controllare le proprietà del documento; modificare l'ordine con cui vengono disegnati gli elementi, riordinando i corrispettivi nodi XML; eccetera).
+Con  è possibile aprire un file SVG, importandolo come  o estraendone i singoli tracciati, i quali sono modificabili e si possono riesportare da GIMP.
+Il formato SVG è importabile sia in , grazie al filtro Paths che converte il tracciato in , che in , un software di .
+Con  è possibile creare una , basata su tutti i contenuti del file SVG, che può essere salvata in  e presentata nel .
+L'attuale implementazione degli standard SVG e CSS è al momento incompleta; nello specifico non sono stati ancora implementati tutti i filtri SVG, le animazioni e i font SVG.
+Altre importanti lacune riguardano la stampa professionale, poiché il software utilizza unicamente lo spazio colore  e non permette l'esportazione in formato PDF/X-4, non consentendo la stampa in  direttamente da Inkscape. Gli stessi sviluppatori consigliano di importare il tracciato  in  per produrre file con spazio colore  e in formato /).
+ è un  di  basato sul formato  (SVG),  ma particolarmente focalizzato per i sistemi . Esiste sia la versione per l' a  che per la vecchia architettura a .
+L'obiettivo del progetto è quello di fornire un potente strumento grafico, che offra una piena compatibilità con gli standard ,  e  e che dia retro-compatibilità ai  di , , .
+Lo sviluppo di Inkscape cominciò nel , come un  del programma , causato dalle divergenze sullo sviluppo futuro del progetto. Sodipodi è esso stesso  di , un software di grafica creato da Raph Levien per le applicazioni da ufficio per .
+Inkscape è, tra l'altro, passato dal linguaggio di programmazione  a , e ai  C++ della libreria grafica  (). Delle modifiche sono state fatte a livello di interfaccia utente e nuove funzionalità sono state aggiunte (lo sviluppo è tuttora attivo).
+L'attenzione è stata messa particolarmente sull' e la facilità d'uso dell'interfaccia del programma, anche attraverso una maggiore conformità con la Guida per l'interfaccia umana del desktop , usando le scorciatoie da tastiera universale, ecc.
+Dopo l'annuncio di , in ottobre 2005, della liberazione dei sorgenti del proprio software di disegno vettoriale , con il loro rilascio sotto licenza , è nata una volontà di lavoro in collaborazione con il team di sviluppo di Inkscape. Entrambi i software intendono condividere il loro codice e coordinare i loro sforzi al fine di raggiungere il livello di sviluppo dei software di disegno vettoriale commerciali.
+Inkscape è dotato di strumenti molto potenti che, inoltre, migliorano di qualità e aumentano di numero ad ogni versione. Al momento gli strumenti che il software offre sono:
+Inkscape permette, come altri programmi simili, un gran numero di operazioni sugli oggetti e ha diversi strumenti utili.
+Possono essere create delle guide, di cui si possono regolare la posizione (in diverse unità di misura) e l'inclinazione; possono anche essere create a partire da un poligono. Il programma permette di gestire oggetti su diversi livelli.
+Le operazioni possibili con gli oggetti in Inkscape sono di Unione (anche multipla), Differenza, Intersezione, Esclusione, Divisione, Taglia tracciato, Combina e Separa; inoltre si possono applicare azioni come Intrudi, Estrudi, Proiezione dinamica, Proiezione collegata e operazioni come Semplifica tracciati o inverti. Gli oggetti si possono raggruppare, allineare, distribuire, incolonnare, selezionare, spostare, riflettere, duplicare, clonare, trasformare in altezza, larghezza, inclinazione e rotazione.
+Inkscape permette di gestire il colore e di creare gradienti con singoli colori in percentuale di trasparenza alpha. Permette di diminuire l'opacità dell'intero oggetto e di sfocarlo in percentuale. Questa opzione è utile per creare figure curve più realistiche. Lo strumento "effetto su tracciato" permette di deformare l'oggetto e di creare duplicazioni di oggetti lungo una tracciato.
+Inkscape può gestire il testo, che può essere disposto lungo un tracciato anche curvo, ma non ha un controllo ortografico.
+Dispone di un editor XML che permette di modificare a mano i nodi che compongono il documento. Questo rende possibile l'utilizzo di trucchi che non sono possibili con il solo editor grafico, a patto di conoscere la sintassi  e quella  (è utile anche conoscere lo standard ). Tuttavia, anche una persona non esperta in questi linguaggi può intuitivamente eseguire alcune operazioni comuni (ad esempio controllare le proprietà del documento; modificare l'ordine con cui vengono disegnati gli elementi, riordinando i corrispettivi nodi XML; eccetera).
+Con  è possibile aprire un file SVG, importandolo come  o estraendone i singoli tracciati, i quali sono modificabili e si possono riesportare da GIMP.
+Il formato SVG è importabile sia in , grazie al filtro Paths che converte il tracciato in , che in , un software di .
+Con  è possibile creare una , basata su tutti i contenuti del file SVG, che può essere salvata in  e presentata nel .
+L'attuale implementazione degli standard SVG e CSS è al momento incompleta; nello specifico non sono stati ancora implementati tutti i filtri SVG, le animazioni e i font SVG.
+Altre importanti lacune riguardano la stampa professionale, poiché il software utilizza unicamente lo spazio colore  e non permette l'esportazione in formato PDF/X-4, non consentendo la stampa in  direttamente da Inkscape. Gli stessi sviluppatori consigliano di importare il tracciato  in  per produrre file con spazio colore  e in formato /).
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+  Disegno promozionale per il lancio di Inkscape 0.44
+
+
+
+  Inkscape in azione
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ·  · 
+
+ : accedi alle voci di Wikipedia che trattano di software libero
+
+
+
+
+
+		Estratto da ""
+		: Categorie nascoste: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

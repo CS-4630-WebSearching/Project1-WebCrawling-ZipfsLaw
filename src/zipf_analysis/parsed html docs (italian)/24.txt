@@ -1,0 +1,175 @@
+https://it.wikipedia.org/wiki/.it è il  nazionale (ccTLD) assegnato all'.
+La registrazione è permessa ad organizzazioni e privati residenti in uno Stato dell'.
+Dall'11 luglio 2012 anche il dominio .it supporta .
+Il primo dominio .it richiesto fu quello del ; la domanda venne inviata il 23 dicembre  e divenne attivo il 1° gennaio 1988. Il 23 dicembre  la  dà in gestione il TLD al  (CNUCE), istituto del CNR di , con responsabile della delega . Dal  al  il servizio di registrazione verrà curato dal Network Information Service (NIS) del  (conosciuto come "GARR-NIS"). Nel  la delega passa all'Istituto per le Applicazioni Telematiche (IAT), sempre al C.N.R. di Pisa, nato dal necessario ampliamento del "Reparto Infrastrutture Reti per la Ricerca" (RIRR) dello stesso CNUCE.
+Fin dall'inizio le policy e le norme sono state concordate con gli operatori del settore attraverso varie forme. Dal gruppo iniziale, denominato , e poi, a partire dal 1994,  162 (il quale tiene le proprie riunioni presso lo ), si giunge nel 1998 alla costituzione della  che fino al 2005 si occuperà della stesura delle norme di assegnazione dei domini ".it". Tale struttura si distingue nettamente dalla  che svolgeva funzione di tenuta del Registro dei nomi e metteva a disposizione l'infrastruttura tecnica necessaria al mantenimento di esso, comprendendo quindi anche la gestione delle deleghe dei  autoritativi. La Naming Authority attua nel 1999 una "liberalizzazione" del ccTLD (vengono rimossi i limiti di nomi a dominio registrabili per le organizzazioni di qualunque tipo) mentre la responsabilità del Registro passa al direttore dell'istituto .
+Nel  una fusione di più istituti del C.N.R. farà nascere l', cui passerà di conseguenza la delega. A partire dal 2005 il Registro riassume in sé sia la funzione normativa che quella attuativa, con l'istituzione di un comitato interno, in cui sono state comprese rappresentanze degli operatori del settore.
+Nel 2009 il Registro del ccTLD ".it" cambia denominazione, diventando il , l'anagrafe dei domini a targa.it.
+In seguito alla morte di Denoth, avvenuta nell'aprile , il 17 maggio  la direzione dell'istituto passa pro tempore a Enrico Gregori, 51 anni e nel 2008 a .
+A partire dall'11 luglio del 2011, è possibile registrare domini .it anche con caratteri non  ().
+Dal 28 settembre , per registrare un dominio , non è più necessario inviare via  la lettera di assunzione di responsabilità (LAR) al , un documento nel quale il richiedente si assume la responsabilità civile e penale del dominio richiesto.
+Questo grazie al sistema in modalità sincrona, basato su protocollo standard . Il sistema sincrono ha affiancato per due anni le tradizionali procedure asincrone.
+ è il  nazionale (ccTLD) assegnato all'.
+La registrazione è permessa ad organizzazioni e privati residenti in uno Stato dell'.
+Dall'11 luglio 2012 anche il dominio .it supporta .
+Il primo dominio .it richiesto fu quello del ; la domanda venne inviata il 23 dicembre  e divenne attivo il 1° gennaio 1988. Il 23 dicembre  la  dà in gestione il TLD al  (CNUCE), istituto del CNR di , con responsabile della delega . Dal  al  il servizio di registrazione verrà curato dal Network Information Service (NIS) del  (conosciuto come "GARR-NIS"). Nel  la delega passa all'Istituto per le Applicazioni Telematiche (IAT), sempre al C.N.R. di Pisa, nato dal necessario ampliamento del "Reparto Infrastrutture Reti per la Ricerca" (RIRR) dello stesso CNUCE.
+Fin dall'inizio le policy e le norme sono state concordate con gli operatori del settore attraverso varie forme. Dal gruppo iniziale, denominato , e poi, a partire dal 1994,  162 (il quale tiene le proprie riunioni presso lo ), si giunge nel 1998 alla costituzione della  che fino al 2005 si occuperà della stesura delle norme di assegnazione dei domini ".it". Tale struttura si distingue nettamente dalla  che svolgeva funzione di tenuta del Registro dei nomi e metteva a disposizione l'infrastruttura tecnica necessaria al mantenimento di esso, comprendendo quindi anche la gestione delle deleghe dei  autoritativi. La Naming Authority attua nel 1999 una "liberalizzazione" del ccTLD (vengono rimossi i limiti di nomi a dominio registrabili per le organizzazioni di qualunque tipo) mentre la responsabilità del Registro passa al direttore dell'istituto .
+Nel  una fusione di più istituti del C.N.R. farà nascere l', cui passerà di conseguenza la delega. A partire dal 2005 il Registro riassume in sé sia la funzione normativa che quella attuativa, con l'istituzione di un comitato interno, in cui sono state comprese rappresentanze degli operatori del settore.
+Nel 2009 il Registro del ccTLD ".it" cambia denominazione, diventando il , l'anagrafe dei domini a targa.it.
+In seguito alla morte di Denoth, avvenuta nell'aprile , il 17 maggio  la direzione dell'istituto passa pro tempore a Enrico Gregori, 51 anni e nel 2008 a .
+A partire dall'11 luglio del 2011, è possibile registrare domini .it anche con caratteri non  ().
+Dal 28 settembre , per registrare un dominio , non è più necessario inviare via  la lettera di assunzione di responsabilità (LAR) al , un documento nel quale il richiedente si assume la responsabilità civile e penale del dominio richiesto.
+Questo grazie al sistema in modalità sincrona, basato su protocollo standard . Il sistema sincrono ha affiancato per due anni le tradizionali procedure asincrone.
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ·  · 
+ : accedi alle voci di Wikipedia che parlano di reti, telecomunicazioni e protocolli di rete
+
+
+
+
+
+		Estratto da ""
+		: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

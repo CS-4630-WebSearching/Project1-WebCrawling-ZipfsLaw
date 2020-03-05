@@ -1,0 +1,840 @@
+https://meta.wikimedia.org/wiki/Privacy_policy/es
+
+
+
+
+
+
+
+La Fundación Wikimedia es la organización sin ánimo de lucro que gestiona sitios web colaborativos de conocimiento libre, como ,  y .  
+Esta Política explica la forma en que recogemos, usamos y compartimos tu información personal. 
+Al usar los Sitios de Wikimedia, prestas tu consentimiento a esta Política.
+El movimiento de Wikimedia se fundamenta en un principio sencillo pero poderoso: podemos hacer más juntos de lo que cualquiera de nosotros puede hacer solo. No podemos trabajar de forma colectiva sin recopilar, compartir y analizar información sobre nuestros usuarios ya que buscamos nuevas formas de hacer que los Sitios de Wikimedia sean más útiles, seguros y beneficiosos.
+Creemos que la recopilación y el uso de información deben ir de la mano de la transparencia. Esta Política de privacidad explica cómo la Fundación Wikimedia, la organización sin ánimo de lucro que aloja los Sitios de Wikimedia, como Wikipedia, recoge, usa y comparte información que recibimos de ti a través del uso de los sitios de Wikimedia. Es esencial que comprendas que, al usar los Sitios de Wikimedia, prestas consentimiento a la recogida, transferencia, tratamiento, almacenamiento, divulgación y uso de tu información personal según se describe en esta Política de privacidad. Esto quiere decir que es importante leer atentamente esta Política. 
+Creemos que no tienes que proporcionar información personal no pública para participar en el movimiento del conocimiento libre. No tienes que proporcionar datos como tu nombre real, dirección o fecha de nacimiento para crear una cuenta estándar o contribuir con contenido a los Sitios de Wikimedia.
+No vendemos o alquilamos tu información personal, ni tampoco se la damos a otros para venderte nada. La usamos para conocer cómo podemos hacer que los Sitios de Wikimedia sean más atractivos y accesibles, para ver qué ideas funcionan, y hacer que aprender y contribuir sea más divertido. Por decirlo de manera más sencilla: usamos esta información para hacer que los Sitios de Wikimedia sean mejores para ti.
+Después de todo, son las personas como tú, los campeones del conocimiento libre, las que hacen posible que los Sitios de Wikimedia no solo existan, sino que también crezcan y prosperen.
+
+Reconocemos que solo una minoría de vosotros está familiarizada con términos técnicos como "píxeles de seguimiento" y "cookies" utilizados en la Política de privacidad. Ya seas nuevo en la terminología de privacidad o seas un experto que solo quiere un repaso, puedes encontrar útil nuestro .
+Como cualquier persona (y no solo los abogados) debe poder comprender con facilidad cómo y por qué se recoge y usa su información, por lo cual en esta política utilizamos un lenguaje común en lugar de términos más formales. Para ayudarte a comprender algunos términos fundamentales específicos, aquí tienes una tabla con las traducciones:
+
+
+Excepto según se explica a continuación, esta Política de privacidad se aplica a nuestra recogida y tratamiento de información sobre ti que recibimos a consecuencia de tu uso de cualquiera de los Sitios de Wikimedia. Esta Política se aplica también a la información que recibimos de nuestros socios o de terceros. Para conocer más sobre lo que incluye la Política de privacidad, consulta a continuación.
+En aras de la claridad, esta Política de privacidad cubre, independientemente del idioma:
+Esta Política de privacidad, no obstante, no cubre algunas situaciones en las que podemos recopilar o procesar información. Por ejemplo, algunos usos pueden estar cubiertos por políticas de privacidad separadas (como las de la ) o sitios o servicios gestionados por terceros (como los proyectos desarrollados por terceros en los ). Para conocer más sobre lo que no cubre esta Política de privacidad, consulta a continuación.
+
+Esta sección forma parte de la Política de privacidad y tiene por objeto explicar en detalle qué situaciones no están cubiertas por nuestra Política de privacidad.
+A veces, los voluntarios pueden colocar una herramienta de recopilación de datos, como un script, un gadget, un píxel de seguimiento o un botón para compartir, en un sitio de Wikimedia sin nuestro conocimiento. Esta Política no cubre cómo los terceros manejan la información que reciben como resultado de dicha herramienta. Si se encuentra con una herramienta de terceros y cree que infringe esta Política, puede eliminarla usted mismo o informar a privacy(a)wikimedia.org para que podamos investigar.
+Cuando las políticas de la comunidad regulan la información, como la , la comunidad pertinente puede añadir a las normas y obligaciones establecidas en esta Política. No obstante, no pueden crear nuevas excepciones o reducir de otra forma las protecciones que ofrece esta Política.
+
+
+
+Sea lo que sea que publiques en Sitios de Wikimedia puede ser visto y comprobado por cualquier persona.
+Cuando haces una contribución a cualquier Sitio de Wikimedia, incluyendo en páginas de usuario o discusión, estás creando un registro público y permanente de cada pieza de contenido que añades, retiras o modificas. El historial de la página mostrará cuándo se ha realizado tu contribución o eliminación, al igual que tu nombre de usuario (si has iniciado sesión) o tu  (si no has iniciado sesión). Podemos usar tus contribuciones públicas, bien sea agregadas a las contribuciones públicas de otros o individualmente, para crear nuevas características o productos relacionados con los datos para ti o para saber más sobre cómo se usan los Sitios de Wikimedia.
+Salvo que esta Política diga lo contrario, debes asumir que la información con la que contribuyes activamente a los Sitios de Wikimedia, incluida la Información personal, está públicamente visible y puede encontrarse en los motores de búsqueda. Igual que muchas cosas en internet, todo lo que compartas puede copiarse y redistribuirse a través de internet por otras personas. No contribuyas con información que no te sientas cómodo haciendo pública de forma permanente, como revelar tu nombre real o tu ubicación en tus contribuciones.
+Debes tener en cuenta que cualquiera peude utilizar los datos específicos hechos públicos por ti o los datos agregados que se hacen públicos por nosotros para analizar e inferir información adicional, como de qué país es un usuario, o su afiliación política o sexo.
+
+No es necesario que crees una cuenta para usar un Sitio de Wikimedia.
+Si creas una cuenta, no es necesario que nos des tu nombre o dirección de correo electrónico.
+Si no creas una cuenta, tus contribuciones se atribuirán públicamente a tu .
+¿Quieres crear una cuenta? ¡Genial! ¿No quieres crear una cuenta? ¡Sin problema!
+
+No estás obligado a crear una cuenta para leer o contribuir en un Sitio de Wikimedia, salvo en . Sin embargo, si contribuyes sin iniciar sesión, tus contribuciones se atribuirán públicamente a la  asociada con tu dispositivo.
+
+Si quieres crear una , en la mayoría de los casos solo necesitaremos un nombre de usuario y una contraseña.
+Tu nombre de usuario será visible públicamente, así que ten cuidado con usar tu nombre real como nombre de usuario. Tu contraseña solo se usará para verificar que la cuenta es tuya. Se enviará también automáticamente tu , y la registraremos temporalmente para evitar el abuso. No es necesaria ninguna información personal adicional: ni nombre, ni dirección de correo electrónico, ni fecha de nacimiento, ni información sobre tarjeta de crédito.
+Una vez creadas, las cuentas de usuario no se pueden eliminar en su totalidad (aunque generalmente puedes ocultar la información en tu página de usuario si así lo eliges). Esto se debe a que tus contribuciones públicas deben estar asociadas con su autor (es decir, ¡tú!). En determinadas circunstancias, las comunidades de Wikimedia pueden ayudar a los usuarios a eliminar la información adicional relacionada con su cuenta de los proyectos, a través del .
+Para conocer mejor la información demográfica de nuestros usuarios, efectuar la localización de nuestros servicios y conocer cómo mejorar nuestros servicios, podemos pedirte más información demográfica, como sexo o edad. Te indicaremos si esa información está destinada a ser pública o privada, para que puedas adoptar una decisión informada sobre si deseas facilitarnos esa información. Proporcionar esa información será siempre opcional. Si no quieres, no tienes que hacerlo; tan sencillo como eso.
+
+
+Algunas características que ofrecemos funcionan mejor si sabemos en que zona te encuentras.
+Si das tu consentimiento, podemos usar  (y otras tecnologías comúnmente utilizadas para determinar la localización) para mostrarte contenido más relevante. Conservamos la información obtenida con estas tecnologías de forma confidencial, salvo según se dispone en esta Política. Puedes saber más comprobando la lista de ejemplos sobre cómo usamos estas tecnologías en nuestras .
+
+A veces recibimos datos de localización automáticamente de tu dispositivo. Por ejemplo, si quieres subir una foto a la aplicación móvil de Wikimedia Commons, podemos recibir , como el lugar y la hora en la que se tomó la foto, automáticamente de tu dispositivo. Ten en cuenta que, al contrario de la información de ubicación recogida a través de las señales GPS que se ha descrito, el ajuste predeterminado de tu dispositivo móvil suele incluir datos en la carga de tu foto o vídeo a los Sitios de Wikimedia. Si no quieres que se nos envíen metadatos y que se hagan públicos en el momento de la carga, modifica la configuración de tu dispositivo.
+
+Finalmente, cuando visitas un Sitio de Wikimedia, recibimos automáticamente la  del dispositivo (o tu ) que estás utilizando para acceder a Internet, que puede utilizarse para .
+
+Utilizamos ciertas tecnologías para recoger información sobre la forma en que usas los Sitios de Wikimedia.
+Como otros sitios web, recibimos cierta información sobre ti automáticamente cuando visitas los Sitios de Wikimedia.
+También usamos una variedad de tecnologías de uso habitual, como cookies, para recoger información relativa a la forma en que usas los Sitios de Wikimedia, hacer que nuestros servicios sean más seguros y fáciles de usar, y ayudarnos a crear una experiencia mejor y más personalizable para ti.
+Queremos que los Sitios de Wikimedia sean mejores para ti aprendiendo más sobre cómo los usas. Entre los ejemplos podríamos incluir la frecuencia con la que visitas los Sitios de Wikimedia, qué te gusta, qué encuentras útil, cómo llegas a los Sitios de Wikimedia, y si utilizarías alguna característica útil con más frecuencia si se explicara de forma diferente. También queremos que esta Política y nuestras prácticas reflejen los valores de nuestra comunidad. Por este motivo, conservamos la información relacionada con tu uso de los Sitios de Wikimedia de forma confidencial, salvo según se prevé en esta Política.
+
+Debido a cómo funcionan los navegadores, recibimos cierta información sobre ti automáticamente cuando visitas los Sitios de Wikimedia. Esta información incluye el tipo de dispositivo que estás usando (posiblemente incluyendo el número de identificación único del dispositivo, para algunas versiones beta de nuestras aplicaciones móviles), el tipo y la versión de tu , la preferencia de idioma de tu navegador, el tipo y la versión del  de tu dispositivo, en algunos casos el nombre de tu proveedor de servicios de Internet u operador móvil, el sitio web que te remitió a los Sitios de Wikimedia, las páginas que solicitaste y visitaste, así como la fecha y la hora de cada solicitud que formulaste a los Sitios de Wikimedia.
+De forma sencilla, utilizamos esta información para mejorar tu experiencia con los Sitios de Wikimedia. Por ejemplo, usamos esta información para administrar los sitios, proporcionar mayor seguridad y luchar contra el vandalismo; optimizar las aplicaciones móviles, personalizar el contenido y establecer preferencias de idioma, probar las características para ver qué funciona y mejorar el rendimiento; comprender cómo interactúan los usuarios con los Sitios de Wikimedia, registrar y estudiar el uso de diversas características, comprender mejor cuál es la demografía de los distintos Sitios de Wikimedia y analizar tendencias.
+
+Usamos una variedad de tecnologías de uso habitual, como cookies, para comprender la forma en que usas los Sitios de Wikimedia, hacer que nuestros servicios sean más seguros y fáciles de usar, y ayudarnos a crear una experiencia mejor y más personalizable para ti.
+Recogemos activamente algunos tipos de información con una diversidad de tecnologías de uso habitual. Entre estas se incluyen, por lo general, , , y una serie de tecnologías de “datos almacenados localmente”, como las  y el . Comprendemos que algunas de estas tecnologías no tienen la mejor reputación del mundo y pueden usarse con fines menos nobles. Por eso queremos dejar claro por qué utilizamos estos métodos y el tipo de información que recogemos con ellas.
+Dependiendo de la tecnología que usemos, los datos almacenados localmente pueden ser cualquier cosa desde texto, imágenes o artículos enteros (como se explica a continuación) a Información personal (como tu ) e información sobre tu uso de los Sitios de Wikimedia (como tu nombre de usuario o la hora de tu visita).
+Utilizamos esta información para hacer que tu experiencia con los Sitios de Wikimedia sea más segura y mejor, obtener una mejor comprensión de las preferencias del usuario y su interacción con los Sitios de Wikimedia y mejorar, de forma general, nuestros servicios. Nunca utilizaremos cookies de terceros, salvo que tengamos tu consentimiento para ello. Si en algún momento encuentras una herramienta de recogida de datos de terceros que no haya sido autorizada por ti (como la que puede haber sido colocada por error por otro usuario o administrador), notifícalo a través del correo . 
+Los datos almacenados localmente, JavaScript y píxeles de seguimiento nos ayudan a hacer cosas como:
+
+¿Quieres saber aun más? Puedes leer más sobre algunas de las cookies específicas que usamos, cuándo caducan y para qué las usamos en nuestras .
+
+Creemos que esta recogida de datos nos ayuda a mejorar tu experiencia de usuario, pero puedes quitar o deshabilitar algunos o todos los datos almacenados localmente en la configuración de tu navegador, dependiendo de tu navegador. Puedes saber más sobre algunas opciones que tienes en nuestras . Aunque los datos almacenados localmente pueden no ser necesarios para utilizar nuestros sitios, algunas características no funcionarán adecuadamente si desactivas los datos almacenados localmente.
+
+Mientras que los ejemplos anteriores que afectan a la información sobre ti recogida gracias al uso de herramientas de recogida de datos se mantienen confidenciales de conformidad con esta Política, ten en cuenta que alguna información sobre las acciones adoptadas por tu nombre de usuario se ponen a disposición pública a través de  junto con las acciones adoptadas por otros usuarios. Por ejemplo, un registro público puede incluir la fecha en la que se creó tu cuenta en un Sitio de Wikimedia junto con las fechas en las que se crearon otras cuentas en un Sitio de Wikimedia.
+
+Nosotros y nuestros proveedores de servicio utilizamos tu información para el fin legítimo de llevar a cabo nuestra misión benéfica, incluyendo:
+Realizamos estas actividades para gestionar nuestra relación contigo, porque tenemos un interés legítimo o cumplimos nuestras obligaciones legales.
+Personalizaremos los Servicios, en algunos casos, según nos indiques; en todos los casos, para mantener nuestro fin legítimo benéfico de perseguir nuestra misión.
+Te enviaremos estos tipos de correos electrónicos con tu consentimiento. No vendemos, alquilamos o usamos tu dirección de correo electrónico para publicitar productos o servicios de terceros. Puedes gestionar qué tipos de notificaciones recibes y con qué frecuencia los recibes dirigiéndote a tus Preferencias de notificación. Puedes saber más sobre el correo electrónico y las notificaciones, y cómo cambiar tus preferencias en nuestras .
+Siempre te diremos, en el momento en que te demos una oportunidad para compartir lo que piensas, cómo planeamos utilizar tus respuestas y cualquier información personal que proporciones.  
+Tus respuestas a nuestras encuestas y solicitudes de comentarios son siempre opcionales. Te enviaremos por correo electrónico estos tipos de solicitudes únicamente con tu consentimiento. Puedes gestionar qué tipos de notificaciones recibes y con qué frecuencia los recibes dirigiéndote a tus Preferencias de notificación. Puedes saber más sobre el correo electrónico y las notificaciones, y cómo cambiar tus preferencias en nuestras .
+Realizamos estas actividades para proseguir con nuestro fin legítimo benéfico o cumplir nuestras obligaciones legales.
+
+Como ya se ha indicado, podemos usar tecnologías de ubicación de uso común para mostrarte contenidos más relevantes. Por ejemplo, nuestras aplicaciones móviles pueden identificar artículos de los sitios de Wikimedia sobre puntos de interés cerca de tu ubicación. Como recordatorio, puedes desactivar tu acceso a estas tecnologías de ubicación en cualquier momento, y aún así usar los Sitios de Wikimedia.
+Como ya se ha indicado, podemos recibir datos de localización automáticamente de tu dispositivo. Por ejemplo, si subes una foto utilizando la aplicación móvil de Wikimedia Commons, ten en cuenta que la configuración predeterminada en tu dispositivo móvil suele incluir en la carga los metadatos asociados con la foto. Como recordatorio, si no quieres que se nos envíen metadatos y que se hagan públicos en el momento de la carga, modifica la configuración de tu dispositivo.
+Cuando visitas un Sitio de Wikimedia, recibimos automáticamente la  del dispositivo (o tu servidor proxy) que estás utilizando para acceder a internet, que puede utilizarse para determinar tu ubicación geográfica. Conservamos las direcciones IP de forma confidencial, salvo según se dispone en esta Política. Si visitas Sitios de Wikimedia con tu dispositivo móvil, podemos usar tu dirección IP para proporcionar información anonimizada o agregada a proveedores de servicio con respecto al volumen de uso de determinadas áreas.
+Utilizamos esta información de ubicación para hacer que tu experiencia con los Sitios de Wikimedia sea más segura y mejor, obtener una mejor comprensión de las preferencias del usuario y su interacción con los Sitios de Wikimedia y mejorar, de forma general, nuestros servicios. Por ejemplo, usamos esta información para proporcionar una mayor seguridad, optimizar aplicaciones móviles, y aprender cómo ampliar y respaldar mejor las comunidades de Wikimedia. Podemos usar nuestra Información personal de la forma descrita en las secciones de esta Política tituladas “Por motivos legales” y “Para protegerte a ti, a nosotros y a terceros”.
+
+
+Podemos compartir tu información cuando nos das permiso específico para ello, por motivos legales, y por otras circunstancias que se describen a continuación.
+
+Compartimos tu información cuando nos das permiso específico para hacerlo.
+Compartimos tu información con un fin específico, si estás de acuerdo. Puedes encontrar más información en la lista de ejemplos de nuestras .
+
+Revelaremos tu información en respuesta a un proceso legal oficial solamente si creemos que es válido legalmente. Te notificaremos estas solicitudes cuando sea posible.
+Accederemos, usaremos, conservaremos o revelaremos tu Información personal si consideramos razonablemente que es necesario para satisfacer una orden, citación, decisión judicial, legislación o normativa, de carácter válido y legalmente aplicable, u otra orden judicial o administrativa. No obstante, si creemos que una solicitud específica de divulgación de la información de un usuario es legalmente inválida o un abuso del sistema legal y los usuarios afectados no pretenden oponerse a la propia divulgación, intentaremos hacer lo mejor posible para luchar contra esto. Estamos comprometidos a notificarte a través de correo electrónico con antelación de al menos diez (10) días naturales, cuando sea posible, antes de que revelemos tu Información personal en respuesta a una exigencia legal. No obstante, solo lo notificaremos si no nos encontramos en una situación de restricción legal para contactarte, no hay una amenaza creíble contra la vida o la integridad física que se cree o aumente al revelar la solicitud, y nos has facilitado una dirección de correo electrónico.
+Nada de lo contenido en esta política de privacidad está destinado a limitar las objeciones o defensas legales que puedas tener a solicitud de un tercero (ya sea civil, penal u oficial) de revelar tu información. Te recomendamos solicitar la ayuda de un abogado inmediatamente si se produce una solicitud de ese tipo que te afecte.
+Para obtener más información, consulta .
+
+En el improbable caso de que cambiase la propiedad de la Fundación, te avisaremos con 30 días de antelación antes de transferir información personal a los nuevos propietarios o de someterla a una política de privacidad distinta.
+En el extremadamente improbable caso de que cambiase la propiedad de toda o sustancialmente toda la Fundación, o de que suframos una reorganización (como una fusión, consolidación o adquisición), continuaremos manteniendo la confidencialidad de tu información personal, salvo lo dispuesto en esta Política, y te notificaremos a través de los Sitios de Wikimedia y una notificación en  o lista de correo similar con una antelación mínima de treinta (30) días naturales antes de transferir cualquier información personal o de someterla a una política de privacidad distinta.
+
+Nosotros, o los usuarios con ciertos derechos administrativos, podemos revelar información que sea razonablemente necesaria para:
+Nosotros, o usuarios particulares con ciertos derechos administrativos, según se ha descrito, podemos tener que compartir tu información personal si se cree razonablemente que es necesario para hacer valer o investigar posibles violaciones de nuestros , esta Política de privacidad o cualquier política de la Fundación Wikimedia o de la comunidad. También es posible que necesitemos acceder y compartir información para investigar y defendernos contra amenazas o acciones legales.
+Los Sitios de Wikimedia son colaborativos, y son los usuarios los que redactan la mayoría de las políticas y seleccionan entre ellos las personas que tienen ciertos derechos administrativos. Estos derechos pueden incluir el acceso a cantidades limitadas de información no pública sobre contribuciones recientes y actividad de otros usuarios. Pueden usar este acceso para permitir la protección contra el vandalismo y el abuso, luchar contra el acoso de otros usuarios, y generalmente intentar minimizar el comportamiento disruptor de los Sitios de Wikimedia. Estos grupos administrativos diversos seleccionados por usuarios tienen sus propias directrices de privacidad y confidencialidad, pero todos esos grupos han de mostrar su acuerdo y respetar nuestra . Estos grupos administrativos seleccionados por usuarios son responsables ante otros usuarios a través de controles y balances: los usuarios son seleccionados a través de un proceso impulsado por la comunidad y supervisados por sus compañeros a través de un historial registrado de sus acciones. No obstante, los nombres legales de estos usuarios no son conocidos por la Fundación Wikimedia.
+Esperamos que nunca suceda, pero podemos revelar tu Información personal si creemos que es razonablemente necesario para evitar una lesión personal grave e inminente o el fallecimiento de una persona, o para proteger a nuestra organización, empleados, contratistas, usuarios o el público. También podemos revelar tu Información personal si creemos razonablemente que es necesario para detectar, prevenir o evaluar de otra forma y hacer frente al spam, malware, fraude, abuso, actividad ilícita y cuestiones de seguridad o técnicas. (Comprueba la lista de ejemplos en nuestras  para obtener más información.)
+
+Podemos revelar información personal a nuestros proveedores de servicio o contratistas terceros para ayudarnos a gestionar o mejorar los Sitios de Wikimedia y proporcionar servicios de apoyo a nuestra misión.
+Aunque lo intentemos de verdad, no podemos hacerlo todo. Así que a veces usamos proveedores de servicio o contratistas terceros que nos ayudan a gestionar o mejorar los Sitios de Wikimedia para ti y otros usuarios. Damos acceso a tu información personal a estos proveedores o contratistas según sea necesario para prestarnos sus servicios o para usar sus herramientas y servicios. Introducimos requisitos, como acuerdos de confidencialidad, para garantizar que estos proveedores de servicios traten tu información de forma coherente y no menos protectora de tu privacidad que los principios de esta Política. (Comprueba la lista de ejemplos en nuestras .)
+Si visitas Sitios de Wikimedia con tu dispositivo móvil, usamos tu dirección IP para proporcionar información anonimizada o agregada a proveedores de servicio con respecto al volumen de uso en determinadas zonas.
+
+El software de código abierto que utilizan los Sitios de Wikimedia depende de las contribuciones de desarrolladores de software voluntarios, que dedican tiempo a escribir y probar el código para ayudar a mejorarlo y evolucionarlo según las necesidades de nuestros usuarios. Para facilitar su trabajo, damos a algunos desarrolladores acceso limitado a sistemas de contienen tu información personal, pero solo según sea razonablemente necesario para que puedan desarrollar y contribuir a los Sitios de Wikimedia. 
+De igual forma, compartimos Información no personal o información agregada con investigadores, alumnos, académicos y otros terceros interesados que desean estudiar los Sitios de Wikimedia. Compartir esta información les ayuda a comprender las estadísticas y pautas de uso, visualización y demográficas. Pueden compartir sus resultados con nosotros y nuestros usuarios para que todos podamos comprender mejor y mejorar los Sitios de Wikimedia.
+Cuando le damos acceso a información personal a los terceros desarrolladores o investigadores, introducimos requisitos, como protecciones contractuales y técnicas razonables, para ayudarte a asegurar que estos proveedores de servicio tratan tu información de manera consistente con los principios de esta Política y de conformidad con nuestras instrucciones. Si estos desarrolladores o investigadores publican después su trabajo o resultados, les pedimos que no revelen tu información personal. Ten en cuenta que, pese a las obligaciones que imponemos a los desarrolladores e investigadores, no podemos garantizar que cumplan nuestro acuerdo, ni garantizamos que revisaremos o auditaremos de forma periódica sus proyectos. (Puedes saber más sobre la reidentificación en nuestras
+.)
+
+La información que publicas es pública y puede verla y utilizarla cualquier persona.
+Cualquier información que publicas de forma pública en los Sitios de Wikimedia es justamente eso: pública. Por ejemplo, si pones tu dirección de correo en tu página de discusión, que es pública, y no protegida por esta Política. Y si editas sin registrarte o iniciar sesión en tu cuenta, se publicará tu dirección IP. Piensa con cuidado cuál es el nivel de anonimato deseado antes de revelar información personal en tu página de usuario o en otro sitio.
+
+
+
+Usamos una variedad de medidas, políticas y procedimientos físicos y técnicos para ayudarte a proteger tu información frente al acceso, el uso o la divulgación no autorizados.
+Trabajamos para proteger tu información frente al acceso, el uso o la divulgación no autorizados. Utilizamos una variedad de medidas, políticas y procedimientos físicos y técnicos (como los procedimientos de control de acceso, cortafuegos de red y seguridad física) diseñados para proteger nuestros sistemas y tu Información personal. Lamentablemente, no existe una transmisión o almacenamiento de datos seguros, por lo que no podemos garantizar que nuestra seguridad no se verá vulnerada (con medidas técnicas o a través de la violación de nuestras políticas y procedimientos).
+Nunca te pediremos tu contraseña por correo electrónico (pero podemos enviarte una contraseña temporal por correo electrónico si has solicitado un restablecimiento de contraseña). Si alguna vez recibes un correo electrónico que solicita tu contraseña, 
+
+Salvo cuando se indique lo contrario en esta política, solo conservamos tu información personal durante el tiempo que sea necesario para mantener, comprender y mejorar los Sitios de Wikimedia o para cumplir la legislación de los EE. UU.
+Una vez que recibamos información personal de ti, la mantenemos durante el mínimo tiempo posible que sea coherente con el mantenimiento, la comprensión y la mejora de los Sitios de Wikimedia, y nuestras obligaciones en virtud de la legislación aplicable de los EE. UU. La información no personal se puede conservar de forma indefinida. (Comprueba la lista de ejemplos en nuestras .)
+
+Recuerda que cierta información, como tu  (si editas sin iniciar sesión) y cualquier contribución pública a los Sitios de Wikimedia, se archiva y muestra de forma indefinida por diseño; la transparencia de la contribución de los proyectos y los historiales de revisión son críticas para su eficacia y fiabilidad. Para conocer más sobre nuestras políticas de conservación, consulta nuestras . Para más información sobre cómo puedes solicitar acceso o suprimir tu información personal, u otros derechos que te puedan asistir con respecto a tu información personal, consulta nuestras .
+
+
+
+La Fundación Wikimedia es una organización sin ánimo de lucro con sede en San Francisco, California, con servidores y centros de datos situados en los EE. UU. Si decides usar los Sitios de Wikimedia, tanto desde dentro como desde fuera de los EE. UU., comprendes que puede recogerse, transferirse, almacenarse, tratarse, revelarse y usarse de cualquier otra forma tu información personal en los EE. UU. según se describe en esta Política de privacidad. También comprendes que podemos transferir tu información de los EE. UU. a otros países, que pueden tener unas leyes de protección de datos distintas o menos estrictas que tu país, en relación con nuestra prestación de servicios a ti.
+
+No permitimos el seguimiento de sitios web de terceros que hayas visitado.
+No compartimos tus datos con terceros con fines de marketing.
+Estamos muy comprometidos con no compartir información no pública e Información personal con terceros. En concreto, no permitimos el seguimiento de sitios web de terceros que no hayas visitado (incluidos servicios de análisis, redes de publicidad y plataformas sociales), ni tampoco compartimos tu Información personal con terceros con fines de publicidad. En virtud de la presente Política, podemos compartir tu información solamente en determinadas situaciones, sobre las que puedes saber más en la sección "" en esta Política de privacidad.
+Como protegemos a todos los usuarios de esta forma, no cambiamos nuestro comportamiento en respuesta a una señal de No rastrear de un navegador web.
+Para más información sobre las señales de No rastrear y cómo las gestionamos, visita nuestras .
+
+No se harán cambios sustanciales en esta Política hasta después de un periodo mínimo de comentario público de 30 días.
+Como es natural que las cosas cambien con el tiempo y deseamos garantizar que nuestra Política de privacidad refleje de forma precisa nuestras prácticas y la legislación, puede ser necesario modificar esta Política de privacidad en algún momento. Nos reservamos el derecho a hacerlo de la siguiente forma:
+Te pedimos que revises la versión más reciente de nuestra . El uso continuado de los Sitios de Wikimedia después de que esta Política de Privacidad entre en vigor constituye la aceptación de esta Política de Privacidad por su parte. El uso continuado de los Sitios de Wikimedia después de que cualquier versión posterior de esta Política de Privacidad entre en vigor, siguiendo el aviso descrito anteriormente, constituye la aceptación de esa versión de la Política de Privacidad de su parte.
+
+Si tienes preguntas o sugerencias sobre esta Política de privacidad, o la información recogida en virtud de la misma, envíanos un correo electrónico a  o  directamente.
+Dependiendo de su jurisdicción, también puede tener derecho a presentar una reclamación ante una autoridad supervisora competente para su región o país.
+
+Gracias por leer nuestra Política de privacidad. Esperamos que disfrutes usando los Sitios de Wikimedia y apreciamos tu participación a la hora de crear, mantener y trabajar constantemente para mejorar el mayor repositorio de conocimiento gratuito del mundo.
+
+
+
+
+
+
+
+
+
+La Fundación Wikimedia es la organización sin ánimo de lucro que gestiona sitios web colaborativos de conocimiento libre, como ,  y .  
+Esta Política explica la forma en que recogemos, usamos y compartimos tu información personal. 
+Al usar los Sitios de Wikimedia, prestas tu consentimiento a esta Política.
+El movimiento de Wikimedia se fundamenta en un principio sencillo pero poderoso: podemos hacer más juntos de lo que cualquiera de nosotros puede hacer solo. No podemos trabajar de forma colectiva sin recopilar, compartir y analizar información sobre nuestros usuarios ya que buscamos nuevas formas de hacer que los Sitios de Wikimedia sean más útiles, seguros y beneficiosos.
+Creemos que la recopilación y el uso de información deben ir de la mano de la transparencia. Esta Política de privacidad explica cómo la Fundación Wikimedia, la organización sin ánimo de lucro que aloja los Sitios de Wikimedia, como Wikipedia, recoge, usa y comparte información que recibimos de ti a través del uso de los sitios de Wikimedia. Es esencial que comprendas que, al usar los Sitios de Wikimedia, prestas consentimiento a la recogida, transferencia, tratamiento, almacenamiento, divulgación y uso de tu información personal según se describe en esta Política de privacidad. Esto quiere decir que es importante leer atentamente esta Política. 
+Creemos que no tienes que proporcionar información personal no pública para participar en el movimiento del conocimiento libre. No tienes que proporcionar datos como tu nombre real, dirección o fecha de nacimiento para crear una cuenta estándar o contribuir con contenido a los Sitios de Wikimedia.
+No vendemos o alquilamos tu información personal, ni tampoco se la damos a otros para venderte nada. La usamos para conocer cómo podemos hacer que los Sitios de Wikimedia sean más atractivos y accesibles, para ver qué ideas funcionan, y hacer que aprender y contribuir sea más divertido. Por decirlo de manera más sencilla: usamos esta información para hacer que los Sitios de Wikimedia sean mejores para ti.
+Después de todo, son las personas como tú, los campeones del conocimiento libre, las que hacen posible que los Sitios de Wikimedia no solo existan, sino que también crezcan y prosperen.
+
+Reconocemos que solo una minoría de vosotros está familiarizada con términos técnicos como "píxeles de seguimiento" y "cookies" utilizados en la Política de privacidad. Ya seas nuevo en la terminología de privacidad o seas un experto que solo quiere un repaso, puedes encontrar útil nuestro .
+Como cualquier persona (y no solo los abogados) debe poder comprender con facilidad cómo y por qué se recoge y usa su información, por lo cual en esta política utilizamos un lenguaje común en lugar de términos más formales. Para ayudarte a comprender algunos términos fundamentales específicos, aquí tienes una tabla con las traducciones:
+
+
+Excepto según se explica a continuación, esta Política de privacidad se aplica a nuestra recogida y tratamiento de información sobre ti que recibimos a consecuencia de tu uso de cualquiera de los Sitios de Wikimedia. Esta Política se aplica también a la información que recibimos de nuestros socios o de terceros. Para conocer más sobre lo que incluye la Política de privacidad, consulta a continuación.
+En aras de la claridad, esta Política de privacidad cubre, independientemente del idioma:
+Esta Política de privacidad, no obstante, no cubre algunas situaciones en las que podemos recopilar o procesar información. Por ejemplo, algunos usos pueden estar cubiertos por políticas de privacidad separadas (como las de la ) o sitios o servicios gestionados por terceros (como los proyectos desarrollados por terceros en los ). Para conocer más sobre lo que no cubre esta Política de privacidad, consulta a continuación.
+
+Esta sección forma parte de la Política de privacidad y tiene por objeto explicar en detalle qué situaciones no están cubiertas por nuestra Política de privacidad.
+A veces, los voluntarios pueden colocar una herramienta de recopilación de datos, como un script, un gadget, un píxel de seguimiento o un botón para compartir, en un sitio de Wikimedia sin nuestro conocimiento. Esta Política no cubre cómo los terceros manejan la información que reciben como resultado de dicha herramienta. Si se encuentra con una herramienta de terceros y cree que infringe esta Política, puede eliminarla usted mismo o informar a privacy(a)wikimedia.org para que podamos investigar.
+Cuando las políticas de la comunidad regulan la información, como la , la comunidad pertinente puede añadir a las normas y obligaciones establecidas en esta Política. No obstante, no pueden crear nuevas excepciones o reducir de otra forma las protecciones que ofrece esta Política.
+
+
+
+Sea lo que sea que publiques en Sitios de Wikimedia puede ser visto y comprobado por cualquier persona.
+Cuando haces una contribución a cualquier Sitio de Wikimedia, incluyendo en páginas de usuario o discusión, estás creando un registro público y permanente de cada pieza de contenido que añades, retiras o modificas. El historial de la página mostrará cuándo se ha realizado tu contribución o eliminación, al igual que tu nombre de usuario (si has iniciado sesión) o tu  (si no has iniciado sesión). Podemos usar tus contribuciones públicas, bien sea agregadas a las contribuciones públicas de otros o individualmente, para crear nuevas características o productos relacionados con los datos para ti o para saber más sobre cómo se usan los Sitios de Wikimedia.
+Salvo que esta Política diga lo contrario, debes asumir que la información con la que contribuyes activamente a los Sitios de Wikimedia, incluida la Información personal, está públicamente visible y puede encontrarse en los motores de búsqueda. Igual que muchas cosas en internet, todo lo que compartas puede copiarse y redistribuirse a través de internet por otras personas. No contribuyas con información que no te sientas cómodo haciendo pública de forma permanente, como revelar tu nombre real o tu ubicación en tus contribuciones.
+Debes tener en cuenta que cualquiera peude utilizar los datos específicos hechos públicos por ti o los datos agregados que se hacen públicos por nosotros para analizar e inferir información adicional, como de qué país es un usuario, o su afiliación política o sexo.
+
+No es necesario que crees una cuenta para usar un Sitio de Wikimedia.
+Si creas una cuenta, no es necesario que nos des tu nombre o dirección de correo electrónico.
+Si no creas una cuenta, tus contribuciones se atribuirán públicamente a tu .
+¿Quieres crear una cuenta? ¡Genial! ¿No quieres crear una cuenta? ¡Sin problema!
+
+No estás obligado a crear una cuenta para leer o contribuir en un Sitio de Wikimedia, salvo en . Sin embargo, si contribuyes sin iniciar sesión, tus contribuciones se atribuirán públicamente a la  asociada con tu dispositivo.
+
+Si quieres crear una , en la mayoría de los casos solo necesitaremos un nombre de usuario y una contraseña.
+Tu nombre de usuario será visible públicamente, así que ten cuidado con usar tu nombre real como nombre de usuario. Tu contraseña solo se usará para verificar que la cuenta es tuya. Se enviará también automáticamente tu , y la registraremos temporalmente para evitar el abuso. No es necesaria ninguna información personal adicional: ni nombre, ni dirección de correo electrónico, ni fecha de nacimiento, ni información sobre tarjeta de crédito.
+Una vez creadas, las cuentas de usuario no se pueden eliminar en su totalidad (aunque generalmente puedes ocultar la información en tu página de usuario si así lo eliges). Esto se debe a que tus contribuciones públicas deben estar asociadas con su autor (es decir, ¡tú!). En determinadas circunstancias, las comunidades de Wikimedia pueden ayudar a los usuarios a eliminar la información adicional relacionada con su cuenta de los proyectos, a través del .
+Para conocer mejor la información demográfica de nuestros usuarios, efectuar la localización de nuestros servicios y conocer cómo mejorar nuestros servicios, podemos pedirte más información demográfica, como sexo o edad. Te indicaremos si esa información está destinada a ser pública o privada, para que puedas adoptar una decisión informada sobre si deseas facilitarnos esa información. Proporcionar esa información será siempre opcional. Si no quieres, no tienes que hacerlo; tan sencillo como eso.
+
+
+Algunas características que ofrecemos funcionan mejor si sabemos en que zona te encuentras.
+Si das tu consentimiento, podemos usar  (y otras tecnologías comúnmente utilizadas para determinar la localización) para mostrarte contenido más relevante. Conservamos la información obtenida con estas tecnologías de forma confidencial, salvo según se dispone en esta Política. Puedes saber más comprobando la lista de ejemplos sobre cómo usamos estas tecnologías en nuestras .
+
+A veces recibimos datos de localización automáticamente de tu dispositivo. Por ejemplo, si quieres subir una foto a la aplicación móvil de Wikimedia Commons, podemos recibir , como el lugar y la hora en la que se tomó la foto, automáticamente de tu dispositivo. Ten en cuenta que, al contrario de la información de ubicación recogida a través de las señales GPS que se ha descrito, el ajuste predeterminado de tu dispositivo móvil suele incluir datos en la carga de tu foto o vídeo a los Sitios de Wikimedia. Si no quieres que se nos envíen metadatos y que se hagan públicos en el momento de la carga, modifica la configuración de tu dispositivo.
+
+Finalmente, cuando visitas un Sitio de Wikimedia, recibimos automáticamente la  del dispositivo (o tu ) que estás utilizando para acceder a Internet, que puede utilizarse para .
+
+Utilizamos ciertas tecnologías para recoger información sobre la forma en que usas los Sitios de Wikimedia.
+Como otros sitios web, recibimos cierta información sobre ti automáticamente cuando visitas los Sitios de Wikimedia.
+También usamos una variedad de tecnologías de uso habitual, como cookies, para recoger información relativa a la forma en que usas los Sitios de Wikimedia, hacer que nuestros servicios sean más seguros y fáciles de usar, y ayudarnos a crear una experiencia mejor y más personalizable para ti.
+Queremos que los Sitios de Wikimedia sean mejores para ti aprendiendo más sobre cómo los usas. Entre los ejemplos podríamos incluir la frecuencia con la que visitas los Sitios de Wikimedia, qué te gusta, qué encuentras útil, cómo llegas a los Sitios de Wikimedia, y si utilizarías alguna característica útil con más frecuencia si se explicara de forma diferente. También queremos que esta Política y nuestras prácticas reflejen los valores de nuestra comunidad. Por este motivo, conservamos la información relacionada con tu uso de los Sitios de Wikimedia de forma confidencial, salvo según se prevé en esta Política.
+
+Debido a cómo funcionan los navegadores, recibimos cierta información sobre ti automáticamente cuando visitas los Sitios de Wikimedia. Esta información incluye el tipo de dispositivo que estás usando (posiblemente incluyendo el número de identificación único del dispositivo, para algunas versiones beta de nuestras aplicaciones móviles), el tipo y la versión de tu , la preferencia de idioma de tu navegador, el tipo y la versión del  de tu dispositivo, en algunos casos el nombre de tu proveedor de servicios de Internet u operador móvil, el sitio web que te remitió a los Sitios de Wikimedia, las páginas que solicitaste y visitaste, así como la fecha y la hora de cada solicitud que formulaste a los Sitios de Wikimedia.
+De forma sencilla, utilizamos esta información para mejorar tu experiencia con los Sitios de Wikimedia. Por ejemplo, usamos esta información para administrar los sitios, proporcionar mayor seguridad y luchar contra el vandalismo; optimizar las aplicaciones móviles, personalizar el contenido y establecer preferencias de idioma, probar las características para ver qué funciona y mejorar el rendimiento; comprender cómo interactúan los usuarios con los Sitios de Wikimedia, registrar y estudiar el uso de diversas características, comprender mejor cuál es la demografía de los distintos Sitios de Wikimedia y analizar tendencias.
+
+Usamos una variedad de tecnologías de uso habitual, como cookies, para comprender la forma en que usas los Sitios de Wikimedia, hacer que nuestros servicios sean más seguros y fáciles de usar, y ayudarnos a crear una experiencia mejor y más personalizable para ti.
+Recogemos activamente algunos tipos de información con una diversidad de tecnologías de uso habitual. Entre estas se incluyen, por lo general, , , y una serie de tecnologías de “datos almacenados localmente”, como las  y el . Comprendemos que algunas de estas tecnologías no tienen la mejor reputación del mundo y pueden usarse con fines menos nobles. Por eso queremos dejar claro por qué utilizamos estos métodos y el tipo de información que recogemos con ellas.
+Dependiendo de la tecnología que usemos, los datos almacenados localmente pueden ser cualquier cosa desde texto, imágenes o artículos enteros (como se explica a continuación) a Información personal (como tu ) e información sobre tu uso de los Sitios de Wikimedia (como tu nombre de usuario o la hora de tu visita).
+Utilizamos esta información para hacer que tu experiencia con los Sitios de Wikimedia sea más segura y mejor, obtener una mejor comprensión de las preferencias del usuario y su interacción con los Sitios de Wikimedia y mejorar, de forma general, nuestros servicios. Nunca utilizaremos cookies de terceros, salvo que tengamos tu consentimiento para ello. Si en algún momento encuentras una herramienta de recogida de datos de terceros que no haya sido autorizada por ti (como la que puede haber sido colocada por error por otro usuario o administrador), notifícalo a través del correo . 
+Los datos almacenados localmente, JavaScript y píxeles de seguimiento nos ayudan a hacer cosas como:
+
+¿Quieres saber aun más? Puedes leer más sobre algunas de las cookies específicas que usamos, cuándo caducan y para qué las usamos en nuestras .
+
+Creemos que esta recogida de datos nos ayuda a mejorar tu experiencia de usuario, pero puedes quitar o deshabilitar algunos o todos los datos almacenados localmente en la configuración de tu navegador, dependiendo de tu navegador. Puedes saber más sobre algunas opciones que tienes en nuestras . Aunque los datos almacenados localmente pueden no ser necesarios para utilizar nuestros sitios, algunas características no funcionarán adecuadamente si desactivas los datos almacenados localmente.
+
+Mientras que los ejemplos anteriores que afectan a la información sobre ti recogida gracias al uso de herramientas de recogida de datos se mantienen confidenciales de conformidad con esta Política, ten en cuenta que alguna información sobre las acciones adoptadas por tu nombre de usuario se ponen a disposición pública a través de  junto con las acciones adoptadas por otros usuarios. Por ejemplo, un registro público puede incluir la fecha en la que se creó tu cuenta en un Sitio de Wikimedia junto con las fechas en las que se crearon otras cuentas en un Sitio de Wikimedia.
+
+Nosotros y nuestros proveedores de servicio utilizamos tu información para el fin legítimo de llevar a cabo nuestra misión benéfica, incluyendo:
+Realizamos estas actividades para gestionar nuestra relación contigo, porque tenemos un interés legítimo o cumplimos nuestras obligaciones legales.
+Personalizaremos los Servicios, en algunos casos, según nos indiques; en todos los casos, para mantener nuestro fin legítimo benéfico de perseguir nuestra misión.
+Te enviaremos estos tipos de correos electrónicos con tu consentimiento. No vendemos, alquilamos o usamos tu dirección de correo electrónico para publicitar productos o servicios de terceros. Puedes gestionar qué tipos de notificaciones recibes y con qué frecuencia los recibes dirigiéndote a tus Preferencias de notificación. Puedes saber más sobre el correo electrónico y las notificaciones, y cómo cambiar tus preferencias en nuestras .
+Siempre te diremos, en el momento en que te demos una oportunidad para compartir lo que piensas, cómo planeamos utilizar tus respuestas y cualquier información personal que proporciones.  
+Tus respuestas a nuestras encuestas y solicitudes de comentarios son siempre opcionales. Te enviaremos por correo electrónico estos tipos de solicitudes únicamente con tu consentimiento. Puedes gestionar qué tipos de notificaciones recibes y con qué frecuencia los recibes dirigiéndote a tus Preferencias de notificación. Puedes saber más sobre el correo electrónico y las notificaciones, y cómo cambiar tus preferencias en nuestras .
+Realizamos estas actividades para proseguir con nuestro fin legítimo benéfico o cumplir nuestras obligaciones legales.
+
+Como ya se ha indicado, podemos usar tecnologías de ubicación de uso común para mostrarte contenidos más relevantes. Por ejemplo, nuestras aplicaciones móviles pueden identificar artículos de los sitios de Wikimedia sobre puntos de interés cerca de tu ubicación. Como recordatorio, puedes desactivar tu acceso a estas tecnologías de ubicación en cualquier momento, y aún así usar los Sitios de Wikimedia.
+Como ya se ha indicado, podemos recibir datos de localización automáticamente de tu dispositivo. Por ejemplo, si subes una foto utilizando la aplicación móvil de Wikimedia Commons, ten en cuenta que la configuración predeterminada en tu dispositivo móvil suele incluir en la carga los metadatos asociados con la foto. Como recordatorio, si no quieres que se nos envíen metadatos y que se hagan públicos en el momento de la carga, modifica la configuración de tu dispositivo.
+Cuando visitas un Sitio de Wikimedia, recibimos automáticamente la  del dispositivo (o tu servidor proxy) que estás utilizando para acceder a internet, que puede utilizarse para determinar tu ubicación geográfica. Conservamos las direcciones IP de forma confidencial, salvo según se dispone en esta Política. Si visitas Sitios de Wikimedia con tu dispositivo móvil, podemos usar tu dirección IP para proporcionar información anonimizada o agregada a proveedores de servicio con respecto al volumen de uso de determinadas áreas.
+Utilizamos esta información de ubicación para hacer que tu experiencia con los Sitios de Wikimedia sea más segura y mejor, obtener una mejor comprensión de las preferencias del usuario y su interacción con los Sitios de Wikimedia y mejorar, de forma general, nuestros servicios. Por ejemplo, usamos esta información para proporcionar una mayor seguridad, optimizar aplicaciones móviles, y aprender cómo ampliar y respaldar mejor las comunidades de Wikimedia. Podemos usar nuestra Información personal de la forma descrita en las secciones de esta Política tituladas “Por motivos legales” y “Para protegerte a ti, a nosotros y a terceros”.
+
+
+Podemos compartir tu información cuando nos das permiso específico para ello, por motivos legales, y por otras circunstancias que se describen a continuación.
+
+Compartimos tu información cuando nos das permiso específico para hacerlo.
+Compartimos tu información con un fin específico, si estás de acuerdo. Puedes encontrar más información en la lista de ejemplos de nuestras .
+
+Revelaremos tu información en respuesta a un proceso legal oficial solamente si creemos que es válido legalmente. Te notificaremos estas solicitudes cuando sea posible.
+Accederemos, usaremos, conservaremos o revelaremos tu Información personal si consideramos razonablemente que es necesario para satisfacer una orden, citación, decisión judicial, legislación o normativa, de carácter válido y legalmente aplicable, u otra orden judicial o administrativa. No obstante, si creemos que una solicitud específica de divulgación de la información de un usuario es legalmente inválida o un abuso del sistema legal y los usuarios afectados no pretenden oponerse a la propia divulgación, intentaremos hacer lo mejor posible para luchar contra esto. Estamos comprometidos a notificarte a través de correo electrónico con antelación de al menos diez (10) días naturales, cuando sea posible, antes de que revelemos tu Información personal en respuesta a una exigencia legal. No obstante, solo lo notificaremos si no nos encontramos en una situación de restricción legal para contactarte, no hay una amenaza creíble contra la vida o la integridad física que se cree o aumente al revelar la solicitud, y nos has facilitado una dirección de correo electrónico.
+Nada de lo contenido en esta política de privacidad está destinado a limitar las objeciones o defensas legales que puedas tener a solicitud de un tercero (ya sea civil, penal u oficial) de revelar tu información. Te recomendamos solicitar la ayuda de un abogado inmediatamente si se produce una solicitud de ese tipo que te afecte.
+Para obtener más información, consulta .
+
+En el improbable caso de que cambiase la propiedad de la Fundación, te avisaremos con 30 días de antelación antes de transferir información personal a los nuevos propietarios o de someterla a una política de privacidad distinta.
+En el extremadamente improbable caso de que cambiase la propiedad de toda o sustancialmente toda la Fundación, o de que suframos una reorganización (como una fusión, consolidación o adquisición), continuaremos manteniendo la confidencialidad de tu información personal, salvo lo dispuesto en esta Política, y te notificaremos a través de los Sitios de Wikimedia y una notificación en  o lista de correo similar con una antelación mínima de treinta (30) días naturales antes de transferir cualquier información personal o de someterla a una política de privacidad distinta.
+
+Nosotros, o los usuarios con ciertos derechos administrativos, podemos revelar información que sea razonablemente necesaria para:
+Nosotros, o usuarios particulares con ciertos derechos administrativos, según se ha descrito, podemos tener que compartir tu información personal si se cree razonablemente que es necesario para hacer valer o investigar posibles violaciones de nuestros , esta Política de privacidad o cualquier política de la Fundación Wikimedia o de la comunidad. También es posible que necesitemos acceder y compartir información para investigar y defendernos contra amenazas o acciones legales.
+Los Sitios de Wikimedia son colaborativos, y son los usuarios los que redactan la mayoría de las políticas y seleccionan entre ellos las personas que tienen ciertos derechos administrativos. Estos derechos pueden incluir el acceso a cantidades limitadas de información no pública sobre contribuciones recientes y actividad de otros usuarios. Pueden usar este acceso para permitir la protección contra el vandalismo y el abuso, luchar contra el acoso de otros usuarios, y generalmente intentar minimizar el comportamiento disruptor de los Sitios de Wikimedia. Estos grupos administrativos diversos seleccionados por usuarios tienen sus propias directrices de privacidad y confidencialidad, pero todos esos grupos han de mostrar su acuerdo y respetar nuestra . Estos grupos administrativos seleccionados por usuarios son responsables ante otros usuarios a través de controles y balances: los usuarios son seleccionados a través de un proceso impulsado por la comunidad y supervisados por sus compañeros a través de un historial registrado de sus acciones. No obstante, los nombres legales de estos usuarios no son conocidos por la Fundación Wikimedia.
+Esperamos que nunca suceda, pero podemos revelar tu Información personal si creemos que es razonablemente necesario para evitar una lesión personal grave e inminente o el fallecimiento de una persona, o para proteger a nuestra organización, empleados, contratistas, usuarios o el público. También podemos revelar tu Información personal si creemos razonablemente que es necesario para detectar, prevenir o evaluar de otra forma y hacer frente al spam, malware, fraude, abuso, actividad ilícita y cuestiones de seguridad o técnicas. (Comprueba la lista de ejemplos en nuestras  para obtener más información.)
+
+Podemos revelar información personal a nuestros proveedores de servicio o contratistas terceros para ayudarnos a gestionar o mejorar los Sitios de Wikimedia y proporcionar servicios de apoyo a nuestra misión.
+Aunque lo intentemos de verdad, no podemos hacerlo todo. Así que a veces usamos proveedores de servicio o contratistas terceros que nos ayudan a gestionar o mejorar los Sitios de Wikimedia para ti y otros usuarios. Damos acceso a tu información personal a estos proveedores o contratistas según sea necesario para prestarnos sus servicios o para usar sus herramientas y servicios. Introducimos requisitos, como acuerdos de confidencialidad, para garantizar que estos proveedores de servicios traten tu información de forma coherente y no menos protectora de tu privacidad que los principios de esta Política. (Comprueba la lista de ejemplos en nuestras .)
+Si visitas Sitios de Wikimedia con tu dispositivo móvil, usamos tu dirección IP para proporcionar información anonimizada o agregada a proveedores de servicio con respecto al volumen de uso en determinadas zonas.
+
+El software de código abierto que utilizan los Sitios de Wikimedia depende de las contribuciones de desarrolladores de software voluntarios, que dedican tiempo a escribir y probar el código para ayudar a mejorarlo y evolucionarlo según las necesidades de nuestros usuarios. Para facilitar su trabajo, damos a algunos desarrolladores acceso limitado a sistemas de contienen tu información personal, pero solo según sea razonablemente necesario para que puedan desarrollar y contribuir a los Sitios de Wikimedia. 
+De igual forma, compartimos Información no personal o información agregada con investigadores, alumnos, académicos y otros terceros interesados que desean estudiar los Sitios de Wikimedia. Compartir esta información les ayuda a comprender las estadísticas y pautas de uso, visualización y demográficas. Pueden compartir sus resultados con nosotros y nuestros usuarios para que todos podamos comprender mejor y mejorar los Sitios de Wikimedia.
+Cuando le damos acceso a información personal a los terceros desarrolladores o investigadores, introducimos requisitos, como protecciones contractuales y técnicas razonables, para ayudarte a asegurar que estos proveedores de servicio tratan tu información de manera consistente con los principios de esta Política y de conformidad con nuestras instrucciones. Si estos desarrolladores o investigadores publican después su trabajo o resultados, les pedimos que no revelen tu información personal. Ten en cuenta que, pese a las obligaciones que imponemos a los desarrolladores e investigadores, no podemos garantizar que cumplan nuestro acuerdo, ni garantizamos que revisaremos o auditaremos de forma periódica sus proyectos. (Puedes saber más sobre la reidentificación en nuestras
+.)
+
+La información que publicas es pública y puede verla y utilizarla cualquier persona.
+Cualquier información que publicas de forma pública en los Sitios de Wikimedia es justamente eso: pública. Por ejemplo, si pones tu dirección de correo en tu página de discusión, que es pública, y no protegida por esta Política. Y si editas sin registrarte o iniciar sesión en tu cuenta, se publicará tu dirección IP. Piensa con cuidado cuál es el nivel de anonimato deseado antes de revelar información personal en tu página de usuario o en otro sitio.
+
+
+
+Usamos una variedad de medidas, políticas y procedimientos físicos y técnicos para ayudarte a proteger tu información frente al acceso, el uso o la divulgación no autorizados.
+Trabajamos para proteger tu información frente al acceso, el uso o la divulgación no autorizados. Utilizamos una variedad de medidas, políticas y procedimientos físicos y técnicos (como los procedimientos de control de acceso, cortafuegos de red y seguridad física) diseñados para proteger nuestros sistemas y tu Información personal. Lamentablemente, no existe una transmisión o almacenamiento de datos seguros, por lo que no podemos garantizar que nuestra seguridad no se verá vulnerada (con medidas técnicas o a través de la violación de nuestras políticas y procedimientos).
+Nunca te pediremos tu contraseña por correo electrónico (pero podemos enviarte una contraseña temporal por correo electrónico si has solicitado un restablecimiento de contraseña). Si alguna vez recibes un correo electrónico que solicita tu contraseña, 
+
+Salvo cuando se indique lo contrario en esta política, solo conservamos tu información personal durante el tiempo que sea necesario para mantener, comprender y mejorar los Sitios de Wikimedia o para cumplir la legislación de los EE. UU.
+Una vez que recibamos información personal de ti, la mantenemos durante el mínimo tiempo posible que sea coherente con el mantenimiento, la comprensión y la mejora de los Sitios de Wikimedia, y nuestras obligaciones en virtud de la legislación aplicable de los EE. UU. La información no personal se puede conservar de forma indefinida. (Comprueba la lista de ejemplos en nuestras .)
+
+Recuerda que cierta información, como tu  (si editas sin iniciar sesión) y cualquier contribución pública a los Sitios de Wikimedia, se archiva y muestra de forma indefinida por diseño; la transparencia de la contribución de los proyectos y los historiales de revisión son críticas para su eficacia y fiabilidad. Para conocer más sobre nuestras políticas de conservación, consulta nuestras . Para más información sobre cómo puedes solicitar acceso o suprimir tu información personal, u otros derechos que te puedan asistir con respecto a tu información personal, consulta nuestras .
+
+
+
+La Fundación Wikimedia es una organización sin ánimo de lucro con sede en San Francisco, California, con servidores y centros de datos situados en los EE. UU. Si decides usar los Sitios de Wikimedia, tanto desde dentro como desde fuera de los EE. UU., comprendes que puede recogerse, transferirse, almacenarse, tratarse, revelarse y usarse de cualquier otra forma tu información personal en los EE. UU. según se describe en esta Política de privacidad. También comprendes que podemos transferir tu información de los EE. UU. a otros países, que pueden tener unas leyes de protección de datos distintas o menos estrictas que tu país, en relación con nuestra prestación de servicios a ti.
+
+No permitimos el seguimiento de sitios web de terceros que hayas visitado.
+No compartimos tus datos con terceros con fines de marketing.
+Estamos muy comprometidos con no compartir información no pública e Información personal con terceros. En concreto, no permitimos el seguimiento de sitios web de terceros que no hayas visitado (incluidos servicios de análisis, redes de publicidad y plataformas sociales), ni tampoco compartimos tu Información personal con terceros con fines de publicidad. En virtud de la presente Política, podemos compartir tu información solamente en determinadas situaciones, sobre las que puedes saber más en la sección "" en esta Política de privacidad.
+Como protegemos a todos los usuarios de esta forma, no cambiamos nuestro comportamiento en respuesta a una señal de No rastrear de un navegador web.
+Para más información sobre las señales de No rastrear y cómo las gestionamos, visita nuestras .
+
+No se harán cambios sustanciales en esta Política hasta después de un periodo mínimo de comentario público de 30 días.
+Como es natural que las cosas cambien con el tiempo y deseamos garantizar que nuestra Política de privacidad refleje de forma precisa nuestras prácticas y la legislación, puede ser necesario modificar esta Política de privacidad en algún momento. Nos reservamos el derecho a hacerlo de la siguiente forma:
+Te pedimos que revises la versión más reciente de nuestra . El uso continuado de los Sitios de Wikimedia después de que esta Política de Privacidad entre en vigor constituye la aceptación de esta Política de Privacidad por su parte. El uso continuado de los Sitios de Wikimedia después de que cualquier versión posterior de esta Política de Privacidad entre en vigor, siguiendo el aviso descrito anteriormente, constituye la aceptación de esa versión de la Política de Privacidad de su parte.
+
+Si tienes preguntas o sugerencias sobre esta Política de privacidad, o la información recogida en virtud de la misma, envíanos un correo electrónico a  o  directamente.
+Dependiendo de su jurisdicción, también puede tener derecho a presentar una reclamación ante una autoridad supervisora competente para su región o país.
+
+Gracias por leer nuestra Política de privacidad. Esperamos que disfrutes usando los Sitios de Wikimedia y apreciamos tu participación a la hora de crear, mantener y trabajar constantemente para mejorar el mayor repositorio de conocimiento gratuito del mundo.
+
+
+	
+	
+	
+
+
+	
+	
+	
+		From Meta, a Wikimedia project coordination wiki
+		
+		
+		
+		
+		
+		
+		This page is a  of the page  and the translation is 100% complete.Other languages: • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎ • ‎
+
+
+ : PP
+
+
+
+Política de privacidad
+
+Este documento es un resumen del Borrador de Política de privacidad. Para leer los términos completos, desplázate hacia abajo o .
+Descargo de responsabilidad: Este resumen no forma parte de la Política de privacidad y no es un documento legal. Se trata simplemente de una referencia práctica para entender la Política de privacidad. Considérelo como una interfaz fácil de usar para la Política de privacidad.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Ejemplos de lo que cubre esta Política de privacidad
+
+Más sobre qué no cubre esta Política de privacidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Información visible públicamente
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Más sobre los nombres de usuario
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Más sobre los Datos Almacenados Localmente
+
+ 
+
+
+
+
+
+
+
+
+
+Gestionar los Sitios de Wikimedia, compartir tus contribuciones y administrar nuestros Servicios.
+Proporcionar servicios personalizados.
+Enviar correos electrónicos con actualizaciones de noticias, encuestas y comunicaciones sobre artículos que creemos que pueden ser de tu interés.
+Enviar encuestas opcionales y solicitar comentarios.
+Mejorar los Sitios de Wikimedia y hacer que tu experiencia de usuario sea más segura y mejor.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Páginas relativas a la privacidad
+
+
+
+
+
+
+
+
+
+
+		Retrieved from ""
+		: 
+		
+		
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

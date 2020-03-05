@@ -1,0 +1,193 @@
+https://foundation.wikimedia.org/wiki/Cookie_statement/es
+Cómo se menciona en nuestra , Wikimedia cree firmemente en los valores de privacidad y transparencia. Con ese fin hemos creado esta «Declaración sobre » como una guía de referencia clara sobre el uso de  en los sitios de Wikimedia. Esta «Declaración sobre » explica como usamos estas y otras tecnologías de almacenamiento local de datos, como son usadas las  de terceros en los sitios de Wikimedia y como puede administrar sus opciones para el manejo de . Para obtener más información sobre nuestras prácticas de privacidad, puede visitar nuestra .
+La Fundación Wikimedia, la organización sin fines de lucro que alberga los sitios en internet de Wikimedia, registra activamente varios tipos de información con una variedad de tecnologías comúnmente utilizadas. Estas generalmente incluyen  , , y una variedad de tecnologías par almacenar datos de manera local, como  y .
+Una  es un archivo de datos diminuto que transferimos a su computador, teléfono móvil o cualquier otro dispositivo que utilice para acceder a los sitios de Wikimedia, normalmente para ejecutar funciones relacionadas al manejo de sesiones y seguimiento. Todas las  expiran después de un periodo de tiempo determinado,  pero la extensión del mismo es diferente dependiendo del propósito de la  y de la configuración de su navegador.
+Una  de sesión normalmente expira cuando cierra su navegador de internet o su aplicación móvil. Una  persistente permanece en su dispositivo, incluso después de cerrar su navegador o aplicación móvil. Estas últimas expiran luego de una duración determinada por nosotros o cuando usted las borra manualmente. .
+Puede eliminar o desactivar las  usando las opciones de configuración de su navegador. Para obtener más información sobre la forma de administrar sus , puede consultar la  de esta «Declaración sobre »
+Para obtener más información sobre este y otros términos importantes que pueden ser relevantes puede leer el.
+Usamos la información que recibimos de las  y de otros datos almacenados localmente para mejorar su experiencia con los sitios de Wikimedia, hacerla más segura, comprender mejor las preferencias de los usuarios y como usan nuestros sitios y en general para mejorar nuestros servicios.
+Las , los datos almacenados localmente, JavaScript y los pixeles de seguimiento nos ayudan a:
+Las  y otras tecnologías usadas por los sitios de Wikimedia para almacenar datos de manera local generalmente se pueden clasificar en las siguientes categorías:
+Para ejemplos más específicos, hemos incluido el cuadro que figura más abajo. Pero antes de revisarlo es conveniente que lea la siguiente información sobre el prefijo «{$wgCookiePrefix}» que encontrará frente algunas  que se listan en el cuadro.
+Técnicamente muchos de los sitios de Wikimedia son sitios separados; por ejemplo, la Wikipedia en francés es diferente de la Wikipedia en inglés y ambas son diferentes de Wikilibros en francés. Como resultado de lo anterior en ocasiones crearemos  diferentes para sitios de Wikimedia diferentes. Para ayudarle a usted y a su computador a diferenciar los sitios, cada uno crea  que reflejan su nombre. Por ejemplo: enwikiUserName es una  que define su nombre de usuario en «enwiki» (la wikipedia en inglés), frwikinewsUserName es una  que define su nombre de usuario en «frwikinews» (Wikinoticias en frances), etc. Podríamos listar más de 800 versiones de UserName (una por cada idioma y proyecto) pero en su lugar esta tabla solo tiene una entrada para «UserName»: {$wgCookiePrefix}UserName. Cada vez que vea {$wgCookiePrefix}, eso significa que recibirá una copia de la  por cada uno de los sitios de Wikimedia que visite y el nombre será el «prefijo de la » (como enwiki, frwikinews, etc.) más el resto del nombre.
+¡Ahora pasemos al cuadro!
+
+Las  de terceros nos permiten incluir servicios proporcionados por otros, tales como los botones «Me gusta» y «Compartir». Cuando un tercero proporciona este tipo de servicios pueden necesitar una  que funcionen. 
+Nunca usaremos  de terceros sin obtener su permiso para hacerlo. Si en algún momento encuentra una herramienta de recolección de datos de terceros que no ha autorizado (posiblemente creada por error por otro usuario o por un administrador), por favor comuníquese con nosotros al correo: .
+No es una lista comprensiva, pero aquí hay algunas cosas que puede hacer para limitar el uso de  y otros datos almacenados en su dispositivo. Usted puede:
+Creemos que la recolección de datos nos ayuda a mejorar su experiencia de usuario, pero puede eliminar o desactivar algunos o todos los datos almacenados de forma local usando las opciones de su navegador, dependiendo del que use. Puede obtener más información sobre algunas de sus opciones en nuestra página de. Las  y otros datos almacenados localmente pueden no ser necesarios para usar nuestros sitios, pero algunas funciones podrían no funcionar correctamente si desactiva el uso de datos almacenados localmente.
+Puede leer nuestra  para obtener más información. Si tiene preguntas adicionales puede contactarnos al correo .
+¡Gracias!
+
+Cómo se menciona en nuestra , Wikimedia cree firmemente en los valores de privacidad y transparencia. Con ese fin hemos creado esta «Declaración sobre » como una guía de referencia clara sobre el uso de  en los sitios de Wikimedia. Esta «Declaración sobre » explica como usamos estas y otras tecnologías de almacenamiento local de datos, como son usadas las  de terceros en los sitios de Wikimedia y como puede administrar sus opciones para el manejo de . Para obtener más información sobre nuestras prácticas de privacidad, puede visitar nuestra .
+La Fundación Wikimedia, la organización sin fines de lucro que alberga los sitios en internet de Wikimedia, registra activamente varios tipos de información con una variedad de tecnologías comúnmente utilizadas. Estas generalmente incluyen  , , y una variedad de tecnologías par almacenar datos de manera local, como  y .
+Una  es un archivo de datos diminuto que transferimos a su computador, teléfono móvil o cualquier otro dispositivo que utilice para acceder a los sitios de Wikimedia, normalmente para ejecutar funciones relacionadas al manejo de sesiones y seguimiento. Todas las  expiran después de un periodo de tiempo determinado,  pero la extensión del mismo es diferente dependiendo del propósito de la  y de la configuración de su navegador.
+Una  de sesión normalmente expira cuando cierra su navegador de internet o su aplicación móvil. Una  persistente permanece en su dispositivo, incluso después de cerrar su navegador o aplicación móvil. Estas últimas expiran luego de una duración determinada por nosotros o cuando usted las borra manualmente. .
+Puede eliminar o desactivar las  usando las opciones de configuración de su navegador. Para obtener más información sobre la forma de administrar sus , puede consultar la  de esta «Declaración sobre »
+Para obtener más información sobre este y otros términos importantes que pueden ser relevantes puede leer el.
+Usamos la información que recibimos de las  y de otros datos almacenados localmente para mejorar su experiencia con los sitios de Wikimedia, hacerla más segura, comprender mejor las preferencias de los usuarios y como usan nuestros sitios y en general para mejorar nuestros servicios.
+Las , los datos almacenados localmente, JavaScript y los pixeles de seguimiento nos ayudan a:
+Las  y otras tecnologías usadas por los sitios de Wikimedia para almacenar datos de manera local generalmente se pueden clasificar en las siguientes categorías:
+Para ejemplos más específicos, hemos incluido el cuadro que figura más abajo. Pero antes de revisarlo es conveniente que lea la siguiente información sobre el prefijo «{$wgCookiePrefix}» que encontrará frente algunas  que se listan en el cuadro.
+Técnicamente muchos de los sitios de Wikimedia son sitios separados; por ejemplo, la Wikipedia en francés es diferente de la Wikipedia en inglés y ambas son diferentes de Wikilibros en francés. Como resultado de lo anterior en ocasiones crearemos  diferentes para sitios de Wikimedia diferentes. Para ayudarle a usted y a su computador a diferenciar los sitios, cada uno crea  que reflejan su nombre. Por ejemplo: enwikiUserName es una  que define su nombre de usuario en «enwiki» (la wikipedia en inglés), frwikinewsUserName es una  que define su nombre de usuario en «frwikinews» (Wikinoticias en frances), etc. Podríamos listar más de 800 versiones de UserName (una por cada idioma y proyecto) pero en su lugar esta tabla solo tiene una entrada para «UserName»: {$wgCookiePrefix}UserName. Cada vez que vea {$wgCookiePrefix}, eso significa que recibirá una copia de la  por cada uno de los sitios de Wikimedia que visite y el nombre será el «prefijo de la » (como enwiki, frwikinews, etc.) más el resto del nombre.
+¡Ahora pasemos al cuadro!
+
+Las  de terceros nos permiten incluir servicios proporcionados por otros, tales como los botones «Me gusta» y «Compartir». Cuando un tercero proporciona este tipo de servicios pueden necesitar una  que funcionen. 
+Nunca usaremos  de terceros sin obtener su permiso para hacerlo. Si en algún momento encuentra una herramienta de recolección de datos de terceros que no ha autorizado (posiblemente creada por error por otro usuario o por un administrador), por favor comuníquese con nosotros al correo: .
+No es una lista comprensiva, pero aquí hay algunas cosas que puede hacer para limitar el uso de  y otros datos almacenados en su dispositivo. Usted puede:
+Creemos que la recolección de datos nos ayuda a mejorar su experiencia de usuario, pero puede eliminar o desactivar algunos o todos los datos almacenados de forma local usando las opciones de su navegador, dependiendo del que use. Puede obtener más información sobre algunas de sus opciones en nuestra página de. Las  y otros datos almacenados localmente pueden no ser necesarios para usar nuestros sitios, pero algunas funciones podrían no funcionar correctamente si desactiva el uso de datos almacenados localmente.
+Puede leer nuestra  para obtener más información. Si tiene preguntas adicionales puede contactarnos al correo .
+¡Gracias!
+
+	
+	
+	
+
+
+	
+	
+	
+		From the Wikimedia Foundation Governance Wiki
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Retrieved from ""
+		: Hidden category: 
+		
+		
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+
+	
+		
+	
+	
+		
+		
+			
+			
+		
+	
+	
+	
+		
+		
+			
+			
+		
+	
+	
+	
+		
+		
+			
+			
+		
+	
+	
+	
+		
+		
+			
+			
+		
+	
+	
+	
+		
+		
+			
+			
+		
+	
+	
+	
+		
+		
+			
+			
+		
+	
+	
+
+
+
+	
+	
+	
+	

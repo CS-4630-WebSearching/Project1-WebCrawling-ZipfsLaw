@@ -1,0 +1,156 @@
+https://es.wikipedia.org/wiki/Wikipedia:PortalUn  es una página de Wikipedia que sirve de portada para artículos de un mismo tema o área. Los portales pueden estar asociados con uno o más . A diferencia de los Wikiproyectos, que solo están destinados a los editores, los portales se destinan tanto a editores como lectores de Wikipedia.
+Debes crear tu portal en Portal: (donde  es el tema del portal). Para facilitar la creación de los portales tenemos distintas propuestas, cualquiera de ellas válida. Puedes escoger una estructura básica como  o .
+En general, se desaconseja la creación de un portal si solo hay una persona interesada en él, o hay pocos artículos sobre ese tema. Ten en cuenta que mantener un portal cuesta un gran esfuerzo, que podría ser más efectivo dedicar a los artículos en sí. Por otro lado, un portal desatendido (aunque sea temporalmente) puede desanimar a la gente. En muchos casos, puede ser más apropiado crear un Wikiproyecto para organizar el trabajo y, una vez se tienen artículos y colaboradores suficientes, crear el portal correspondiente.
+Se ha propuesto un sistema de plantillas con parámetros, que permita que se reutilicen los artículos destacados y "sabías que" de los wikiportales para la portada, apareciendo en ella automáticamente un artículo destacado y un "sabías que" de cada wikiportal. Así, bastaría actualizar de vez en cuando las plantillas de los wikiportales para que cada día tuviéramos una portada distinta.
+La idea es que a cada día del mes se le asigne un wikiportal, empezando por los primeros de cada mes, y quedando los días finales del mes que estén sin asignar para temas genéricos.
+Poniendo unas plantillas dentro de otras, se puede incluso tener contenidos de un mismo wikiportal varios días al mes. Por ejemplo, se podría hacer:
+Así, se tendría un artículo de biología los días 10 y 30 de cada mes, sin tener que actualizar nada más que la plantilla "destacado biología". Tendríamos así un sistema automático y muy flexible. 
+Queda por ver cómo encajaría todo esto con lo que se está haciendo en .
+Un  es una página de Wikipedia que sirve de portada para artículos de un mismo tema o área. Los portales pueden estar asociados con uno o más . A diferencia de los Wikiproyectos, que solo están destinados a los editores, los portales se destinan tanto a editores como lectores de Wikipedia.
+Debes crear tu portal en Portal: (donde  es el tema del portal). Para facilitar la creación de los portales tenemos distintas propuestas, cualquiera de ellas válida. Puedes escoger una estructura básica como  o .
+En general, se desaconseja la creación de un portal si solo hay una persona interesada en él, o hay pocos artículos sobre ese tema. Ten en cuenta que mantener un portal cuesta un gran esfuerzo, que podría ser más efectivo dedicar a los artículos en sí. Por otro lado, un portal desatendido (aunque sea temporalmente) puede desanimar a la gente. En muchos casos, puede ser más apropiado crear un Wikiproyecto para organizar el trabajo y, una vez se tienen artículos y colaboradores suficientes, crear el portal correspondiente.
+Se ha propuesto un sistema de plantillas con parámetros, que permita que se reutilicen los artículos destacados y "sabías que" de los wikiportales para la portada, apareciendo en ella automáticamente un artículo destacado y un "sabías que" de cada wikiportal. Así, bastaría actualizar de vez en cuando las plantillas de los wikiportales para que cada día tuviéramos una portada distinta.
+La idea es que a cada día del mes se le asigne un wikiportal, empezando por los primeros de cada mes, y quedando los días finales del mes que estén sin asignar para temas genéricos.
+Poniendo unas plantillas dentro de otras, se puede incluso tener contenidos de un mismo wikiportal varios días al mes. Por ejemplo, se podría hacer:
+Así, se tendría un artículo de biología los días 10 y 30 de cada mes, sin tener que actualizar nada más que la plantilla "destacado biología". Tendríamos así un sistema automático y muy flexible. 
+Queda por ver cómo encajaría todo esto con lo que se está haciendo en .
+
+	
+	
+	
+
+
+	
+	
+	
+		De Wikipedia, la enciclopedia libre
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+
+ .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Obtenido de «»
+		: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

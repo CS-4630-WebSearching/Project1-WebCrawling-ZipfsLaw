@@ -1,0 +1,172 @@
+https://it.wikipedia.org/wiki/Formula_di_camminamentoLa  consente di calcolare l' di una qualsiasi  di  lati non curvi. È una formula che snellisce i tempi di calcolo di un'area di una figura avente un numero elevato di lati, evitando di utilizzare il sistema per . 
+Per applicare questa formula è necessario conoscere:
+Assumiamo per ragioni di sintassi:
+La formula è
+La stessa formula può essere espressa in forma matriciale ed in particolare indicando con  il numero dei LATI NOTI (k=n-1), 
+la versione matriciale compatta diviene:
+dove 
+ossia 
+similmente  è il vettore colonna le cui componenti in ordine rappresentano i lati del poligono partendo dal secondo fino al -esimo 
+cioè
+ed infine  è una matrice triangolare alta di ordine -1. 
+In particolare lungo la diagonale principale  sono disposti in ordine i valori dei seni degli angoli noti, mentre risulteranno nulli tutti i termini al di sotto della diagonale principale. Al di sopra di quest'ultima i termini della matrice sono espressi dalla seguente relazione:
+complessivamente la matrice sarà così definita:
+La  consente di calcolare l' di una qualsiasi  di  lati non curvi. È una formula che snellisce i tempi di calcolo di un'area di una figura avente un numero elevato di lati, evitando di utilizzare il sistema per . 
+Per applicare questa formula è necessario conoscere:
+Assumiamo per ragioni di sintassi:
+La formula è
+La stessa formula può essere espressa in forma matriciale ed in particolare indicando con  il numero dei LATI NOTI (k=n-1), 
+la versione matriciale compatta diviene:
+dove 
+ossia 
+similmente  è il vettore colonna le cui componenti in ordine rappresentano i lati del poligono partendo dal secondo fino al -esimo 
+cioè
+ed infine  è una matrice triangolare alta di ordine -1. 
+In particolare lungo la diagonale principale  sono disposti in ordine i valori dei seni degli angoli noti, mentre risulteranno nulli tutti i termini al di sotto della diagonale principale. Al di sopra di quest'ultima i termini della matrice sono espressi dalla seguente relazione:
+complessivamente la matrice sarà così definita:
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		 .
+
+Puoi  aggiungendo citazioni da  secondo le . Segui i suggerimenti del .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ : accedi alle voci di Wikipedia che trattano di matematica
+
+
+
+
+
+		Estratto da ""
+		: Categorie nascoste: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

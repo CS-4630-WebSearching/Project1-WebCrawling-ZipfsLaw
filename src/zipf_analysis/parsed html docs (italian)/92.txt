@@ -1,0 +1,298 @@
+https://it.wikipedia.org/wiki/CerchioIn  il  è la parte di piano delimitata da una  ed è costituito dall'insieme infinito dei  che distano da un punto dato, detto , non più di una distanza fissata detta .
+In un  un generico cerchio di centro  e raggio  è rappresentato dall'insieme di punti che soddisfano la seguente condizione:
+Esso può essere immaginato come un  con un numero di lati infinito, o meglio come il limite di una successione di poligoni regolari ad  lati per  che tende ad infinito. Il cerchio è una figura convessa.
+Un  avente gli estremi sulla circonferenza è detto ; ognuna delle due parti in cui questa divide il cerchio si chiama . Se la corda in questione passa per il centro, essa si chiama  e i due segmenti sono congruenti e si chiamano .
+Un segmento circolare può anche essere la parte di cerchio compresa tra due corde parallele.
+L'intersezione fra un  al centro, cioè un angolo avente come vertice il centro del cerchio, ed il cerchio stesso (visivamente, uno "spicchio" di cerchio) si chiama . Se l'angolo al centro è retto, il settore circolare che individua si chiama ; se è piatto, è il semicerchio.
+Due cerchi aventi lo stesso centro si dicono . L'area compresa fra le due circonferenze si chiama .
+La formula dell'area del cerchio può essere ottenuta come limite di quella del poligono regolare, ovvero come lunghezza della circonferenza per raggio diviso :
+La  si riferisce all'impossibile compito di costruire con riga e compasso, a partire da un cerchio, un  avente stessa area.
+Alcuni solidi tridimensionali che possono avere, se tagliati da un piano, sezioni circolari sono la , il  ed il .
+Il cerchio viene detto  in un poligono quando la sua circonferenza è  ad ogni lato di quest'ultimo, e  quando i vertici di un poligono stanno sulla circonferenza.
+Il valore dell'area del cerchio può venir visto come il valore dell'integrale doppio della funzione  su un insieme coincidente con il cerchio. In formule si ha . Utilizzando il cambio di coordinate da  a polari si ottiene , dove  e  sono le variabili polari. Al posto della funzione integranda  abbiamo  per via del . A questo punto l'integrale doppio si può scomporre nel prodotto di due integrali, in quanto le variabili sono separabili. Si ottiene
+Un primo approccio, tramite gli , al calcolo dell'area del cerchio può essere fatto pensando che questa superficie è data dalla somma progressiva di infiniti cerchi concentrici che hanno come valore massimo la  e come minimo il centro del cerchio. In pratica è come se sommassimo tra di loro infiniti anelli, aventi ognuno spessore infinitesimo. Da questa rappresentazione comprendiamo come il nome  derivi proprio dalla stratificazione del cerchio, come quella di una , anche se in due dimensioni. Possiamo dunque chiamare  il  del cerchio a cui corrisponde ogni singola circonferenza, la cui  è  (notiamo che in questa dimostrazione si dà per assunto questo dato). Quindi possiamo integrare () , cioè la funzione che ci dà le diverse circonferenze (separate dal fattore  ), tra il valore minimo e massimo dei loro raggi,  e . 
+Per procedere al calcolo dell' di un cerchio attraverso un secondo metodo consideriamo innanzitutto una  con  nell'origine degli ; questo ci permette infatti di semplificare il caso generico di una circonferenza  rispetto all'origine, dato che la traslazione non modifica l'area.
+L'equazione di una circonferenza di generico raggio  e centro nell'origine degli assi è:
+Come sappiamo dalla definizione la suddetta formula non è una , in quanto associa ad alcuni punti più di un . Per risolvere questo inconveniente e  la funzione è sufficiente, dopo averla esplicitata rispetto alle , , prenderne solo le  non negative.
+Avremo quindi che l' della funzione che ci descrive la semicirconferenza con centro nell'origine di generico raggio  è
+Per conoscere quindi l'area del cerchio completo basta calcolare l'area sottesa alla funzione, tra  e :
+Svolgiamo quindi i calcoli, ricorrendo al : 
+Per arrivare alla formula finale ricordiamo che fin dal principio stavamo calcolando l'area tra il  della semicirconferenza  e l'asse , per cui l'area del cerchio con centro nell'origine sarà il doppio:
+che è proprio la formula usata comunemente.
+Dobbiamo notare che in questa dimostrazione diamo per definita la formula dell' (per trovare una  della funzione), e quindi buona parte della ; questo però significa inserire anche nei concetti necessari per usare questo metodo quello di , che è indissolubilmente legato al concetto di cerchio e alle relazioni tra le sue parti.
+Il perimetro del cerchio si può calcolare con la formula , cioè due volte il  per il raggio.
+Il perimetro del cerchio, che si può definire anche come la lunghezza della , si può pensare calcolabile grazie all'integrazione della funzione corrispondente alla semicirconferenza, avente centro nell'origine, tra  e , cioè il raggio. Ovviamente non possiamo utilizzare l'integrale definito, ma ci serve l'integrale che associa ad una funzione la lunghezza della curva che descrive: la formula di questo integrale, data una funzione  e due punti  e  è:
+Sappiamo che l'equazione di una circonferenza di generico raggio  e centro nell'origine degli assi è:
+Questa, come visto per l'area, va resa una funzione, e per farlo basta dopo averla esplicitata in funzione di , , prenderne solo le immagini non negative.
+L'equazione della funzione che descrive la semicirconferenza che ci serve sarà allora
+Per calcolare l'integrale ci serve però la  prima della funzione stessa, quindi:
+Adesso possiamo procedere al calcolo dell'integrale della curva tra  e . Svolgiamo quindi i calcoli, ricorrendo come prima al : 
+Ma dal momento che stavamo calcolando la lunghezza di una semicirconferenza, allora il perimetro del cerchio sarà pari al doppio del valore trovato, cioè:
+Ed è esattamente il valore che viene utilizzato solitamente.
+Come per il calcolo dell'area, dobbiamo ricordare che per la dimostrazione è essenziale conoscere la trigonometria, che implica di fatto la conoscenza del valore di  e il suo legame con le componenti di un cerchio. In pratica quindi quella che abbiamo fatto più che una dimostrazione è una riprova della formula che lega il raggio e la lunghezza di una circonferenza qualunque.
+La figura del cerchio e del circolo è al centro dell'opera di .  preferì invece collocare al centro della natura la figura della spirale. Lo stesso fece , introducendo nel suo saggio sui "Cerchi" la figura di cerchi in espansione come simbolo dell'avanzamento dello spirito umano.
+ Il cerchio è quindi diviso in due parti da ogni suo angolo al centro.
+La sua ampiezza si calcola con la seguente proporzione:
+
+L'angolo al centro è sempre il doppio del corrispondente angolo alla circonferenza, quando i vertici dell'angolo al centro e dell'angolo alla circonferenza sono dalla stessa parte rispetto alla corda individuata dai due punti di intersezione dei lati dei due angoli con la circonferenza.  Quando invece il vertice dell'angolo alla circonferenza è dalla parte opposta rispetto al centro, l'angolo alla circonferenza è supplementare della metà dell'angolo al centro, cioè la somma dell'angolo alla circonferenza e la metà dell'angolo al centro è uguale ad un angolo piatto. Di conseguenza, se un angolo alla circonferenza è retto, esso sottende un diametro del cerchio, ovvero il corrispondente angolo al centro è piatto. Da ciò discendono le seguenti proprietà del triangolo rettangolo:
+Data una circonferenza, siano  il raggio,  l'area,  il diametro,  il perimetro. Allora si ha:
+  
+  
+ 
+Avendo le coordinate del centro  e di un punto sulla circonferenza  è possibile determinare l'area
+Date invece le  di tre punti , ,  qualsiasi sulla circonferenza le coordinate del centro si calcolano come quelle del  del triangolo
+con
+In  il  è la parte di piano delimitata da una  ed è costituito dall'insieme infinito dei  che distano da un punto dato, detto , non più di una distanza fissata detta .
+In un  un generico cerchio di centro  e raggio  è rappresentato dall'insieme di punti che soddisfano la seguente condizione:
+Esso può essere immaginato come un  con un numero di lati infinito, o meglio come il limite di una successione di poligoni regolari ad  lati per  che tende ad infinito. Il cerchio è una figura convessa.
+Un  avente gli estremi sulla circonferenza è detto ; ognuna delle due parti in cui questa divide il cerchio si chiama . Se la corda in questione passa per il centro, essa si chiama  e i due segmenti sono congruenti e si chiamano .
+Un segmento circolare può anche essere la parte di cerchio compresa tra due corde parallele.
+L'intersezione fra un  al centro, cioè un angolo avente come vertice il centro del cerchio, ed il cerchio stesso (visivamente, uno "spicchio" di cerchio) si chiama . Se l'angolo al centro è retto, il settore circolare che individua si chiama ; se è piatto, è il semicerchio.
+Due cerchi aventi lo stesso centro si dicono . L'area compresa fra le due circonferenze si chiama .
+La formula dell'area del cerchio può essere ottenuta come limite di quella del poligono regolare, ovvero come lunghezza della circonferenza per raggio diviso :
+La  si riferisce all'impossibile compito di costruire con riga e compasso, a partire da un cerchio, un  avente stessa area.
+Alcuni solidi tridimensionali che possono avere, se tagliati da un piano, sezioni circolari sono la , il  ed il .
+Il cerchio viene detto  in un poligono quando la sua circonferenza è  ad ogni lato di quest'ultimo, e  quando i vertici di un poligono stanno sulla circonferenza.
+Il valore dell'area del cerchio può venir visto come il valore dell'integrale doppio della funzione  su un insieme coincidente con il cerchio. In formule si ha . Utilizzando il cambio di coordinate da  a polari si ottiene , dove  e  sono le variabili polari. Al posto della funzione integranda  abbiamo  per via del . A questo punto l'integrale doppio si può scomporre nel prodotto di due integrali, in quanto le variabili sono separabili. Si ottiene
+Un primo approccio, tramite gli , al calcolo dell'area del cerchio può essere fatto pensando che questa superficie è data dalla somma progressiva di infiniti cerchi concentrici che hanno come valore massimo la  e come minimo il centro del cerchio. In pratica è come se sommassimo tra di loro infiniti anelli, aventi ognuno spessore infinitesimo. Da questa rappresentazione comprendiamo come il nome  derivi proprio dalla stratificazione del cerchio, come quella di una , anche se in due dimensioni. Possiamo dunque chiamare  il  del cerchio a cui corrisponde ogni singola circonferenza, la cui  è  (notiamo che in questa dimostrazione si dà per assunto questo dato). Quindi possiamo integrare () , cioè la funzione che ci dà le diverse circonferenze (separate dal fattore  ), tra il valore minimo e massimo dei loro raggi,  e . 
+Per procedere al calcolo dell' di un cerchio attraverso un secondo metodo consideriamo innanzitutto una  con  nell'origine degli ; questo ci permette infatti di semplificare il caso generico di una circonferenza  rispetto all'origine, dato che la traslazione non modifica l'area.
+L'equazione di una circonferenza di generico raggio  e centro nell'origine degli assi è:
+Come sappiamo dalla definizione la suddetta formula non è una , in quanto associa ad alcuni punti più di un . Per risolvere questo inconveniente e  la funzione è sufficiente, dopo averla esplicitata rispetto alle , , prenderne solo le  non negative.
+Avremo quindi che l' della funzione che ci descrive la semicirconferenza con centro nell'origine di generico raggio  è
+Per conoscere quindi l'area del cerchio completo basta calcolare l'area sottesa alla funzione, tra  e :
+Svolgiamo quindi i calcoli, ricorrendo al : 
+Per arrivare alla formula finale ricordiamo che fin dal principio stavamo calcolando l'area tra il  della semicirconferenza  e l'asse , per cui l'area del cerchio con centro nell'origine sarà il doppio:
+che è proprio la formula usata comunemente.
+Dobbiamo notare che in questa dimostrazione diamo per definita la formula dell' (per trovare una  della funzione), e quindi buona parte della ; questo però significa inserire anche nei concetti necessari per usare questo metodo quello di , che è indissolubilmente legato al concetto di cerchio e alle relazioni tra le sue parti.
+Il perimetro del cerchio si può calcolare con la formula , cioè due volte il  per il raggio.
+Il perimetro del cerchio, che si può definire anche come la lunghezza della , si può pensare calcolabile grazie all'integrazione della funzione corrispondente alla semicirconferenza, avente centro nell'origine, tra  e , cioè il raggio. Ovviamente non possiamo utilizzare l'integrale definito, ma ci serve l'integrale che associa ad una funzione la lunghezza della curva che descrive: la formula di questo integrale, data una funzione  e due punti  e  è:
+Sappiamo che l'equazione di una circonferenza di generico raggio  e centro nell'origine degli assi è:
+Questa, come visto per l'area, va resa una funzione, e per farlo basta dopo averla esplicitata in funzione di , , prenderne solo le immagini non negative.
+L'equazione della funzione che descrive la semicirconferenza che ci serve sarà allora
+Per calcolare l'integrale ci serve però la  prima della funzione stessa, quindi:
+Adesso possiamo procedere al calcolo dell'integrale della curva tra  e . Svolgiamo quindi i calcoli, ricorrendo come prima al : 
+Ma dal momento che stavamo calcolando la lunghezza di una semicirconferenza, allora il perimetro del cerchio sarà pari al doppio del valore trovato, cioè:
+Ed è esattamente il valore che viene utilizzato solitamente.
+Come per il calcolo dell'area, dobbiamo ricordare che per la dimostrazione è essenziale conoscere la trigonometria, che implica di fatto la conoscenza del valore di  e il suo legame con le componenti di un cerchio. In pratica quindi quella che abbiamo fatto più che una dimostrazione è una riprova della formula che lega il raggio e la lunghezza di una circonferenza qualunque.
+La figura del cerchio e del circolo è al centro dell'opera di .  preferì invece collocare al centro della natura la figura della spirale. Lo stesso fece , introducendo nel suo saggio sui "Cerchi" la figura di cerchi in espansione come simbolo dell'avanzamento dello spirito umano.
+ Il cerchio è quindi diviso in due parti da ogni suo angolo al centro.
+La sua ampiezza si calcola con la seguente proporzione:
+
+L'angolo al centro è sempre il doppio del corrispondente angolo alla circonferenza, quando i vertici dell'angolo al centro e dell'angolo alla circonferenza sono dalla stessa parte rispetto alla corda individuata dai due punti di intersezione dei lati dei due angoli con la circonferenza.  Quando invece il vertice dell'angolo alla circonferenza è dalla parte opposta rispetto al centro, l'angolo alla circonferenza è supplementare della metà dell'angolo al centro, cioè la somma dell'angolo alla circonferenza e la metà dell'angolo al centro è uguale ad un angolo piatto. Di conseguenza, se un angolo alla circonferenza è retto, esso sottende un diametro del cerchio, ovvero il corrispondente angolo al centro è piatto. Da ciò discendono le seguenti proprietà del triangolo rettangolo:
+Data una circonferenza, siano  il raggio,  l'area,  il diametro,  il perimetro. Allora si ha:
+  
+  
+ 
+Avendo le coordinate del centro  e di un punto sulla circonferenza  è possibile determinare l'area
+Date invece le  di tre punti , ,  qualsiasi sulla circonferenza le coordinate del centro si calcolano come quelle del  del triangolo
+con
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		
+ 
+
+ 
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  Un metodo di integrazione per calcolare l'area del cerchio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  L'angolo alla circonferenza che sottende un diametro dello stesso cerchio è sempre retto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ : accedi alle voci di Wikipedia che trattano di matematica
+
+
+
+
+
+		Estratto da ""
+		: Categoria nascosta: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

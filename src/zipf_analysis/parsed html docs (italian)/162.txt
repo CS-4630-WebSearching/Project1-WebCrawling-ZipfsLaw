@@ -1,0 +1,752 @@
+https://commons.wikimedia.org/wiki/Help:SVG |
+ |
+ |
+ |
+ |
+ |
+
+ () is an accepted  on . It is suited to diagrams, maps, and other non-photographic images. SVG is highly appreciated on Commons because it describes graphical objects with  and thus currently provides the best way to modify and improve content.
+SVG files are used extensively on Wikimedia Commons. Here are a few tips to get started (if you already know what program you will be using to generate such files, consider visiting  or  in addition to the following).
+ (SVG) is an  specification and file format for describing two-dimensional  (as opposed to a "bitmap" or ) in both static and animated forms. It is stored in either  or compressed (binary) format which is much more size efficient than most other image formats such as  or . SVGs also allow embedding of raster graphics and editable text.
+ (alternatively "RSVG") is the rendering library used by MediaWiki to rasterize the SVG files into the PNG bitmap format that is served to Wikimedia pages. The displayed image is not SVG and is therefore not animated or interactive. One reason for this choice is that rendering an SVG in real-time slows down older computers or operating systems. A raster version which can be efficiently converted from the SVG source helps overcome this technical problem. Another reason is that some SVG files are large (e.g., 1 MB), but the image when displayed on a monitor might be 160×320 pixels, which would be an uncompressed 51200 pixels (153600 bytes for 24-bit color).
+Unfortunately, the sole maintainer of librsvg before 2014 wrote in a private email that "" Most major bugs which have been reported to  for years are going to remain as is. There has been some recent work on librsvg, but part of that work has translated some C-language code to the . Librsvg-2.40.20 was the last expected release of the C-only code; librsvg-2.41 and later builds require Rust. Although an SVG  bug () may have been fixed in librsvg-2.42.2, that and other fixes will not be available until Wikimedia can incorporate the 2.42 and later versions. A Wikimedia developer has said, "We cannot easily upgrade librsvg on our Debian servers from 2.40 to 2.42 as 2.42.x requires Rust." (, 29 April 2018).
+Several of librsvg's missing features and bugs impact SVG images on Commons. Consequently, SVG files need to avoid or workaround those problems. For example, librsvg does not support the text on a path feature, and librsvg has problems with left-to-right and top-to-bottom text strings. Even where librsvg works flawlessly, there can be compatibility issues. An SVG file may use a font that Commons does not have.
+In the SVG specification, the  element  default its  attribute to . SVG images that use  elements should explicitly set  in their  tag. (In other words,  should be prefered of .) ()
+
+RSVG does not correctly compare  attributes, which SVG specifies is a comma-separated list of IETF language tags (langtag). RSVG only matches the first subtag (the group of characters before the first hyphen) in the langtag, so RSVG ignores the any country code or script subtags that follow. For example, RSVG will not distinguish  (Chinese using simplified script) and  (Chinese using traditional script). To work around that problem, a private-use langtag (one in the range –) can be used to specify the language.
+As a further complication, as of May 2018, Google Chrome and Microsoft Edge browsers fail to handle  attributes correctly, too. The first langtag should be the public langtag followed by a space. With that convention, both Chrome and Edge will parse the first langtag correctly (Chrome will incorrectly parse the second langtag; Edge only recognizes the first langtag and ignores all others). As of October 2018, both Chrome and Firefox fixed their  matching; Edge still only recognizes the first langtag and ignores the remaining ones.
+The  attribute should be a list of IETF langtags. There is some confusion about proper language tags. For Serbian, MediaWiki has been using  and , but under BCP 47 those tags mean Serbian as spoken in the region EC (Ecuador) and Serbian as spoken in EL (unassigned region). The proper langtags are  and . The Cyrillic langtag should be before the Latin langtag to make SVG 1.1  processing choose the Cyrillic script if the user has stated a language preference that includes . (MediaWiki is starting to use proper langtags; see .)
+Chinese is more complicated. The  is a macrolanguage subtag that references all Chinese dialects (e.g., Mandarin or Cantonese). One can specify Mandarin with , but the IETF registry prefers the use of . Similarly, instead of , IETF prefers  for Cantonese. The Chinese script may be specified:  is the simplified script and  is the traditional script. Which langtags to use for Chinese are not clear. A simple approach just uses  or  to specify the script (IETF registry marks both as "redundant" but does not offer a preferred alternative). An alternative specifies the dialect and script, for example,  or . A region langtag can be appended:  (Mandarin with simplified script as used in China).
+For MediaWiki, the Serbian pages have a common source than can be rendered in either Cyrillic or Latin script. Similarly, the Chinese pages have a common source that can be rendered in either Hans or Hant. Ideally, a Chinese reader could select the Hans script, and all the images in the article would also be rendered in Hans. The desired effect would be something like
+It is not clear whether or how this can be done in MediaWiki.
+Programs you can use to create SVG images are shown in the  hereafter. Alternatively you can edit the SVG code directly with any text editor or .
+The following sections explain specific features of SVG.
+Although not a requirement on Commons, it is a good idea to run your file through the World Wide Web Consortium (W3C)  () before you upload. The validator can find problems with an SVG file that may cause the file to render incorrectly in different platforms. For example, validation will complain about the use of  elements, which are nonstandard and poorly supported.
+If the SVG file has a , then the validator will use that DTD to check the syntax. If there is no DOCTYPE (which is not required nor is  it recommended), then the validator may check that the file is well-formed XML, but it may realize the file is SVG and perform non-DTD validation by passing the file to its nu Validator. From the W3C validator web page, one can select to validate the file as SVG 1.1.  (In SVG 2, references to the SVG DTD have been removed.)
+If additional namespaces are present in the SVG document, the validator will complain about them. Many tools, such as Adobe Illustrator and Inkscape, insert nodes in additional namespaces.
+If the W3C validator is given a file that is served with an appropriate  , then the file will be validated as  (an option not available from the UI dropdown box). That validation is done by a second, more modern, validator, the nu Validator (). Additionally, the validation will not issue errors for the  namespace element trees and will use schemas to check the  and  namespaces. The validation is used by .
+Other namespaces will still cause validation errors. The W3C nu Validator can be told to suppress errors about other namespaces with the  parameter.
+In addition, non-SVG 1.1 attributes will produce validation errors. The SVG 2.0 draft allows users to include arbitrary  attributes just as HTML 5.0 does, but the W3C validator will complain about them.
+Different software programs and different browser platforms may render the exact same SVG file in slightly different ways. The way you see your final image in a vector image editor may  reflect how that image will look once it is uploaded to Commons and is viewed by others. Also, all SVG images are automatically converted to PNG files when used in a Wikipedia article, and this may affect how the final image looks as well. As an example of the former, in an image containing a series of very fine strokes, those strokes will probably look much more bold and thick in the editor than they will once the image has been converted to SVG and viewed in a web browser. Those who create SVG files should consider saving their work in SVG format and then opening that same image using two or three different browsers to verify that it is rendering as intended. A similar check can be done by opening the file in other image editing programs as well.
+To preview how an SVG will be rendered to PNG on Commons, go to .
+The reasons why the same file becomes rendered differently depending on context is a result of how these contexts (browsers or programs) interpret the file’s SVG code and use that code to generate the image. Aim to create a "least common denominator" SVG that renders correctly no matter what browser is used to open it, and never assume that your own image editing program is showing you what the image will really look like to other viewers. Previewing SVGs in a Web browser (rather than vector graphics editor) can reveal some problems. It is sometimes helpful in tuning and tweaking the SVG code, especially in conjunction with  tools.
+Also, some programs will allow you to insert raster-based components into your file without warning you that if the file is converted into SVG these components will not simultaneously convert to vectors, meaning that you may need to be very careful about the sorts of filters and effects you include in an image and should check for any extraneous embedded "links" within an image before you upload the SVG to Commons. How to do this will vary from program to program.
+However, if you are using Adobe Illustrator, here are examples of things which will cause Illustrator to convert a path into a raster component:
+These are just a few examples of things which will cause Illustrator to produce a raster when a vector was intended. The simpler these paths can be, the more likely Illustrator will be able to retain them as vectors.
+The source code of every SVG file  begin with the XML processing instruction. The XML processing instruction specifies the version of XML and the character set. The  insists that   be used, (the  warns only for its absence). The software with which you create or edit the SVG file should provide the option of choosing character encoding.  is  for internationalization as opposed to  or  encodings other than UTF-8. The absence of the XML declaration will lead to a mild confusion when the SVG source file on a Wikimedia server is opened in a browser: the raw XML code will be displayed instead of being rendered into an image. This is not an issue if you download the source SVG file to your device and open it locally.
+A DOCTYPE declaration with its  is not needed and there are recommendations that it should not be included. SVG 1.0 and SVG 1.1 have DTD specifications, but SVG 2.0 will not have one. The SVG DTD will validate the SVG, but the DTD is not aware of any extensions. Consequently, a DTD validator will list as errors  metadata and the additional elements and attributes that Inkscape includes with its SVG output. Wikimedia servers also restrict what can be included in a DTD's internal subset, so it is no longer possible to extend the SVG DTD to include additional elements and attributes.
+The  root element should follow. It  specify the  for SVG, ; without the SVG namespace, an SVG image will not render. (The default namespace is specified with .) Other namespaces may be included in the  element. For example, if the file uses linking, then the  namespace  should be declared. The SVG  number  be included (typicaly 1.1). Software normally supplies these namespace declarations and may include other namespaces.
+The defaults for the  and  attributes are , and those defaults will permit automatic scaling. An image that specifies  is declaring that it wants to be displayed at a size of 400 pixels instead of neatly filling its container. Unfortunately, many software tools specify a fixed size for these attributes. The  element should specify a  attribute. The view box specifies the displayed portion of the image; the view box is translated and scaled to fit the width and height of the container.
+There are some valuable uses of bitmap images within SVG files, such as annotating a photograph (e.g., labeling the parts in an anatomical photograph). However, most uses of bitmaps in SVG files are not necessary and bitmaps are often better converted or redrawn as vectors. Bitmaps should be included within an SVG file if for some reason this is the best solution, but should be redrawn as vectors if this yields an overall better or more informative image. Further, other editors who come across the image on Commons may decide to apply the tag  to an SVG image containing undesirable raster-based elements.
+Please think carefully about using bitmaps in SVG files, and consider  them or redrawing them as vectors when incorporating them into an image rather than including a bitmap directly. See the  for further discussion of this issue. If you do decide to use a bitmap image, please be sure to embed and not link to the image; otherwise it won't render.
+, but because the SVG is converted to raster PNG format for use in  projects, the animation only shows when the SVG file is loaded into the browser. From an article page, that involves clicking on the image to reach the  page, and then clicking on that image to load the SVG.
+The original method of animating SVG uses SMIL. More recently, CSS animation is available.
+SMIL is seeing diminishing support across browsers. Internet Explorer did not support it; Google deprecated SMIL in 2015 with the possibility that it may completely remove SMIL from Google Chrome in the future. As of July 2018, SVG SMIL animation is available in most browsers except Internet Explorer, Edge, and Opera.
+See  for how to mark an SVG file as animated.
+The  right under the SVG element serves as the title name of the SVG image itself, but it can be also applied further inside of the descendant elements within the SVG image. Most modern desktop browsers render these titles into popup  which help readers to identify the meaning of the object on mouse-hover even if there is text label by the object. Similarly, title can also be applied on text too for collapsing message but it may be a good idea to give some hint of the existence of the title element by using text decoration like underline.  is more suitable for technical information which should not be displayed to the reader normally but other users who may edit the SVG source code.
+Currently most mobile browsers can not display any title content innately except for the one right under the SVG element because there is no equivalent of hovering the pointer on mobile devices.
+For security reasons,  does not accept SVG files containing scripts.
+Before saving the final version of an SVG image you should remove any references to other files you used to make the SVG (this is what is meant by "linking"); if these references are left in the SVG text, then the render will not find the external file(s) and will fail. Wikimedia block such uploads, so they can't be uploaded any more.
+It’s also a good idea to remove or "vacuum" any unused definitions (defs), as these can needlessly bloat the size of the file (except you need them for further edtis, such as default templates).
+There are three common svg-opimizers: ,  and , but be aware that all three optimizers have dozens of open bugs and are not activly developed any more, for more optimization-options and how to use them see .
+But be aware that tidying up is controversal and often undesired, see  for details and resons.
+Inkscape and other programs also allow users to save files in SVGZ (compressed binary SVG) format. This format is  supported on Commons and should not be applied to any images uploaded here. Such images cannot be uploaded.
+Be aware in  and  are different options to save, see  and .
+In Inkscape there are three possible svg-options: "Inkscape SVG", "plain SVG" and "optimized SVG". Inkscape SVGs is the best fileformat to reedit the file in Inkscape, otherwise informations such as layer or grids will be removed, such immages should be taged with  to show they should not be . Plain SVG will be rendered identical as Inkscape SVGs and are a bit smaller. Optimized SVG uses a optimizer called scour, which can reduce the file-size even more and offers some workarounds for librsvg-bugs, such as .
+A number of free fonts installed on Wikimedia server can be rendered using the  tag. You can find  or .  is not supported at all. Some fonts are not available in Regular style, only in Bold or in others such as Italic; consider alternatives like . Please consider using these fonts and not converting text to paths for the following reasons:
+In addition, if fonts are converted to paths, there may be copyright issues if the font does not have an . (Such vector images become  of the font.) See also: 
+SVG files which should not convert text to path shape may be tagged with . For linking text  (what we have been calling "text" or "font") and text  (i.e., path-based) versions of an SVG file use .
+If you still insist converting text to path for reasons like the lack of support of  function or rare glyph which is not present in most typefaces, you should duplicate the raw text group to overlap the converted text and add the attribute  to this group in order to hide the raw text. This way the text in the original SVG file can still be searched, clicked and highlighted by readers manually.  may lead to some misunderstanding because it will make the highlight invisible while still selectable.  prevents readers from searching the text without accessing the source code.
+Converting text to outline (path) before exporting SVG is particularly popular among  users because the vector graphic software does not convert  attribute to  and the fallback fonts on Wikimedia have different font metrics than the chosen font by the image contributor. This leads to incorrect text positioning and encourages users to ignore the benefits of maintaining raw text in the vector file.
+Inkscape supports a feature known as "Flowed Text" which automatically wraps text to fit into the bounds of a given text box. Unfortunately this feature is not part of any published SVG standard (it’s only contained in a working draft of SVG 1.2) and its usage will almost certainly result in compatibility problems. On Wikipedia, a flowed text box does not render at all( – depending on font size and color).
+To avoid this issue in Inkscape:
+However there are some easy ways to fix this issue:
+If you accidentally created a Flowed Text box which is empty (i.e. contains no text) it’s not visible or selectable in Inkscape but it still shows up as a black rectangle on Wikipedia. To delete it there are some possibilities:
+Font scaling currently does not work as expected if horizontal and vertical scales (according to the effective transform matrix) are not equal (the horizontal stretch will be ignored: only the font height, computed from the matrix is currently honored); this can prevent the correct rendering in narrow/condensed or width-extended styles from another font, with text taking unexpected width and flowing out of the expected box (the alternative is to select an alternate free font family which is already narrowed/condensed).
+Text is guaranteed to be misplaced (and in some case, ugly ) if the resolution of the PNG render is not the same as the native dimension defined by the SVG file itself regardless of how "regular" the scaling multiplier is (e.g. 0.5, 2 or 4) (). In any case, do not use extremely small (>10px) or large font-size and then scale the text or the whole image to your desirable size. Always begin with a reasonable font-size (unfortunately a size around 80px is preferable).
+Beware also with font metrics differences: an SVG file may look good when rendered directly in a SVG-capable (all modern) browser under Windows or Mac OS (which can use common, but non free fonts such as Courier or Courier New), but will look other when restricted to the list of free fonts currently supported by the MediaWiki’s SVG-to-PNG renderer (or when viewed under OSes like free distributions of Linux), see also section "".
+The attribute  isn't fully supported and could not rendered correctly. See .
+Librsvg calculates the letter-distances inaccurately for font-sizes of 20px and below.
+For a text like
+you can replace it with:
+or with
+RSVG recognizes  property, but does not implement it correctly. When this property is given any non-default value (i.e., anything but left-to-right modes), all characters will clump together (). For example, the typical way of producing vertical text does not work:
+If the alternative writing mode is still desired (e.g. top-to-bottom mode for Asian languages), align all characters separately instead of relying on this property:
+The above code lays out a horizontal text string ( is unchanged from the default left-to-right) one character at a time; each character is reset to the same horizontal position () and escaped 16 units () further down the page. The  simulates , which is the  default when .
+SVG font specifications may use a specific  such as  or . Such a font specification usually means the user agent must have access to the font file with that name. Unfortunately, many fonts are proprietary and are not available on all operating systems. For example, not all operating systems have the proprietary Arial font. If the specific font family is not available, then some default font will be used; the default font may have a much different appearance. For the user agent , the default font is . Many user agents have a font substitution table that allows the user agent to substitute a font family that is close. To improve the font matching, SVG allows the  to be a list of font family names; the user agent will use the first font family that it recognizes. The graphic artist might list similar Microsoft, Apple, and Unix fonts to improve the chance of the user agent having the desired font. Additionally, SVG supports the CSS  specification. That means most SVG user agents should support the generic font families of , , , , and . It is good practice to use a generic font family as the last entry in the font family list. For the  on Commons:
+On Commons,  has the fonts listed in . Using just those fonts will get good results in Wikipedia articles that display their images using , but graphic artists should also be aware that SVG files may be displayed by other user agents. Consequently, it is best to use common font families (such as ) or a list of font families that ends with a generic font family (such as ).
+The font metrics for generic font families such as  will likely vary widely on different user agents. In graphic illustrations metric exact text elements are often important and Arial can be seen as de-facto standard for such a feature. Adding both Arial and sans-serif as fallback fonts will help the SVG to be displayed with best effort on machines that do not have or substitute Arial. To make the SVG file independent of Arial, change all occurrences of  to .
+If you are using non-Western characters, you should define those typefaces preceding Liberation Sans. For example, if your text contains Chinese characters, font-family definition should be: ‘’. In this case, western fonts are put in the front because the quality of Western characters in Chinese fonts is often low, and we want to use the higher-quality ones first.
+Although you can use only the  element to render simple text in the image, the  element can be useful to handle text which the position of the word is dependent to the other. A  element must be nested within the  element, and then more  can be nested within this , all styling defined in the parent  element will be inherited by its child  elements. For example:
+The primarily difference with the " nesting " structure is that few important text layout behaviors are exclusive to : When multiple  elements are lined up consecutively, they still position themselves independently; if multiple  elements are lined up consecutively but the second and subsequent  elements are not given absolute x coordinate, text of these  elements will line up horizontally right next to the end of the character of prior  in the same  element.
+However,  should be used sparingly even if you define the absolute x coordinate for every single  element in the  element. This is because under the default  definition, any  (within  or ) with an extra trailing white-space is converted to a blank space character automatically. If there happens to be multiple consecutive line breaks, they are treated as one space still. This would not be a problem if the line break is followed by a  element with absolute x coordinate and is align to left (text-anchor=start, the default value). If  is given the  value, librsvg will translate the indent to a long white  equal to 8 space characters. Because the auto-formatting or re-indentation () of most XML editors creates indent for every new descendant XML tag automatically, use re-indentation carefully if your SVG file contains such usage of .
+The behaviors in different SVG renderers to this issue varies much and is usually inconsistent to the W3C specification (also the  value of  will be deprecated in SVG 2.). The only problem with librsvg is that it never converts the line break alone into space no matter which value of  is given if there is no trailing space or indent before the  tag. Except for librsvg, nearly all modern browsers always add the converted space character , this is the reason why the  or  values of  property always align the text 1 space leftward because the new line and/or the trailing tab or space after the closing  tag is converted to an unexpected space character.
+Inkscape is buggy to render , for example, inheriting  property from the first  element incorrectly for the subsequent  elements even if the property is specifically given a value in all  elements. In such case, simply revert the "text nestling tspan" structure to just "g nestling text". Inkscape also defaults to xml:space="preserve" to deal with space between tspan. If you are completely concern with how your SVG appears in Inkscape but prefer the default xml:space handling, use  to replace each general space so it will not be hidden in Inkscape.
+If you are generating an SVG using Adobe Illustrator, you will be given options to "Output fewer <tspan> elements" and "Use <textPath> element for Text on Path" during the save dialog. To maximize the consistency of the appearance of your font across browser platforms, you should place a check mark next to the former and make sure there is no check mark next to the latter. If you do not do this, the kerning of some of your letters may cause them to overlap (depending on your browser).
+SVG 1.1 does not provide any form of  (either hard or soft). Any line wrap should be done manually by repositioning new  or  elements with the same absolute x coordinate and a new y coordinate. For  elements, the next line's y coordinate can be set with the  attribute. Although  can handle a similar situation, this element is not supported by librsvg/Wikimedia ().
+A draft of SVG 1.2 did address line wrapping, but there is little support.
+The draft of SVG 2.0 also addresses line wrapping, but Chrome, Firefox, Edge, and  do not support it as of May 2018.
+You can change the  of the text using  property. The W3 SVG specification states that the default value is , i.e. no bolding or thinning at all, but librsvg does not recognize this particular value. If you want to revert the text to normal weight but the font weight has already been defined in the parent element, use the value  in place of .
+Usually it is simply gratuitous use of the ‘’. To ease the process of updating font-family for every text or tspan elements, you can define the font CSS class(es) within ‘’ and apply the  property in elements like this:
+CSS class defined in ‘ element’ can also be used for other SVG elements (e.g.  and ) despite the misleading  attribute. Even if one particular style is defined once in the SVG, it is still advised to replace the style with class for a tidier layout of XML codes. 
+Contrary to popular belief the  attribute does not separate content from presentation, and unless you need to override properties set by a CSS selector, it is best to use the SVG formatting attributes instead (e.g.  instead of ). However, if you need to override the element style defined in  element, you do need to employ  attribute. If you need to override the style for  element without  attribute, you can use a  element container to nest the text you need to override the style, presuming there is nothing predefined in  element for  element.
+Sometimes the text might be unreadable because the background color has low contrast with the font color or the pattern is too complicated that confuses the reader. This can be solved by duplicating the text in exactly the same position, but the back text rendered with stroke and the fore text without it like this:
+The problem with applying stroke and fill to the same text element is that the stroke will be rendered  the main body of text, making it otherwise unreadable if the font is too small but requires a larger stroke to be distinguishable from the background.
+If you have lot of text that needs to be rendered with a stroke background, you can manually include the text within ,  and  elements. The  element which will be rendered underneath, apply the stroke, then  the text group of  element without a stroke and fill the font with contrasting color:
+W3C includes paint-order property in SVG 2.0 which allows the order to render the attributes of "fill", "stroke" and "markers" within one element arranged by the user manually, instead of following the default mandatory order. Mozilla Firefox also includes this attribute experimentally but it defaults to disable in the stable release until SVG 2.0 matures. This feature can be enabled in the about:config entries of Firefox.
+Users of Inkscape version 0.46 may notice that images with "Fill gradients" display perfectly on Inkscape, but display "messed up" in Opera or Firefox browsers. One possible cause is that the last "stop" on a gradient has opacity set to 0. Inkscape appears to ignore this last stop, but both Firefox 3.0.6 and Opera 9.36 will render it as a white border in the filled object. Solutions are either remove the last stop (because it was probably created in error) or change the opacity (and colour) so that the image renders correctly in browsers.
+Users of Adobe Illustrator CS5, CS6, or CC and who also use Firefox may notice that an Illustrator "symbol" containing a gradient will render normally as a Commons PNG file but if the SVG file itself is opened in Firefox these symbols will appear vacant. Other browsers will have no difficulty— Google Chrome, even Internet Explorer will render Illustrator’s SVG symbol gradients correctly, but because of a known bug that the designers of Firefox have been aware of since 2005 (Mozilla’s Bugzilla  and other reports that lead to it such as ) but have so far failed to adequately fix, Firefox will display such symbols as empty shapes (symbol strokes and symbol paths without gradients are unaffected).
+Adobe Illustrator users should also note that any Illustrator "symbols" containing paths with both a gradient  a filter will be rendered as a PNG in Commons only within the  of the use of that symbol. Subsequent use of a symbol containing these paths will render the paths (though not the entire symbol) as blank (neither gradient nor filter nor fill nor stroke will be applied).
+SVG files can be translated and can be multilingual (have embedded translations). For more information, see .
+Given an image file that is in a format other than SVG, there are various ways to convert it to SVG; see  for programs.
+ For vector images where the vectorization was done by a third party, there is the issue where the vectorization code may have its own copyright even if the depicted image itself is out of copyright or below the threshold of originality. 
+Generally, there are 3 ways to produce an SVG file, given an existing image:
+If you are unable to convert an image yourself, please add the tag  to flag that the image  be converted. Some images are not well-suited to SVG, notably continuous-tone images such as photographs. These generally should instead be stored as JPG.
+If the image was generated by a program (rather than drawn by hand) — for example, a chart from a spreadsheet — it may be possible to set the output format to SVG, rather than PNG or other format, and thus produce an SVG image from the same source. If possible, this is generally easiest.
+Many vector file formats can be easily converted to SVG simply by changing the format (repackaging the existing data), by using a converter program. This may be as simple as opening the file in a vector image editor and then saving it in SVG.
+For raster (bitmap) graphics, this cannot be done because the image is a set of individual pixel values, not a set of strokes (vectors). For these images (notably PNG images), one can convert to SVG via "" or "tracing" — automatically generating a vector graphic from a raster image.
+Many SVG editors have tracing functions, and dedicated  exist. In Inkscape, this is done by the  program. Concretely: open the bitmap (File → Open… (Ctrl-O)), then select Path → Trace Bitmap… (Shift-Alt-B). There are various options; after using, please delete the underlying bitmap, and consider simplifying the path to reduce the number of nodes (Ctrl-L).
+Adobe Illustrator also allows for the conversion of bitmap images into vectors via its Image Trace function. Care must be taken when doing so that the resulting vector image is neither ponderously large (often the result of too much conversion fidelity with regard to color and shape) nor so simple that it loses faithfulness to the original image. Converted images almost always require some manual correction after conversion. As in Inkscape, the underlying bitmap should be removed after conversion is complete.
+It should also be noted that when Illustrator converts one of its files into an SVG file, it tends to convert a number of shading effects such as "inner glow", "outer glow", and gradients applied along or across a path into undesirable raster images which it then embeds in the SVG image using links. Such embedded images can often be immediately detected by viewing the image in a web browser under high zoom where they will appear cloudy or have visibly jagged edges (neither of which is ever true of a correctly rendered vector image). As these effects were originally created without regard to the W3C consortium, Adobe does not offer and is never likely to have a solution to the problem.
+In order to remove raster components from an Adobe Illustrator-generated SVG prior to uploading the image to Commons, the artist must first be able to identify where Illustrator has put them. This can be done in the following way:
+First finish editing an image file and save in Illustrator’s AI format (*.AI), then save it again in SVG format. During the second Save dialogue, choose to "embed" the links (for now). Then close out the image (File=>Close or Ctrl+w). Next, open the SVG version back up again, click on "Window" from the right side of the top menu bar, and scroll down to "Links". This will open up a small window containing information about each of the links (if any) which currently exist in the SVG image (whether or not Illustrator produced them). You can click any of the entries in the top half of the window and then select the "Go to link" button located in about the middle of it-- this will take you to that particular raster so that you can identify it and either remove it or replace it with a non-raster based alternative. Note that this SVG version of your image, when viewed in Illustrator, may look  different from the same SVG file you thought you had saved just a few minutes prior: this is because Illustrator has made a set of codes during the creation of that file which it then has difficulty reading (SVG is not an Illustrator-proprietary format, AI is, and so while Illustrator will never have difficulty correctly viewing an AI (Adobe Illustrator) file, it will sometimes struggle to correctly render an SVG, even one that it itself produced). Fortunately, even an SVG that looks confusing in Illustrator will usually at least  to render correctly in most browsers (with the occasional and already noted exception of Firefox) and in Inkscape.
+If an image cannot be regenerated or converted, the remaining option is to recreate it — draw a new SVG image, using the existing image as a model. This is manual and the most time-consuming option, but may ultimately yield the highest quality.
+In all cases, it may prove useful to touch up the resulting image in an SVG editor — perhaps adding details which are hard or impossible to produce in the originating program, or simplifying or refining a complex conversion (such as simplifying a path described by 100 points to one described by 5 points, if extra points add unnecessary detail).
+Once you have created an SVG image, upload it (under a new name), and tag the original raster image with , but please do  delete the raster image or list it for deletion, as it still serves some purposes — see  for details.
+Uploading is described at .
+Make sure to fill out the  box as fully as you can. Often, it’s a help when an image has a complete information box as this makes categorization by others easier and allows others to make translations.
+Don't tag your file with / but use  with specification about the generation tool and other information on the image page.
+See the  section for detailed information on a SVG media.
+All SVG graphics should be sorted into the appropriate subcategory or subcategories of . Please do not place images directly in the parent category as it will become overcrowded and useless (we have  more than 100,000 SVG files).
+Sort subcategories which rely not on subject but on technical aspects ("created with…", "animated", "valid", and so on) by '' to keep them outside the alphabet listing.
+The main tree is , as a part of  → .
+Concerning the creation of topical subcategories, it is unnecessary to rebuild the complete hierarchy tree of . Normally, it is enough to gather some topics into one. For instance,  could contain all color-related SVG files of , so it’s pointless to create ,  and so on. Maybe some subcategories will become useful later, but stay close to the existing topics tree, and do not put any SVG files only into a SVG category: Categories are primarily for  media, not for  them. Do not over-categorize.
+Category names start with "SVG" followed by the topic in lowercase (unless it’s a proper noun). For example, a category containing SVG files related to chemistry would be called . There was no naming convention for a long time, thus you may see titles that do not match this format. These will be converted over time.
+  
+For the software used ():
+
+
+To embed this file in your language (if available) use the  parameter with the appropriate language code, e.g.  for the English version.
+To translate this file into your language, you can use the . Alternatively, you can download the file to your computer, add your translations using whatever software you're familiar with, and re-upload it with the  name. You will find help in  if you're not sure how to do this.
+
+.
+
+
+
+
+
+
+
+When you upload your SVG to Commons (or any other MediaWiki wiki), the software automatically produces PNG , embedded in the articles and the description page. If you download the image (usually by right mouse clicking on the image), you will get the PNG image.  This works (by right mouse clicking on the link under the image) only on the description page of the image, not on the thumbnail in the category page.
+ uses  to convert SVG files to  for display (SVG rendering), it has some long and  that should be fixed, so you might want to check your file with that program before uploading. You can test the SVG with  for accurate PNG render preview and  for possible code errors or incompatibility of SVG elements or attributes.
+What this means: Say you want to produce a large version of your SVG for detailed maps, or using in-bitmap software like gimp, or calligraphy printed out one character per page, or something like that. You need to force MediaWiki to produce a huge PNG thumbnail, by using  or by doing something like  in the  or your talk page or somewhere else unimportant. Printing this giant PNG will look much better than if you try to scale up one of the default thumbnails! Of course, you can also use for-printing SVG software like Inkscape but sometimes that shows something other than what’s shown on-screen (black background, other fonts, etc.).
+Many programs can handle SVG files. You may like to try one given below, though these are not the only programs around. Some are available for free download, while others are commercial software.
+As SVG is just an XML specification, it is possible to write SVG files manually in a text editor, or with your own programs/scripts. In fact, many SVG images are written in text editors. An editor which can highlight the syntax is helpful. Check your work with the .
+All modern web browsers render SVG natively.
+Most SVG editors include a raster-to-vector-converter ()
+There is some concern that the SVG source code of images might be copyrightable as a "computer program" even if the output is an image in the public domain due to being  or otherwise indistinguishable from a work that is public domain due to copyright expiration. This could mean that even though the output of an SVG, the image, is in public domain, the code could be restrictively copyrighted, and therefore inappropriate for including in Wikimedia Commons. Elements that weigh in favor of SVG source code containing sufficient creative expression to be copyrightable might include hand-written code, complex embedded CSS, embedded comments , or a large carefully selected set of control points. Elements that weigh in favor of SVG source code lacking creativity include programmatically generated code or slavish copying of a public domain source. See the following for additional context:
+Maintenance:
+ |
+ |
+ |
+ |
+ |
+ |
+
+ () is an accepted  on . It is suited to diagrams, maps, and other non-photographic images. SVG is highly appreciated on Commons because it describes graphical objects with  and thus currently provides the best way to modify and improve content.
+SVG files are used extensively on Wikimedia Commons. Here are a few tips to get started (if you already know what program you will be using to generate such files, consider visiting  or  in addition to the following).
+ (SVG) is an  specification and file format for describing two-dimensional  (as opposed to a "bitmap" or ) in both static and animated forms. It is stored in either  or compressed (binary) format which is much more size efficient than most other image formats such as  or . SVGs also allow embedding of raster graphics and editable text.
+ (alternatively "RSVG") is the rendering library used by MediaWiki to rasterize the SVG files into the PNG bitmap format that is served to Wikimedia pages. The displayed image is not SVG and is therefore not animated or interactive. One reason for this choice is that rendering an SVG in real-time slows down older computers or operating systems. A raster version which can be efficiently converted from the SVG source helps overcome this technical problem. Another reason is that some SVG files are large (e.g., 1 MB), but the image when displayed on a monitor might be 160×320 pixels, which would be an uncompressed 51200 pixels (153600 bytes for 24-bit color).
+Unfortunately, the sole maintainer of librsvg before 2014 wrote in a private email that "" Most major bugs which have been reported to  for years are going to remain as is. There has been some recent work on librsvg, but part of that work has translated some C-language code to the . Librsvg-2.40.20 was the last expected release of the C-only code; librsvg-2.41 and later builds require Rust. Although an SVG  bug () may have been fixed in librsvg-2.42.2, that and other fixes will not be available until Wikimedia can incorporate the 2.42 and later versions. A Wikimedia developer has said, "We cannot easily upgrade librsvg on our Debian servers from 2.40 to 2.42 as 2.42.x requires Rust." (, 29 April 2018).
+Several of librsvg's missing features and bugs impact SVG images on Commons. Consequently, SVG files need to avoid or workaround those problems. For example, librsvg does not support the text on a path feature, and librsvg has problems with left-to-right and top-to-bottom text strings. Even where librsvg works flawlessly, there can be compatibility issues. An SVG file may use a font that Commons does not have.
+In the SVG specification, the  element  default its  attribute to . SVG images that use  elements should explicitly set  in their  tag. (In other words,  should be prefered of .) ()
+
+RSVG does not correctly compare  attributes, which SVG specifies is a comma-separated list of IETF language tags (langtag). RSVG only matches the first subtag (the group of characters before the first hyphen) in the langtag, so RSVG ignores the any country code or script subtags that follow. For example, RSVG will not distinguish  (Chinese using simplified script) and  (Chinese using traditional script). To work around that problem, a private-use langtag (one in the range –) can be used to specify the language.
+As a further complication, as of May 2018, Google Chrome and Microsoft Edge browsers fail to handle  attributes correctly, too. The first langtag should be the public langtag followed by a space. With that convention, both Chrome and Edge will parse the first langtag correctly (Chrome will incorrectly parse the second langtag; Edge only recognizes the first langtag and ignores all others). As of October 2018, both Chrome and Firefox fixed their  matching; Edge still only recognizes the first langtag and ignores the remaining ones.
+The  attribute should be a list of IETF langtags. There is some confusion about proper language tags. For Serbian, MediaWiki has been using  and , but under BCP 47 those tags mean Serbian as spoken in the region EC (Ecuador) and Serbian as spoken in EL (unassigned region). The proper langtags are  and . The Cyrillic langtag should be before the Latin langtag to make SVG 1.1  processing choose the Cyrillic script if the user has stated a language preference that includes . (MediaWiki is starting to use proper langtags; see .)
+Chinese is more complicated. The  is a macrolanguage subtag that references all Chinese dialects (e.g., Mandarin or Cantonese). One can specify Mandarin with , but the IETF registry prefers the use of . Similarly, instead of , IETF prefers  for Cantonese. The Chinese script may be specified:  is the simplified script and  is the traditional script. Which langtags to use for Chinese are not clear. A simple approach just uses  or  to specify the script (IETF registry marks both as "redundant" but does not offer a preferred alternative). An alternative specifies the dialect and script, for example,  or . A region langtag can be appended:  (Mandarin with simplified script as used in China).
+For MediaWiki, the Serbian pages have a common source than can be rendered in either Cyrillic or Latin script. Similarly, the Chinese pages have a common source that can be rendered in either Hans or Hant. Ideally, a Chinese reader could select the Hans script, and all the images in the article would also be rendered in Hans. The desired effect would be something like
+It is not clear whether or how this can be done in MediaWiki.
+Programs you can use to create SVG images are shown in the  hereafter. Alternatively you can edit the SVG code directly with any text editor or .
+The following sections explain specific features of SVG.
+Although not a requirement on Commons, it is a good idea to run your file through the World Wide Web Consortium (W3C)  () before you upload. The validator can find problems with an SVG file that may cause the file to render incorrectly in different platforms. For example, validation will complain about the use of  elements, which are nonstandard and poorly supported.
+If the SVG file has a , then the validator will use that DTD to check the syntax. If there is no DOCTYPE (which is not required nor is  it recommended), then the validator may check that the file is well-formed XML, but it may realize the file is SVG and perform non-DTD validation by passing the file to its nu Validator. From the W3C validator web page, one can select to validate the file as SVG 1.1.  (In SVG 2, references to the SVG DTD have been removed.)
+If additional namespaces are present in the SVG document, the validator will complain about them. Many tools, such as Adobe Illustrator and Inkscape, insert nodes in additional namespaces.
+If the W3C validator is given a file that is served with an appropriate  , then the file will be validated as  (an option not available from the UI dropdown box). That validation is done by a second, more modern, validator, the nu Validator (). Additionally, the validation will not issue errors for the  namespace element trees and will use schemas to check the  and  namespaces. The validation is used by .
+Other namespaces will still cause validation errors. The W3C nu Validator can be told to suppress errors about other namespaces with the  parameter.
+In addition, non-SVG 1.1 attributes will produce validation errors. The SVG 2.0 draft allows users to include arbitrary  attributes just as HTML 5.0 does, but the W3C validator will complain about them.
+Different software programs and different browser platforms may render the exact same SVG file in slightly different ways. The way you see your final image in a vector image editor may  reflect how that image will look once it is uploaded to Commons and is viewed by others. Also, all SVG images are automatically converted to PNG files when used in a Wikipedia article, and this may affect how the final image looks as well. As an example of the former, in an image containing a series of very fine strokes, those strokes will probably look much more bold and thick in the editor than they will once the image has been converted to SVG and viewed in a web browser. Those who create SVG files should consider saving their work in SVG format and then opening that same image using two or three different browsers to verify that it is rendering as intended. A similar check can be done by opening the file in other image editing programs as well.
+To preview how an SVG will be rendered to PNG on Commons, go to .
+The reasons why the same file becomes rendered differently depending on context is a result of how these contexts (browsers or programs) interpret the file’s SVG code and use that code to generate the image. Aim to create a "least common denominator" SVG that renders correctly no matter what browser is used to open it, and never assume that your own image editing program is showing you what the image will really look like to other viewers. Previewing SVGs in a Web browser (rather than vector graphics editor) can reveal some problems. It is sometimes helpful in tuning and tweaking the SVG code, especially in conjunction with  tools.
+Also, some programs will allow you to insert raster-based components into your file without warning you that if the file is converted into SVG these components will not simultaneously convert to vectors, meaning that you may need to be very careful about the sorts of filters and effects you include in an image and should check for any extraneous embedded "links" within an image before you upload the SVG to Commons. How to do this will vary from program to program.
+However, if you are using Adobe Illustrator, here are examples of things which will cause Illustrator to convert a path into a raster component:
+These are just a few examples of things which will cause Illustrator to produce a raster when a vector was intended. The simpler these paths can be, the more likely Illustrator will be able to retain them as vectors.
+The source code of every SVG file  begin with the XML processing instruction. The XML processing instruction specifies the version of XML and the character set. The  insists that   be used, (the  warns only for its absence). The software with which you create or edit the SVG file should provide the option of choosing character encoding.  is  for internationalization as opposed to  or  encodings other than UTF-8. The absence of the XML declaration will lead to a mild confusion when the SVG source file on a Wikimedia server is opened in a browser: the raw XML code will be displayed instead of being rendered into an image. This is not an issue if you download the source SVG file to your device and open it locally.
+A DOCTYPE declaration with its  is not needed and there are recommendations that it should not be included. SVG 1.0 and SVG 1.1 have DTD specifications, but SVG 2.0 will not have one. The SVG DTD will validate the SVG, but the DTD is not aware of any extensions. Consequently, a DTD validator will list as errors  metadata and the additional elements and attributes that Inkscape includes with its SVG output. Wikimedia servers also restrict what can be included in a DTD's internal subset, so it is no longer possible to extend the SVG DTD to include additional elements and attributes.
+The  root element should follow. It  specify the  for SVG, ; without the SVG namespace, an SVG image will not render. (The default namespace is specified with .) Other namespaces may be included in the  element. For example, if the file uses linking, then the  namespace  should be declared. The SVG  number  be included (typicaly 1.1). Software normally supplies these namespace declarations and may include other namespaces.
+The defaults for the  and  attributes are , and those defaults will permit automatic scaling. An image that specifies  is declaring that it wants to be displayed at a size of 400 pixels instead of neatly filling its container. Unfortunately, many software tools specify a fixed size for these attributes. The  element should specify a  attribute. The view box specifies the displayed portion of the image; the view box is translated and scaled to fit the width and height of the container.
+There are some valuable uses of bitmap images within SVG files, such as annotating a photograph (e.g., labeling the parts in an anatomical photograph). However, most uses of bitmaps in SVG files are not necessary and bitmaps are often better converted or redrawn as vectors. Bitmaps should be included within an SVG file if for some reason this is the best solution, but should be redrawn as vectors if this yields an overall better or more informative image. Further, other editors who come across the image on Commons may decide to apply the tag  to an SVG image containing undesirable raster-based elements.
+Please think carefully about using bitmaps in SVG files, and consider  them or redrawing them as vectors when incorporating them into an image rather than including a bitmap directly. See the  for further discussion of this issue. If you do decide to use a bitmap image, please be sure to embed and not link to the image; otherwise it won't render.
+, but because the SVG is converted to raster PNG format for use in  projects, the animation only shows when the SVG file is loaded into the browser. From an article page, that involves clicking on the image to reach the  page, and then clicking on that image to load the SVG.
+The original method of animating SVG uses SMIL. More recently, CSS animation is available.
+SMIL is seeing diminishing support across browsers. Internet Explorer did not support it; Google deprecated SMIL in 2015 with the possibility that it may completely remove SMIL from Google Chrome in the future. As of July 2018, SVG SMIL animation is available in most browsers except Internet Explorer, Edge, and Opera.
+See  for how to mark an SVG file as animated.
+The  right under the SVG element serves as the title name of the SVG image itself, but it can be also applied further inside of the descendant elements within the SVG image. Most modern desktop browsers render these titles into popup  which help readers to identify the meaning of the object on mouse-hover even if there is text label by the object. Similarly, title can also be applied on text too for collapsing message but it may be a good idea to give some hint of the existence of the title element by using text decoration like underline.  is more suitable for technical information which should not be displayed to the reader normally but other users who may edit the SVG source code.
+Currently most mobile browsers can not display any title content innately except for the one right under the SVG element because there is no equivalent of hovering the pointer on mobile devices.
+For security reasons,  does not accept SVG files containing scripts.
+Before saving the final version of an SVG image you should remove any references to other files you used to make the SVG (this is what is meant by "linking"); if these references are left in the SVG text, then the render will not find the external file(s) and will fail. Wikimedia block such uploads, so they can't be uploaded any more.
+It’s also a good idea to remove or "vacuum" any unused definitions (defs), as these can needlessly bloat the size of the file (except you need them for further edtis, such as default templates).
+There are three common svg-opimizers: ,  and , but be aware that all three optimizers have dozens of open bugs and are not activly developed any more, for more optimization-options and how to use them see .
+But be aware that tidying up is controversal and often undesired, see  for details and resons.
+Inkscape and other programs also allow users to save files in SVGZ (compressed binary SVG) format. This format is  supported on Commons and should not be applied to any images uploaded here. Such images cannot be uploaded.
+Be aware in  and  are different options to save, see  and .
+In Inkscape there are three possible svg-options: "Inkscape SVG", "plain SVG" and "optimized SVG". Inkscape SVGs is the best fileformat to reedit the file in Inkscape, otherwise informations such as layer or grids will be removed, such immages should be taged with  to show they should not be . Plain SVG will be rendered identical as Inkscape SVGs and are a bit smaller. Optimized SVG uses a optimizer called scour, which can reduce the file-size even more and offers some workarounds for librsvg-bugs, such as .
+A number of free fonts installed on Wikimedia server can be rendered using the  tag. You can find  or .  is not supported at all. Some fonts are not available in Regular style, only in Bold or in others such as Italic; consider alternatives like . Please consider using these fonts and not converting text to paths for the following reasons:
+In addition, if fonts are converted to paths, there may be copyright issues if the font does not have an . (Such vector images become  of the font.) See also: 
+SVG files which should not convert text to path shape may be tagged with . For linking text  (what we have been calling "text" or "font") and text  (i.e., path-based) versions of an SVG file use .
+If you still insist converting text to path for reasons like the lack of support of  function or rare glyph which is not present in most typefaces, you should duplicate the raw text group to overlap the converted text and add the attribute  to this group in order to hide the raw text. This way the text in the original SVG file can still be searched, clicked and highlighted by readers manually.  may lead to some misunderstanding because it will make the highlight invisible while still selectable.  prevents readers from searching the text without accessing the source code.
+Converting text to outline (path) before exporting SVG is particularly popular among  users because the vector graphic software does not convert  attribute to  and the fallback fonts on Wikimedia have different font metrics than the chosen font by the image contributor. This leads to incorrect text positioning and encourages users to ignore the benefits of maintaining raw text in the vector file.
+Inkscape supports a feature known as "Flowed Text" which automatically wraps text to fit into the bounds of a given text box. Unfortunately this feature is not part of any published SVG standard (it’s only contained in a working draft of SVG 1.2) and its usage will almost certainly result in compatibility problems. On Wikipedia, a flowed text box does not render at all( – depending on font size and color).
+To avoid this issue in Inkscape:
+However there are some easy ways to fix this issue:
+If you accidentally created a Flowed Text box which is empty (i.e. contains no text) it’s not visible or selectable in Inkscape but it still shows up as a black rectangle on Wikipedia. To delete it there are some possibilities:
+Font scaling currently does not work as expected if horizontal and vertical scales (according to the effective transform matrix) are not equal (the horizontal stretch will be ignored: only the font height, computed from the matrix is currently honored); this can prevent the correct rendering in narrow/condensed or width-extended styles from another font, with text taking unexpected width and flowing out of the expected box (the alternative is to select an alternate free font family which is already narrowed/condensed).
+Text is guaranteed to be misplaced (and in some case, ugly ) if the resolution of the PNG render is not the same as the native dimension defined by the SVG file itself regardless of how "regular" the scaling multiplier is (e.g. 0.5, 2 or 4) (). In any case, do not use extremely small (>10px) or large font-size and then scale the text or the whole image to your desirable size. Always begin with a reasonable font-size (unfortunately a size around 80px is preferable).
+Beware also with font metrics differences: an SVG file may look good when rendered directly in a SVG-capable (all modern) browser under Windows or Mac OS (which can use common, but non free fonts such as Courier or Courier New), but will look other when restricted to the list of free fonts currently supported by the MediaWiki’s SVG-to-PNG renderer (or when viewed under OSes like free distributions of Linux), see also section "".
+The attribute  isn't fully supported and could not rendered correctly. See .
+Librsvg calculates the letter-distances inaccurately for font-sizes of 20px and below.
+For a text like
+you can replace it with:
+or with
+RSVG recognizes  property, but does not implement it correctly. When this property is given any non-default value (i.e., anything but left-to-right modes), all characters will clump together (). For example, the typical way of producing vertical text does not work:
+If the alternative writing mode is still desired (e.g. top-to-bottom mode for Asian languages), align all characters separately instead of relying on this property:
+The above code lays out a horizontal text string ( is unchanged from the default left-to-right) one character at a time; each character is reset to the same horizontal position () and escaped 16 units () further down the page. The  simulates , which is the  default when .
+SVG font specifications may use a specific  such as  or . Such a font specification usually means the user agent must have access to the font file with that name. Unfortunately, many fonts are proprietary and are not available on all operating systems. For example, not all operating systems have the proprietary Arial font. If the specific font family is not available, then some default font will be used; the default font may have a much different appearance. For the user agent , the default font is . Many user agents have a font substitution table that allows the user agent to substitute a font family that is close. To improve the font matching, SVG allows the  to be a list of font family names; the user agent will use the first font family that it recognizes. The graphic artist might list similar Microsoft, Apple, and Unix fonts to improve the chance of the user agent having the desired font. Additionally, SVG supports the CSS  specification. That means most SVG user agents should support the generic font families of , , , , and . It is good practice to use a generic font family as the last entry in the font family list. For the  on Commons:
+On Commons,  has the fonts listed in . Using just those fonts will get good results in Wikipedia articles that display their images using , but graphic artists should also be aware that SVG files may be displayed by other user agents. Consequently, it is best to use common font families (such as ) or a list of font families that ends with a generic font family (such as ).
+The font metrics for generic font families such as  will likely vary widely on different user agents. In graphic illustrations metric exact text elements are often important and Arial can be seen as de-facto standard for such a feature. Adding both Arial and sans-serif as fallback fonts will help the SVG to be displayed with best effort on machines that do not have or substitute Arial. To make the SVG file independent of Arial, change all occurrences of  to .
+If you are using non-Western characters, you should define those typefaces preceding Liberation Sans. For example, if your text contains Chinese characters, font-family definition should be: ‘’. In this case, western fonts are put in the front because the quality of Western characters in Chinese fonts is often low, and we want to use the higher-quality ones first.
+Although you can use only the  element to render simple text in the image, the  element can be useful to handle text which the position of the word is dependent to the other. A  element must be nested within the  element, and then more  can be nested within this , all styling defined in the parent  element will be inherited by its child  elements. For example:
+The primarily difference with the " nesting " structure is that few important text layout behaviors are exclusive to : When multiple  elements are lined up consecutively, they still position themselves independently; if multiple  elements are lined up consecutively but the second and subsequent  elements are not given absolute x coordinate, text of these  elements will line up horizontally right next to the end of the character of prior  in the same  element.
+However,  should be used sparingly even if you define the absolute x coordinate for every single  element in the  element. This is because under the default  definition, any  (within  or ) with an extra trailing white-space is converted to a blank space character automatically. If there happens to be multiple consecutive line breaks, they are treated as one space still. This would not be a problem if the line break is followed by a  element with absolute x coordinate and is align to left (text-anchor=start, the default value). If  is given the  value, librsvg will translate the indent to a long white  equal to 8 space characters. Because the auto-formatting or re-indentation () of most XML editors creates indent for every new descendant XML tag automatically, use re-indentation carefully if your SVG file contains such usage of .
+The behaviors in different SVG renderers to this issue varies much and is usually inconsistent to the W3C specification (also the  value of  will be deprecated in SVG 2.). The only problem with librsvg is that it never converts the line break alone into space no matter which value of  is given if there is no trailing space or indent before the  tag. Except for librsvg, nearly all modern browsers always add the converted space character , this is the reason why the  or  values of  property always align the text 1 space leftward because the new line and/or the trailing tab or space after the closing  tag is converted to an unexpected space character.
+Inkscape is buggy to render , for example, inheriting  property from the first  element incorrectly for the subsequent  elements even if the property is specifically given a value in all  elements. In such case, simply revert the "text nestling tspan" structure to just "g nestling text". Inkscape also defaults to xml:space="preserve" to deal with space between tspan. If you are completely concern with how your SVG appears in Inkscape but prefer the default xml:space handling, use  to replace each general space so it will not be hidden in Inkscape.
+If you are generating an SVG using Adobe Illustrator, you will be given options to "Output fewer <tspan> elements" and "Use <textPath> element for Text on Path" during the save dialog. To maximize the consistency of the appearance of your font across browser platforms, you should place a check mark next to the former and make sure there is no check mark next to the latter. If you do not do this, the kerning of some of your letters may cause them to overlap (depending on your browser).
+SVG 1.1 does not provide any form of  (either hard or soft). Any line wrap should be done manually by repositioning new  or  elements with the same absolute x coordinate and a new y coordinate. For  elements, the next line's y coordinate can be set with the  attribute. Although  can handle a similar situation, this element is not supported by librsvg/Wikimedia ().
+A draft of SVG 1.2 did address line wrapping, but there is little support.
+The draft of SVG 2.0 also addresses line wrapping, but Chrome, Firefox, Edge, and  do not support it as of May 2018.
+You can change the  of the text using  property. The W3 SVG specification states that the default value is , i.e. no bolding or thinning at all, but librsvg does not recognize this particular value. If you want to revert the text to normal weight but the font weight has already been defined in the parent element, use the value  in place of .
+Usually it is simply gratuitous use of the ‘’. To ease the process of updating font-family for every text or tspan elements, you can define the font CSS class(es) within ‘’ and apply the  property in elements like this:
+CSS class defined in ‘ element’ can also be used for other SVG elements (e.g.  and ) despite the misleading  attribute. Even if one particular style is defined once in the SVG, it is still advised to replace the style with class for a tidier layout of XML codes. 
+Contrary to popular belief the  attribute does not separate content from presentation, and unless you need to override properties set by a CSS selector, it is best to use the SVG formatting attributes instead (e.g.  instead of ). However, if you need to override the element style defined in  element, you do need to employ  attribute. If you need to override the style for  element without  attribute, you can use a  element container to nest the text you need to override the style, presuming there is nothing predefined in  element for  element.
+Sometimes the text might be unreadable because the background color has low contrast with the font color or the pattern is too complicated that confuses the reader. This can be solved by duplicating the text in exactly the same position, but the back text rendered with stroke and the fore text without it like this:
+The problem with applying stroke and fill to the same text element is that the stroke will be rendered  the main body of text, making it otherwise unreadable if the font is too small but requires a larger stroke to be distinguishable from the background.
+If you have lot of text that needs to be rendered with a stroke background, you can manually include the text within ,  and  elements. The  element which will be rendered underneath, apply the stroke, then  the text group of  element without a stroke and fill the font with contrasting color:
+W3C includes paint-order property in SVG 2.0 which allows the order to render the attributes of "fill", "stroke" and "markers" within one element arranged by the user manually, instead of following the default mandatory order. Mozilla Firefox also includes this attribute experimentally but it defaults to disable in the stable release until SVG 2.0 matures. This feature can be enabled in the about:config entries of Firefox.
+Users of Inkscape version 0.46 may notice that images with "Fill gradients" display perfectly on Inkscape, but display "messed up" in Opera or Firefox browsers. One possible cause is that the last "stop" on a gradient has opacity set to 0. Inkscape appears to ignore this last stop, but both Firefox 3.0.6 and Opera 9.36 will render it as a white border in the filled object. Solutions are either remove the last stop (because it was probably created in error) or change the opacity (and colour) so that the image renders correctly in browsers.
+Users of Adobe Illustrator CS5, CS6, or CC and who also use Firefox may notice that an Illustrator "symbol" containing a gradient will render normally as a Commons PNG file but if the SVG file itself is opened in Firefox these symbols will appear vacant. Other browsers will have no difficulty— Google Chrome, even Internet Explorer will render Illustrator’s SVG symbol gradients correctly, but because of a known bug that the designers of Firefox have been aware of since 2005 (Mozilla’s Bugzilla  and other reports that lead to it such as ) but have so far failed to adequately fix, Firefox will display such symbols as empty shapes (symbol strokes and symbol paths without gradients are unaffected).
+Adobe Illustrator users should also note that any Illustrator "symbols" containing paths with both a gradient  a filter will be rendered as a PNG in Commons only within the  of the use of that symbol. Subsequent use of a symbol containing these paths will render the paths (though not the entire symbol) as blank (neither gradient nor filter nor fill nor stroke will be applied).
+SVG files can be translated and can be multilingual (have embedded translations). For more information, see .
+Given an image file that is in a format other than SVG, there are various ways to convert it to SVG; see  for programs.
+ For vector images where the vectorization was done by a third party, there is the issue where the vectorization code may have its own copyright even if the depicted image itself is out of copyright or below the threshold of originality. 
+Generally, there are 3 ways to produce an SVG file, given an existing image:
+If you are unable to convert an image yourself, please add the tag  to flag that the image  be converted. Some images are not well-suited to SVG, notably continuous-tone images such as photographs. These generally should instead be stored as JPG.
+If the image was generated by a program (rather than drawn by hand) — for example, a chart from a spreadsheet — it may be possible to set the output format to SVG, rather than PNG or other format, and thus produce an SVG image from the same source. If possible, this is generally easiest.
+Many vector file formats can be easily converted to SVG simply by changing the format (repackaging the existing data), by using a converter program. This may be as simple as opening the file in a vector image editor and then saving it in SVG.
+For raster (bitmap) graphics, this cannot be done because the image is a set of individual pixel values, not a set of strokes (vectors). For these images (notably PNG images), one can convert to SVG via "" or "tracing" — automatically generating a vector graphic from a raster image.
+Many SVG editors have tracing functions, and dedicated  exist. In Inkscape, this is done by the  program. Concretely: open the bitmap (File → Open… (Ctrl-O)), then select Path → Trace Bitmap… (Shift-Alt-B). There are various options; after using, please delete the underlying bitmap, and consider simplifying the path to reduce the number of nodes (Ctrl-L).
+Adobe Illustrator also allows for the conversion of bitmap images into vectors via its Image Trace function. Care must be taken when doing so that the resulting vector image is neither ponderously large (often the result of too much conversion fidelity with regard to color and shape) nor so simple that it loses faithfulness to the original image. Converted images almost always require some manual correction after conversion. As in Inkscape, the underlying bitmap should be removed after conversion is complete.
+It should also be noted that when Illustrator converts one of its files into an SVG file, it tends to convert a number of shading effects such as "inner glow", "outer glow", and gradients applied along or across a path into undesirable raster images which it then embeds in the SVG image using links. Such embedded images can often be immediately detected by viewing the image in a web browser under high zoom where they will appear cloudy or have visibly jagged edges (neither of which is ever true of a correctly rendered vector image). As these effects were originally created without regard to the W3C consortium, Adobe does not offer and is never likely to have a solution to the problem.
+In order to remove raster components from an Adobe Illustrator-generated SVG prior to uploading the image to Commons, the artist must first be able to identify where Illustrator has put them. This can be done in the following way:
+First finish editing an image file and save in Illustrator’s AI format (*.AI), then save it again in SVG format. During the second Save dialogue, choose to "embed" the links (for now). Then close out the image (File=>Close or Ctrl+w). Next, open the SVG version back up again, click on "Window" from the right side of the top menu bar, and scroll down to "Links". This will open up a small window containing information about each of the links (if any) which currently exist in the SVG image (whether or not Illustrator produced them). You can click any of the entries in the top half of the window and then select the "Go to link" button located in about the middle of it-- this will take you to that particular raster so that you can identify it and either remove it or replace it with a non-raster based alternative. Note that this SVG version of your image, when viewed in Illustrator, may look  different from the same SVG file you thought you had saved just a few minutes prior: this is because Illustrator has made a set of codes during the creation of that file which it then has difficulty reading (SVG is not an Illustrator-proprietary format, AI is, and so while Illustrator will never have difficulty correctly viewing an AI (Adobe Illustrator) file, it will sometimes struggle to correctly render an SVG, even one that it itself produced). Fortunately, even an SVG that looks confusing in Illustrator will usually at least  to render correctly in most browsers (with the occasional and already noted exception of Firefox) and in Inkscape.
+If an image cannot be regenerated or converted, the remaining option is to recreate it — draw a new SVG image, using the existing image as a model. This is manual and the most time-consuming option, but may ultimately yield the highest quality.
+In all cases, it may prove useful to touch up the resulting image in an SVG editor — perhaps adding details which are hard or impossible to produce in the originating program, or simplifying or refining a complex conversion (such as simplifying a path described by 100 points to one described by 5 points, if extra points add unnecessary detail).
+Once you have created an SVG image, upload it (under a new name), and tag the original raster image with , but please do  delete the raster image or list it for deletion, as it still serves some purposes — see  for details.
+Uploading is described at .
+Make sure to fill out the  box as fully as you can. Often, it’s a help when an image has a complete information box as this makes categorization by others easier and allows others to make translations.
+Don't tag your file with / but use  with specification about the generation tool and other information on the image page.
+See the  section for detailed information on a SVG media.
+All SVG graphics should be sorted into the appropriate subcategory or subcategories of . Please do not place images directly in the parent category as it will become overcrowded and useless (we have  more than 100,000 SVG files).
+Sort subcategories which rely not on subject but on technical aspects ("created with…", "animated", "valid", and so on) by '' to keep them outside the alphabet listing.
+The main tree is , as a part of  → .
+Concerning the creation of topical subcategories, it is unnecessary to rebuild the complete hierarchy tree of . Normally, it is enough to gather some topics into one. For instance,  could contain all color-related SVG files of , so it’s pointless to create ,  and so on. Maybe some subcategories will become useful later, but stay close to the existing topics tree, and do not put any SVG files only into a SVG category: Categories are primarily for  media, not for  them. Do not over-categorize.
+Category names start with "SVG" followed by the topic in lowercase (unless it’s a proper noun). For example, a category containing SVG files related to chemistry would be called . There was no naming convention for a long time, thus you may see titles that do not match this format. These will be converted over time.
+  
+For the software used ():
+
+
+To embed this file in your language (if available) use the  parameter with the appropriate language code, e.g.  for the English version.
+To translate this file into your language, you can use the . Alternatively, you can download the file to your computer, add your translations using whatever software you're familiar with, and re-upload it with the  name. You will find help in  if you're not sure how to do this.
+
+.
+
+
+
+
+
+
+
+When you upload your SVG to Commons (or any other MediaWiki wiki), the software automatically produces PNG , embedded in the articles and the description page. If you download the image (usually by right mouse clicking on the image), you will get the PNG image.  This works (by right mouse clicking on the link under the image) only on the description page of the image, not on the thumbnail in the category page.
+ uses  to convert SVG files to  for display (SVG rendering), it has some long and  that should be fixed, so you might want to check your file with that program before uploading. You can test the SVG with  for accurate PNG render preview and  for possible code errors or incompatibility of SVG elements or attributes.
+What this means: Say you want to produce a large version of your SVG for detailed maps, or using in-bitmap software like gimp, or calligraphy printed out one character per page, or something like that. You need to force MediaWiki to produce a huge PNG thumbnail, by using  or by doing something like  in the  or your talk page or somewhere else unimportant. Printing this giant PNG will look much better than if you try to scale up one of the default thumbnails! Of course, you can also use for-printing SVG software like Inkscape but sometimes that shows something other than what’s shown on-screen (black background, other fonts, etc.).
+Many programs can handle SVG files. You may like to try one given below, though these are not the only programs around. Some are available for free download, while others are commercial software.
+As SVG is just an XML specification, it is possible to write SVG files manually in a text editor, or with your own programs/scripts. In fact, many SVG images are written in text editors. An editor which can highlight the syntax is helpful. Check your work with the .
+All modern web browsers render SVG natively.
+Most SVG editors include a raster-to-vector-converter ()
+There is some concern that the SVG source code of images might be copyrightable as a "computer program" even if the output is an image in the public domain due to being  or otherwise indistinguishable from a work that is public domain due to copyright expiration. This could mean that even though the output of an SVG, the image, is in public domain, the code could be restrictively copyrighted, and therefore inappropriate for including in Wikimedia Commons. Elements that weigh in favor of SVG source code containing sufficient creative expression to be copyrightable might include hand-written code, complex embedded CSS, embedded comments , or a large carefully selected set of control points. Elements that weigh in favor of SVG source code lacking creativity include programmatically generated code or slavish copying of a public domain source. See the following for additional context:
+Maintenance:
+
+	
+	
+	
+
+
+	
+	
+	
+		From Wikimedia Commons, the free media repository
+		
+		
+		
+		
+		
+		
+		
+
+
+
+  Official logo for the SVG file format
+
+
+
+
+
+
+  An example of an SVG image — note that at whatever scale you view the image, its curves always appear smooth, never "jagged"
+
+
+
+
+
+Tracked in 
+
+
+
+
+
+  Private-use langtag  to select .
+  Private-use langtag  to select .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Demonstration of the basic steps of preserving the text before converting to path in  so the text can remain selectable (when opened in real-time in browser) and searchable (by search engine like Google).
+
+
+
+
+
+
+
+
+
+  Comparison of SVG raw text rendering and text converted to path
+
+
+Tracked in 
+
+  
+
+
+
+
+
+
+
+  A diagram in Chinese which could benefit from the top-to-bottom writing mode but turns out not quite right in librsvg…
+
+
+
+
+
+
+  How the fallback-fonts are rendered.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tracked in 
+
+   visualised
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  An example of incorrect rendering by Mozilla Firefox.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This image is an . The animation uses . The  preview above created by  is not animated and may be incomplete or incorrect. To see an animation run, open it in an SVG animation capable browser or viewer, such as , , , or .  supports SVG, but not SMIL. Other SVG animations can be found at .
+
+
+
+
+This is a scripted  file (it contains JavaScript). The preview above may be incomplete or incorrect. To use the interactive possibilities, open it in your browser.
+
+
+
+All a images in this gallery could be re-created . This has several advantages; see  for more information. If an SVG form of this image is available, please upload it and afterwards replace this template with {{|}}.
+
+
+This page was  by  at 12:54, 22 February 2020 (UTC).
+
+
+
+
+
+ in this page appear to have been  vectorized, for example, by , and may require  to meet quality standards.
+
+
+The file size of this  may be abnormally large because most or all of its text has been converted to  rather than using the more conventional  element. Unless rendering the text of the SVG file produces an image with text that is incurably unreadable due to , it is highly recommended to change the paths back to text. Doing so will ease the process of localizing this image to other languages and is likely to greatly reduce the file size. 
+
+
+This file has been  by . It is recommended to use the other file. Please note that deleting superseded images .
+
+
+
+Sorry, this SVG file is solely a source for re-utilization, editing or printing purposes. Please do not use this graphic within Wikipedia articles! MediaWiki isn't able to render this image correctly. Some details may be missing or look wrong. When you include the image in a Wikipedia or any other Wikimedia project site's page, you may want to use the other file, until the support increases.Help:SVG  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Retrieved from ""
+		: 
+		
+		
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

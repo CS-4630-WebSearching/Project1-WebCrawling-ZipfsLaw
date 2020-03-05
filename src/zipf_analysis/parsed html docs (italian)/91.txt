@@ -1,0 +1,170 @@
+https://it.wikipedia.org/wiki/Apotema_(geometria)In , con riferimento ai , l' (indicato con ) è il  della  e corrisponde alla distanza fissa tra l' e ciascuno dei . Il rapporto tra apotema e lato è specifico (e fisso) per ciascun poligono regolare e dipende dal numero dei lati. Il suo utilizzo principale è nel calcolo delle , combinato al , in quanto coincide pure con l' degli  triangoli isosceli congruenti in cui è divisibile il poligono.
+Analogamente, nella , il termine indica: nelle  regolari, la  del vertice dal lato alla base; nei  retti, la  del vertice da un qualsiasi punto della circonferenza di base.
+ In ogni poligono regolare con  lati l'area totale può essere divisa in   congruenti, le cui basi coincidono con i lati del poligono stesso e i lati obliqui con i segmenti che congiungono i vertici con l' dello stesso. L'apotema tocca il lato del poligono sempre nel  ed, essendo il raggio dell' rispetto a questo sempre perpendicolare, coincide con l' del triangolo isoscele, la cui ampiezza al vertice misura una frazione esatta dell' fratto .
+Se ne può ricavare, quindi, che il rapporto fra l'apotema e il lato di un poligono regolare -agonale è sempre costante, e può essere ricavato a priori semplicemente sapendo il numero di lati attraverso le relazioni  che legano gli elementi del triangolo. In questo caso trattandosi di un triangolo isoscele, l'apotema corrisponde a un  di un  avente come altro cateto il semilato () del poligono e per  il  e angolo adiacente  pari a .  è il raggio della circonferenza circoscritta al poligono
+Inoltre, grazie alla divisione in triangoli, è anche possibile capire come l'apotema faciliti notevolmente il calcolo delle aree in questi casi; basta infatti calcolare l'area del singolo triangolo e poi moltiplicarla per il numero dei lati.
+dove  rappresenta il .
+Dall'apotema derivano classicamente anche due numeri fissi, che sono vere e proprie  tipiche di ciascun poligono regolare e dipendenti unicamente dal numero dei lati.
+In , con riferimento ai , l' (indicato con ) è il  della  e corrisponde alla distanza fissa tra l' e ciascuno dei . Il rapporto tra apotema e lato è specifico (e fisso) per ciascun poligono regolare e dipende dal numero dei lati. Il suo utilizzo principale è nel calcolo delle , combinato al , in quanto coincide pure con l' degli  triangoli isosceli congruenti in cui è divisibile il poligono.
+Analogamente, nella , il termine indica: nelle  regolari, la  del vertice dal lato alla base; nei  retti, la  del vertice da un qualsiasi punto della circonferenza di base.
+ In ogni poligono regolare con  lati l'area totale può essere divisa in   congruenti, le cui basi coincidono con i lati del poligono stesso e i lati obliqui con i segmenti che congiungono i vertici con l' dello stesso. L'apotema tocca il lato del poligono sempre nel  ed, essendo il raggio dell' rispetto a questo sempre perpendicolare, coincide con l' del triangolo isoscele, la cui ampiezza al vertice misura una frazione esatta dell' fratto .
+Se ne può ricavare, quindi, che il rapporto fra l'apotema e il lato di un poligono regolare -agonale è sempre costante, e può essere ricavato a priori semplicemente sapendo il numero di lati attraverso le relazioni  che legano gli elementi del triangolo. In questo caso trattandosi di un triangolo isoscele, l'apotema corrisponde a un  di un  avente come altro cateto il semilato () del poligono e per  il  e angolo adiacente  pari a .  è il raggio della circonferenza circoscritta al poligono
+Inoltre, grazie alla divisione in triangoli, è anche possibile capire come l'apotema faciliti notevolmente il calcolo delle aree in questi casi; basta infatti calcolare l'area del singolo triangolo e poi moltiplicarla per il numero dei lati.
+dove  rappresenta il .
+Dall'apotema derivano classicamente anche due numeri fissi, che sono vere e proprie  tipiche di ciascun poligono regolare e dipendenti unicamente dal numero dei lati.
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+  Apotema in un 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ : accedi alle voci di Wikipedia che trattano di matematica
+
+
+
+
+
+		Estratto da ""
+		: Categoria nascosta: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

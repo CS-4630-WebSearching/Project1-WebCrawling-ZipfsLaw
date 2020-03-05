@@ -1,0 +1,231 @@
+https://it.wikipedia.org/wiki/Raggio_(geometria)Secondo la definizione moderna della , il  di un  o di una  è un  di  avente un estremo sulla  o superficie sferica e l'altro estremo nel  della figura. Per estensione si definisce raggio di un cerchio o di una sfera anche la  di un tale segmento. Il raggio misura la metà del .
+Più generalmente — in , , , e in molti altri settori — il raggio di qualcosa (per esempio di un , di un , o di un componente meccanico) è la  dei suoi punti più esterni dal centro o asse.
+La definizione di raggio data per i cerchi e per le sfere si lascia estendere naturalmente al caso di iperspazi con più di tre dimensioni. Generalmente, un segmento che congiunge un punto di un' al suo centro è un raggio dell'ipersfera.
+In una  il raggio è una  dell'. Tutte le circonferenze sono assimilabili a spirali con raggio costante.
+Il raggio  di un cerchio avente   è
+Il raggio  di un cerchio avente   è
+Il raggio  di un cerchio avente   è
+Il raggio  della circonferenza che attraversa tre punti non   è dato da
+dove  è l'  La formula è calcolata utilizzando il .
+Con riferimento alla figura a destra, lo stesso raggio  può anche essere espresso nel modo seguente:
+dove  indica la lunghezza del  di estremi  e  mentre  è l' 
+Pertanto, se consideriamo tre punti di coordinate  e  il raggio della circonferenza che li attraversa è dato da:
+Il raggio medio  di un'ellisse è definito come il raggio di un cerchio di area (superficie)  a quella dell'ellisse.
+È uguale alla radice quadrata del prodotto dei due semiassi dell'ellisse:
+Si definisce  di un'ellisse, il cerchio con centro nel centro dell'ellisse e di raggio  uguale al semiasse maggiore dell'ellisse.
+Si definisce  di un'ellisse, il cerchio con centro nel centro dell'ellisse e di raggio  uguale al semiasse minore dell'ellisse.
+Il raggio di un  è il segmento che unisce il centro a uno dei suoi vertici. Pertanto, la lunghezza di tale segmento è uguale al raggio della  al poligono.
+Il raggio  di un poligono di  lati di lunghezza  ciascuno, è dato da:
+Il raggio in funzione della lunghezza dell' , è dato da:
+Raccogliendo tutte le  (nella prima delle due formule), si può scrivere che il raggio  del poligono è , ed è dato da  con 
+Si arriva così alla tabella dei seguenti numeri fissi:
+che, noti la lunghezza e il numero di lati, permette di calcolare il raggio del poligono.
+Il raggio  di un  -dimensionale e lato , è:
+Secondo la definizione moderna della , il  di un  o di una  è un  di  avente un estremo sulla  o superficie sferica e l'altro estremo nel  della figura. Per estensione si definisce raggio di un cerchio o di una sfera anche la  di un tale segmento. Il raggio misura la metà del .
+Più generalmente — in , , , e in molti altri settori — il raggio di qualcosa (per esempio di un , di un , o di un componente meccanico) è la  dei suoi punti più esterni dal centro o asse.
+La definizione di raggio data per i cerchi e per le sfere si lascia estendere naturalmente al caso di iperspazi con più di tre dimensioni. Generalmente, un segmento che congiunge un punto di un' al suo centro è un raggio dell'ipersfera.
+In una  il raggio è una  dell'. Tutte le circonferenze sono assimilabili a spirali con raggio costante.
+Il raggio  di un cerchio avente   è
+Il raggio  di un cerchio avente   è
+Il raggio  di un cerchio avente   è
+Il raggio  della circonferenza che attraversa tre punti non   è dato da
+dove  è l'  La formula è calcolata utilizzando il .
+Con riferimento alla figura a destra, lo stesso raggio  può anche essere espresso nel modo seguente:
+dove  indica la lunghezza del  di estremi  e  mentre  è l' 
+Pertanto, se consideriamo tre punti di coordinate  e  il raggio della circonferenza che li attraversa è dato da:
+Il raggio medio  di un'ellisse è definito come il raggio di un cerchio di area (superficie)  a quella dell'ellisse.
+È uguale alla radice quadrata del prodotto dei due semiassi dell'ellisse:
+Si definisce  di un'ellisse, il cerchio con centro nel centro dell'ellisse e di raggio  uguale al semiasse maggiore dell'ellisse.
+Si definisce  di un'ellisse, il cerchio con centro nel centro dell'ellisse e di raggio  uguale al semiasse minore dell'ellisse.
+Il raggio di un  è il segmento che unisce il centro a uno dei suoi vertici. Pertanto, la lunghezza di tale segmento è uguale al raggio della  al poligono.
+Il raggio  di un poligono di  lati di lunghezza  ciascuno, è dato da:
+Il raggio in funzione della lunghezza dell' , è dato da:
+Raccogliendo tutte le  (nella prima delle due formule), si può scrivere che il raggio  del poligono è , ed è dato da  con 
+Si arriva così alla tabella dei seguenti numeri fissi:
+che, noti la lunghezza e il numero di lati, permette di calcolare il raggio del poligono.
+Il raggio  di un  -dimensionale e lato , è:
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		 .
+
+Puoi  aggiungendo citazioni da  secondo le . Segui i suggerimenti del .
+
+
+  Raggio di un cerchio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ : accedi alle voci di Wikipedia che trattano di matematica
+
+
+
+
+
+		Estratto da ""
+		: Categorie nascoste: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

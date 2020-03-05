@@ -1,0 +1,334 @@
+https://it.wikipedia.org/wiki/Funzione_(matematica)In , una  è una  tra due , chiamati  della funzione, che associa a ogni elemento del dominio uno e un solo elemento del codominio.
+Se i due insiemi sono rispettivamente indicati con  e , la relazione è indicata con  e l'elemento associato a  tramite la funzione  viene abitualmente indicato con  (si pronuncia "effe di x").
+La parola funzione quindi non si riferisce alla sola relazione, ma alla terna: relazione, domino e codominio.
+Per esempio: la funzione che associa a un numero  la radice quadrata di quel numero è diversa dalla funzione che associa a un numero  la radice quadrata di quel numero (a seconda di come è definito il codominio, la seconda potrebbe non essere neppure un'associazione corretta).
+Si dice che  è l'argomento della funzione, oppure un valore della  indipendente, mentre  è un valore della variabile dipendente della funzione. 
+Sinonimi del termine  sono  e . Il termine  viene utilizzato spesso in ambito geometrico per indicare una funzione  invertibile e che conserva le proprietà geometriche di , mentre  è talvolta utilizzato nella trattazione di  tra . 
+Le funzioni hanno un ruolo molto importante in tutte le . Il concetto di  tra due grandezze sostituisce infatti, all'interno delle teorie fisiche e matematiche, quello di causa-effetto, che, al contrario del precedente, non riguarda gli enti teorici ma direttamente gli elementi della realtà concreta. Se si afferma, ad esempio, che la  di una certa quantità di  è funzione della sua  e del suo  si sta facendo un'affermazione interna a un modello , mentre il rapporto di causa-effetto che viene individuato fra le tre grandezze dipende in modo sostanziale dalle possibilità di intervento concreto su di esse. Rimanendo a questo esempio, il valore della pressione viene visto più spesso come conseguenza del valore degli altri due parametri, poiché è generalmente molto più facile intervenire sul volume e sulla temperatura che direttamente sulla pressione.
+Gli esempi più semplici di funzione sono quelli per cui sia il dominio che il codominio sono . Per esempio, se a ogni numero naturale si associa il doppio di tale numero, si ha una funzione, il cui dominio è dato dai naturali e il cui codominio è costituito dai naturali pari.
+Tuttavia si parla di funzione anche quando il dominio o il codominio, o entrambi, non sono insiemi numerici. Se, per esempio, a ogni triangolo del piano si associa il cerchio in esso inscritto, si ha ugualmente una funzione, in quanto per ogni triangolo esiste uno e un solo cerchio in esso inscritto.
+Inoltre spesso si parla di funzioni con più argomenti, o con più valori: per esempio la funzione che alle coordinate  di un punto nello spazio fa corrispondere temperatura  e pressione  dell'aria. In tal caso, la funzione ha in realtà sempre un solo argomento, che è la terna  e ha sempre un solo valore, che è la coppia 
+Dati due insiemi non vuoti  e , si chiama funzione da  in  una relazione  tale che per ogni  esiste uno ed un solo elemento  tale che . Tale elemento tradizionalmente si denota con : in altre parole, invece di scrivere  si può usare la scrittura più tradizionale:
+Il fatto che  sia una funzione da  in  che associa a  l'elemento  si può esprimere con la scrittura:
+L'insieme  (da cui la funzione  "prende" i valori) è il  della funzione , mentre l'insieme  (in cui si trovano i valori "restituiti" dalla funzione ) è il  della funzione .
+Le espressioni "prendere un valore" e "restituire un valore" fanno riferimento a un modello meccanico delle funzioni, rappresentate come meccanismi che, fornito loro un elemento del dominio, lo "trasformano" nel corrispondente elemento del codominio. 
+Data una funzione  di dominio  e codominio  comunque scelto un elemento  del dominio, si chiama  di  il corrispondente elemento del codominio, indicato con  Analogamente, se  è un elemento del codominio che sia immagine di un elemento  del dominio, cioè se , si dice che  è una  di  Mentre a ogni elemento del dominio di  è assegnata una e una sola immagine, è possibile che un elemento nel codominio possegga diverse controimmagini, o che non ne possieda affatto. Si definisce quindi "controimmagine" dell'elemento  l'insieme
+Se  per ogni  si dice che  è , mentre se  contiene al più un elemento per ogni  si dice che  è . Se valgono entrambe le condizioni,  è detta  o .
+L'insieme
+degli elementi  del codominio per i quali esiste almeno un  nel dominio che ha  come immagine è detto  di  e si denota con  o con .
+Per il valore di una funzione  corrispondente a un elemento , denotabile con la notazione tradizionale , vengono usate anche altre due scritture.
+Per quella che chiamiamo  si pone
+Per quella che chiamiamo  si pone
+A volte al posto delle parentesi tonde si usano parentesi quadrate:
+In questo modo si evitano confusioni con le parentesi che indicano l'ordine delle operazioni. Questa notazione è usata da alcuni programmi di calcolo simbolico.
+Nelle funzioni di due variabili si usa talvolta la , ossia
+ad esempio, nelle usuali operazioni di addizione e sottrazione si usa scrivere  e  invece di  e 
+Data una funzione  e un insieme  tale che , si dice che la funzione  è un' se
+dove  è l' di  in , data da . Si dice viceversa che .
+La restrizione di una funzione  a un insieme  contenuto nel suo dominio è abitualmente indicata con .
+Quando il dominio di una funzione  è il  di due o più , e dunque la funzione agisce su -uple di elementi di insiemi, allora l'immagine del vettore di questi elementi  viene indicata con la notazione
+In questo caso la funzione viene anche chiamata . A tal proposito in fisica si parla di .
+Per esempio, si consideri la funzione di  che associa un vettore di due   e  al loro prodotto: . Questa funzione può essere definita formalmente come avente per dominio , l'insieme di tutte le coppie di numeri naturali; si noti inoltre che in questo caso la funzione è simmetrica rispetto alle componenti del vettore:  e quindi si tratta di una   in cui non importa cioè l'ordine degli elementi. Sono inoltre possibili anche altri raggruppamenti delle variabili: per esempio risulta estremamente importante nello studio dei  di  la teoria della :
+Molte  dell', come l' e la , sono funzioni dal prodotto cartesiano  a valori in , e vengono descritte tramite la : si scrive cioè  (e non ) per descrivere l'immagine della coppia  tramite l'operazione .
+Questa notazione è stata generalizzata dall' moderna, per definire  come ad esempio quella di , come un insieme  dotato di alcune operazioni binarie aventi determinate proprietà.
+Se il  di una funzione  è il  di due o più insiemi, questa può essere indicata come . Tali variabili spesso vengono aggregate in un ; a tal proposito in  si parla di .
+Un esempio tipico è dato da una  del , ad esempio:
+Una funzione è invece detta  nel caso in cui esista almeno un elemento del dominio cui corrisponde più di un elemento del codominio. In effetti tali funzioni non rientrano nella definizione data inizialmente, ma in alcuni campi (ad esempio in ) essa viene estesa proprio in questo senso. Un esempio di funzione polidroma è la  di un  positivo, che può essere descritta come una funzione
+che associa a ogni numero reale positivo l' delle sue due radici quadrate. Un esempio analogo è il  definito sull'insieme dei .
+Nella matematica e sostanzialmente in tutte le sue applicazioni si incontrano numerosi tipi di funzioni, che si presentano anche con caratteristiche molto diverse, e che vengono classificate seguendo diversi criteri.
+Data una funzione  di variabile reale a valori reali e una costante , su di essa sono applicabili le operazioni aritmetiche elementari ovvero , , , , ,  ovvero:
+se  si ha anche
+se  si ha anche
+e se  intero maggiore di 1, e se  pari si deve avere anche , si ha anche
+Date due funzioni  e  di variabile reale a valori reali sono applicabili le operazioni aritmetiche elementari di cui sopra ovvero:
+se  si ha anche
+se  (o  nel caso in cui ) si ha anche 
+Date due funzioni  :  →  e  :  →  si può definire la loro : questa è definita applicando prima  ad  e quindi applicando  al risultato .
+Questa nuova funzione viene denotata con   Riconducendoci alla notazione tradizionale con le due notazioni il risultato della precedente composizione applicato all'elemento x del dominio si può scrivere
+Data una funzione  di variabile reale a valori reali e una costante :
+Data una funzione  di variabile reale a valori reali:
+In , una  è una  tra due , chiamati  della funzione, che associa a ogni elemento del dominio uno e un solo elemento del codominio.
+Se i due insiemi sono rispettivamente indicati con  e , la relazione è indicata con  e l'elemento associato a  tramite la funzione  viene abitualmente indicato con  (si pronuncia "effe di x").
+La parola funzione quindi non si riferisce alla sola relazione, ma alla terna: relazione, domino e codominio.
+Per esempio: la funzione che associa a un numero  la radice quadrata di quel numero è diversa dalla funzione che associa a un numero  la radice quadrata di quel numero (a seconda di come è definito il codominio, la seconda potrebbe non essere neppure un'associazione corretta).
+Si dice che  è l'argomento della funzione, oppure un valore della  indipendente, mentre  è un valore della variabile dipendente della funzione. 
+Sinonimi del termine  sono  e . Il termine  viene utilizzato spesso in ambito geometrico per indicare una funzione  invertibile e che conserva le proprietà geometriche di , mentre  è talvolta utilizzato nella trattazione di  tra . 
+Le funzioni hanno un ruolo molto importante in tutte le . Il concetto di  tra due grandezze sostituisce infatti, all'interno delle teorie fisiche e matematiche, quello di causa-effetto, che, al contrario del precedente, non riguarda gli enti teorici ma direttamente gli elementi della realtà concreta. Se si afferma, ad esempio, che la  di una certa quantità di  è funzione della sua  e del suo  si sta facendo un'affermazione interna a un modello , mentre il rapporto di causa-effetto che viene individuato fra le tre grandezze dipende in modo sostanziale dalle possibilità di intervento concreto su di esse. Rimanendo a questo esempio, il valore della pressione viene visto più spesso come conseguenza del valore degli altri due parametri, poiché è generalmente molto più facile intervenire sul volume e sulla temperatura che direttamente sulla pressione.
+Gli esempi più semplici di funzione sono quelli per cui sia il dominio che il codominio sono . Per esempio, se a ogni numero naturale si associa il doppio di tale numero, si ha una funzione, il cui dominio è dato dai naturali e il cui codominio è costituito dai naturali pari.
+Tuttavia si parla di funzione anche quando il dominio o il codominio, o entrambi, non sono insiemi numerici. Se, per esempio, a ogni triangolo del piano si associa il cerchio in esso inscritto, si ha ugualmente una funzione, in quanto per ogni triangolo esiste uno e un solo cerchio in esso inscritto.
+Inoltre spesso si parla di funzioni con più argomenti, o con più valori: per esempio la funzione che alle coordinate  di un punto nello spazio fa corrispondere temperatura  e pressione  dell'aria. In tal caso, la funzione ha in realtà sempre un solo argomento, che è la terna  e ha sempre un solo valore, che è la coppia 
+Dati due insiemi non vuoti  e , si chiama funzione da  in  una relazione  tale che per ogni  esiste uno ed un solo elemento  tale che . Tale elemento tradizionalmente si denota con : in altre parole, invece di scrivere  si può usare la scrittura più tradizionale:
+Il fatto che  sia una funzione da  in  che associa a  l'elemento  si può esprimere con la scrittura:
+L'insieme  (da cui la funzione  "prende" i valori) è il  della funzione , mentre l'insieme  (in cui si trovano i valori "restituiti" dalla funzione ) è il  della funzione .
+Le espressioni "prendere un valore" e "restituire un valore" fanno riferimento a un modello meccanico delle funzioni, rappresentate come meccanismi che, fornito loro un elemento del dominio, lo "trasformano" nel corrispondente elemento del codominio. 
+Data una funzione  di dominio  e codominio  comunque scelto un elemento  del dominio, si chiama  di  il corrispondente elemento del codominio, indicato con  Analogamente, se  è un elemento del codominio che sia immagine di un elemento  del dominio, cioè se , si dice che  è una  di  Mentre a ogni elemento del dominio di  è assegnata una e una sola immagine, è possibile che un elemento nel codominio possegga diverse controimmagini, o che non ne possieda affatto. Si definisce quindi "controimmagine" dell'elemento  l'insieme
+Se  per ogni  si dice che  è , mentre se  contiene al più un elemento per ogni  si dice che  è . Se valgono entrambe le condizioni,  è detta  o .
+L'insieme
+degli elementi  del codominio per i quali esiste almeno un  nel dominio che ha  come immagine è detto  di  e si denota con  o con .
+Per il valore di una funzione  corrispondente a un elemento , denotabile con la notazione tradizionale , vengono usate anche altre due scritture.
+Per quella che chiamiamo  si pone
+Per quella che chiamiamo  si pone
+A volte al posto delle parentesi tonde si usano parentesi quadrate:
+In questo modo si evitano confusioni con le parentesi che indicano l'ordine delle operazioni. Questa notazione è usata da alcuni programmi di calcolo simbolico.
+Nelle funzioni di due variabili si usa talvolta la , ossia
+ad esempio, nelle usuali operazioni di addizione e sottrazione si usa scrivere  e  invece di  e 
+Data una funzione  e un insieme  tale che , si dice che la funzione  è un' se
+dove  è l' di  in , data da . Si dice viceversa che .
+La restrizione di una funzione  a un insieme  contenuto nel suo dominio è abitualmente indicata con .
+Quando il dominio di una funzione  è il  di due o più , e dunque la funzione agisce su -uple di elementi di insiemi, allora l'immagine del vettore di questi elementi  viene indicata con la notazione
+In questo caso la funzione viene anche chiamata . A tal proposito in fisica si parla di .
+Per esempio, si consideri la funzione di  che associa un vettore di due   e  al loro prodotto: . Questa funzione può essere definita formalmente come avente per dominio , l'insieme di tutte le coppie di numeri naturali; si noti inoltre che in questo caso la funzione è simmetrica rispetto alle componenti del vettore:  e quindi si tratta di una   in cui non importa cioè l'ordine degli elementi. Sono inoltre possibili anche altri raggruppamenti delle variabili: per esempio risulta estremamente importante nello studio dei  di  la teoria della :
+Molte  dell', come l' e la , sono funzioni dal prodotto cartesiano  a valori in , e vengono descritte tramite la : si scrive cioè  (e non ) per descrivere l'immagine della coppia  tramite l'operazione .
+Questa notazione è stata generalizzata dall' moderna, per definire  come ad esempio quella di , come un insieme  dotato di alcune operazioni binarie aventi determinate proprietà.
+Se il  di una funzione  è il  di due o più insiemi, questa può essere indicata come . Tali variabili spesso vengono aggregate in un ; a tal proposito in  si parla di .
+Un esempio tipico è dato da una  del , ad esempio:
+Una funzione è invece detta  nel caso in cui esista almeno un elemento del dominio cui corrisponde più di un elemento del codominio. In effetti tali funzioni non rientrano nella definizione data inizialmente, ma in alcuni campi (ad esempio in ) essa viene estesa proprio in questo senso. Un esempio di funzione polidroma è la  di un  positivo, che può essere descritta come una funzione
+che associa a ogni numero reale positivo l' delle sue due radici quadrate. Un esempio analogo è il  definito sull'insieme dei .
+Nella matematica e sostanzialmente in tutte le sue applicazioni si incontrano numerosi tipi di funzioni, che si presentano anche con caratteristiche molto diverse, e che vengono classificate seguendo diversi criteri.
+Data una funzione  di variabile reale a valori reali e una costante , su di essa sono applicabili le operazioni aritmetiche elementari ovvero , , , , ,  ovvero:
+se  si ha anche
+se  si ha anche
+e se  intero maggiore di 1, e se  pari si deve avere anche , si ha anche
+Date due funzioni  e  di variabile reale a valori reali sono applicabili le operazioni aritmetiche elementari di cui sopra ovvero:
+se  si ha anche
+se  (o  nel caso in cui ) si ha anche 
+Date due funzioni  :  →  e  :  →  si può definire la loro : questa è definita applicando prima  ad  e quindi applicando  al risultato .
+Questa nuova funzione viene denotata con   Riconducendoci alla notazione tradizionale con le due notazioni il risultato della precedente composizione applicato all'elemento x del dominio si può scrivere
+Data una funzione  di variabile reale a valori reali e una costante :
+Data una funzione  di variabile reale a valori reali:
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		  Rappresentazione di una funzione che associa i valori del dominio X ai valori del codominio Y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ·  · 
+
+ : accedi alle voci di Wikipedia che trattano di matematica
+
+
+
+
+
+		Estratto da ""
+		: Categorie nascoste: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

@@ -1,0 +1,437 @@
+https://it.wikipedia.org/wiki/EllisseIn , l' (o , dal  , 'mancanza') è una  ottenuta intersecando un  con un  in modo da produrre una .
+Affinché la  produca una curva chiusa l'inclinazione del piano deve essere superiore a quella della generatrice del cono rispetto al suo asse. Per contro, le due sezioni coniche ottenute con piani aventi inclinazione uguale o inferiore a quella della retta generatrice rispetto all'asse del cono danno vita ad altri due tipi di curve che sono aperte e illimitate: la  e l'.
+La  è un caso speciale di ellisse che si ottiene quando l'intersezione viene fatta con un piano ortogonale all'asse del cono.
+Un'ellisse è anche il  dei punti del piano per i quali la somma delle distanze da due punti fissi detti "fuochi" rimane costante.
+L'ellisse può essere anche la proiezione verticale su un piano orizzontale di una circonferenza appartenente a un piano inclinato: se il piano inclinato forma un angolo  con il piano orizzontale, la proiezione verticale della circonferenza è un'ellisse di eccentricità .
+Dopo la circonferenza, si tratta della più semplice tra le  ottenuta dalla composizione dei due moti verticale e orizzontale di tipo sinusoidale della stessa frequenza.
+In base alle , l'orbita di un  è un'ellisse con il  che ne occupa uno dei due fuochi.
+L'ellisse è una curva simile a un  allungato in una direzione: è un esempio di  e può essere definita come il  dei punti del piano per cui la somma delle distanze da due punti fissi, detti fuochi, rimane costante. Se i due fuochi coincidono si ha una , che quindi può essere considerata il caso particolare di ellisse a eccentricità nulla.
+È una curva con due assi di simmetria e un centro di simmetria. La distanza tra i punti antipodali dell'ellisse, cioè tra punti simmetrici rispetto al suo centro, è massima lungo l'asse maggiore, che contiene anche i due fuochi, ed è minima lungo l'asse minore perpendicolare a quello maggiore. Il semiasse maggiore è una delle due metà dell'asse maggiore: parte dal centro, passa attraverso un fuoco e arriva all'ellisse. Analogamente il semiasse minore è metà dell'asse minore. I due assi sono per l'ellisse l'equivalente del  per la circonferenza, mentre i due semiassi sono l'equivalente del .
+La dimensione e la forma di un'ellisse sono determinate da due costanti reali positive, dette convenzionalmente  e . La costante maggiore è la  del semiasse maggiore mentre la costante minore quella del semiasse minore.
+L'equazione dell'ellisse si trova uguagliando la somma delle distanze fra i due fuochi  e  e un punto generico  con il doppio del semiasse maggiore:
+che equivale a:
+Per trovare l'equazione "canonica" (o "normale") dell'ellisse, con centro nell'origine e fuochi sull'asse delle  (cioè ), si operino le sostituzioni , , , , . Dopo alcuni passaggi si ricava che l'ellisse centrata nell'origine di un sistema di  con l'asse maggiore posto lungo l'asse delle ascisse è definita dall'equazione:
+La stessa ellisse è rappresentata anche dall'equazione parametrica:
+che fa uso delle   e .
+L'  di un'ellisse è compresa tra  e  ed è il rapporto della distanza tra i due fuochi  ed  e la lunghezza dell'asse maggiore :
+L'eccentricità rende conto della forma più o meno schiacciata dell'ellisse: quando è uguale a , i due fuochi coincidono e l'ellisse degenera in una circonferenza di raggio . Facendo tendere l'eccentricità a , l'ellisse si schiaccia sempre più e quando assume il valore unitario essa degenera in un segmento lungo  percorso due volte, quindi il perimetro dell'ellisse è uguale a .
+Il semilato retto di un'ellisse, solitamente denotato dalla lettera , è la distanza tra ciascuno dei fuochi dell'ellisse e i punti sull'ellisse di cui i fuochi sono proiezione ortogonale sull'asse maggiore. È legato ad  e  dalla formula
+Come per le altre coniche, anche per l'ellisse vale la proprietà seguente: i punti medi di un fascio di corde parallele sono allineati.
+Il segmento che congiunge i punti medi di un fascio di corde parallele prende il nome di diametro dell'ellisse. I punti medi delle corde parallele ad un diametro dell'ellisse costituiscono il diametro coniugato al diametro dato. Due diametri coniugati si intersecano nel centro dell'ellisse. Gli assi di simmetria dell'ellisse sono gli unici diametri coniugati perpendicolari tra loro. La retta tangente ad un'ellisse nell'estremo di un diametro è sempre parallela al diametro coniugato.
+In , un'ellisse con un fuoco nell'origine e con la coordinata angolare  misurata a partire dall'asse maggiore è rappresentata dall'equazione:
+dove  denota il semilato retto e la coordinata angolare  è l'angolo che la retta r passante per  forma con l'asse maggiore (vedere figura a lato).
+Se si considera la retta  passante per il fuoco  e la coordinata angolare  è l'angolo che la retta  passante per  forma con l'asse maggiore, l'equazione diviene:
+L' racchiusa da un'ellisse è data da
+L'equazione della retta tangente all'ellisse con centro nell'origine in un suo punto  è:
+Il suo coefficiente angolare è dato da:
+Si scriva il seguente sistema non lineare di tre equazioni: la prima è l'equazione dell'ellisse, la seconda impone l'appartenenza all'ellisse del punto , la terza impone il passaggio della tangente per il punto  con inclinazione  da determinare:
+Nella prima e seconda equazione i secondi membri sono uguali a  e quindi anche i primi membri saranno tra essi uguali:
+Si consideri l'equazione della tangente:
+Sostituendo nella prima equazione:
+Per la :
+Facilmente verificabile poiché il punto appartiene all'ellisse.
+Invece nel secondo fattore:
+Poiché  e :
+Si sostituisca la pendenza  nell'equazione della retta:
+Per ipotesi nel sistema
+Quindi:
+Una dimostrazione alternativa può essere fatta ricorrendo alla  della  ellisse  nel punto : infatti basta ricordare che la derivata di una funzione in un suo punto coincide con il coefficiente angolare della retta tangente nel punto stesso. Effettuando quindi la derivata rispetto a  dell'equazione dell'ellisse si ottiene:
+Poiché  con il coefficiente angolare , si ottiene
+che calcolata nel punto  fornisce:
+Una tangente all'ellisse in un suo punto  forma angoli uguali con le rette passanti per  e per ciascuno dei due fuochi.
+Per dimostrare questa proprietà si può ricorrere al  in base al quale data una retta  e due punti  ed  ad essa esterni, il punto  della retta  che minimizza la somma  è quello per il quale i segmenti  e  formano angoli uguali con la retta .
+Consideriamo a tale scopo un'ellisse con fuochi  ed : un suo qualunque punto  soddisfa la condizione
+Per un qualunque punto  interno all'ellisse vale la condizione
+Si consideri ora una retta passante per un punto  dell'ellisse tale da formare angoli uguali con i segmenti  e : per il , il punto  è il punto della retta che rende minima la somma . Ciò implica che la retta è tangente all'ellisse: infatti se così non fosse la retta entrerebbe dentro l'ellisse e detto  un suo punto ad essa interno varrebbe la condizione  in contrasto con il teorema di Erone per il quale in  e non in  si sarebbe dovuta registrare la minima somma. Resta così dimostrata l'affermazione iniziale.
+Da questo enunciato segue che in un tavolo da biliardo a forma di ellisse una palla lanciata senza effetto da uno dei due fuochi verrà  dal bordo e passerà necessariamente per l'altro fuoco. La stessa cosa si verificherà in uno specchio concavo a forma di ellisse nel quale tutti i  emessi da uno dei due fuochi passeranno necessariamente per l'altro fuoco indipendentemente dalla direzione seguita: da qui deriva il nome di fuochi dati a questi due particolari punti dell'ellisse. Analogamente, in una camera a forma di ellisse le  che partono da uno dei due fuochi raggiungeranno l'altro da tutte le direzioni e poiché la distanza percorsa nel tragitto da un fuoco all'altro è sempre la stessa le onde arriveranno tutte sincronizzate: questo spiega perché due persone poste nei due fuochi di una stanza ellittica possono comunicare facilmente anche da lunghe distanze, a differenza di due persone più vicine tra loro ma non situate nei fuochi.
+Si consideri una ellisse di fuochi ,  e asse maggiore  e un punto  appartenente all'ellisse. Esistono due metodi grafici per tracciare la tangente in un punto  dell'ellisse.
+Tracciare i segmenti  e . Tracciare la bisettrice  dell'angolo . Tracciare la retta  perpendicolare a s nel punto . La retta  è la retta tangente cercata.
+Tracciare la circonferenza di centro  e raggio . Tracciare il segmento  e prolungarlo fino ad incontrare il punto  sulla circonferenza. Tracciare . Tracciare il segmento . Fissare il punto medio  di . La retta  passante per i punti  e  è la retta tangente cercata.
+I coefficienti angolari delle tangenti all'ellisse :  condotte dal punto  a essa esterno si ricavano dalla risoluzione della seguente equazione di secondo grado:
+con  e .
+Si traslano l'ellisse  e il punto  di un vettore , in modo da ottenere l'ellisse :  e il punto , con  e . Sapendo che nella traslazione si conserva anche il parallelismo, i coefficienti angolari delle tangenti a  passanti per  sono uguali a quelli delle tangenti a  passanti per il punto . Si scrive il sistema di due equazioni con la prima relativa all'equazione dell'ellisse e la seconda relativa al fascio di rette passanti per il punto 
+Si impone la condizione di tangenza, ossia che il discriminante  sia nullo:
+È data un'ellisse di fuochi ,  e asse maggiore , e un punto  esterno all'ellisse. Esistono due metodi per tracciare le rette tangenti all'ellisse condotte dal punto esterno .
+Tracciare la circonferenza di centro  e raggio . Tracciare la circonferenza di centro  e raggio . Le due circonferenze si intersecano nei punti  e . Tracciare i segmenti  e . Fissare i punti  ed  di intersezione tra i due segmenti e l'ellisse. Le rette  e  sono le rette tangenti cercate.
+Tracciare la circonferenza di centro  e raggio . Tracciare la circonferenza di centro  e raggio . Le due circonferenze si intersecano nei punti  e . Tracciare i segmenti  e . Condurre per  la retta  perpendicolare al segmento . Condurre per  la retta  perpendicolare al segmento . Le rette  ed  sono le rette tangenti cercate.
+L'equazione generale dell'ellisse avente i fuochi  ed  posti in posizione generica sul piano cartesiano e avente il semiasse maggiore denotato con  è data da
+dove i parametri , , , ,  ed  sono uguali a
+La  dell'ellisse è:
+in cui la funzione  è l' ed  è l'eccentricità.
+Sono state proposte numerose formule approssimate per il calcolo della lunghezza dell'ellisse, che differiscono molto per complessità e accuratezza.
+Lo sviluppo in  è:
+Una semplice ma poco raffinata approssimazione per la lunghezza è
+che fornisce il risultato esatto quando l'ellisse è una circonferenza, cioè per , mentre dà un risultato approssimato per eccesso negli altri casi. Nel caso limite in cui  la formula dà , mentre il valore esatto è . La formula è più precisa per ellissi con bassa eccentricità. Utilizzare questa formula equivale ad assumere che l'ellisse abbia la stessa lunghezza di una circonferenza che ha raggio uguale alla media quadratica dei semiassi dell'ellisse.
+Un'approssimazione migliore si ottiene con uno sviluppo in serie nel modo seguente: posto  si ha
+Anche in questo caso l'approssimazione è migliore per le ellissi di bassa eccentricità.
+Due formule approssimate sono dovute a :
+Entrambe le formule danno il risultato esatto per una circonferenza e, nel caso generale, l'errore delle due formule è dell'ordine di e di , rispettivamente. Nel caso di ellisse degenere in un segmento (, ) la prima dà , mentre la seconda dà , quando il risultato esatto è .
+Fissare i due fuochi  e  e l'asse maggiore di lunghezza  (con ). Costruire una circonferenza di centro  e raggio . Fissare sulla circonferenza un punto generico . Tracciare il raggio . Tracciare il segmento  e l'asse di tale segmento (retta perpendicolare al segmento passante per il suo punto medio ) che interseca  nel punto . Il punto  è equidistante da  e da  in quanto sta sull'asse del segmento . Dunque . D'altra parte  e quindi . Quindi  è un punto dell'ellisse.
+Questo metodo viene detto della tangente in quanto la retta  è la tangente all'ellisse nel punto , infatti gode della proprietà tangenziale, precedentemente descritta.
+In questo caso sono note le lunghezze dei lati del rettangolo circoscritto all'ellisse. La linea rossa nella figura qui accanto sia la corda utilizzata dal "giardiniere" per tracciare l'ellisse.
+Nel film  del 2009 Ipazia, interpretata da , studiando l'orbita della Terra attorno al Sole traccia sulla sabbia un'ellisse con il metodo del giardiniere. In alcuni momenti si vede anche un .
+In , l' (o , dal  , 'mancanza') è una  ottenuta intersecando un  con un  in modo da produrre una .
+Affinché la  produca una curva chiusa l'inclinazione del piano deve essere superiore a quella della generatrice del cono rispetto al suo asse. Per contro, le due sezioni coniche ottenute con piani aventi inclinazione uguale o inferiore a quella della retta generatrice rispetto all'asse del cono danno vita ad altri due tipi di curve che sono aperte e illimitate: la  e l'.
+La  è un caso speciale di ellisse che si ottiene quando l'intersezione viene fatta con un piano ortogonale all'asse del cono.
+Un'ellisse è anche il  dei punti del piano per i quali la somma delle distanze da due punti fissi detti "fuochi" rimane costante.
+L'ellisse può essere anche la proiezione verticale su un piano orizzontale di una circonferenza appartenente a un piano inclinato: se il piano inclinato forma un angolo  con il piano orizzontale, la proiezione verticale della circonferenza è un'ellisse di eccentricità .
+Dopo la circonferenza, si tratta della più semplice tra le  ottenuta dalla composizione dei due moti verticale e orizzontale di tipo sinusoidale della stessa frequenza.
+In base alle , l'orbita di un  è un'ellisse con il  che ne occupa uno dei due fuochi.
+L'ellisse è una curva simile a un  allungato in una direzione: è un esempio di  e può essere definita come il  dei punti del piano per cui la somma delle distanze da due punti fissi, detti fuochi, rimane costante. Se i due fuochi coincidono si ha una , che quindi può essere considerata il caso particolare di ellisse a eccentricità nulla.
+È una curva con due assi di simmetria e un centro di simmetria. La distanza tra i punti antipodali dell'ellisse, cioè tra punti simmetrici rispetto al suo centro, è massima lungo l'asse maggiore, che contiene anche i due fuochi, ed è minima lungo l'asse minore perpendicolare a quello maggiore. Il semiasse maggiore è una delle due metà dell'asse maggiore: parte dal centro, passa attraverso un fuoco e arriva all'ellisse. Analogamente il semiasse minore è metà dell'asse minore. I due assi sono per l'ellisse l'equivalente del  per la circonferenza, mentre i due semiassi sono l'equivalente del .
+La dimensione e la forma di un'ellisse sono determinate da due costanti reali positive, dette convenzionalmente  e . La costante maggiore è la  del semiasse maggiore mentre la costante minore quella del semiasse minore.
+L'equazione dell'ellisse si trova uguagliando la somma delle distanze fra i due fuochi  e  e un punto generico  con il doppio del semiasse maggiore:
+che equivale a:
+Per trovare l'equazione "canonica" (o "normale") dell'ellisse, con centro nell'origine e fuochi sull'asse delle  (cioè ), si operino le sostituzioni , , , , . Dopo alcuni passaggi si ricava che l'ellisse centrata nell'origine di un sistema di  con l'asse maggiore posto lungo l'asse delle ascisse è definita dall'equazione:
+La stessa ellisse è rappresentata anche dall'equazione parametrica:
+che fa uso delle   e .
+L'  di un'ellisse è compresa tra  e  ed è il rapporto della distanza tra i due fuochi  ed  e la lunghezza dell'asse maggiore :
+L'eccentricità rende conto della forma più o meno schiacciata dell'ellisse: quando è uguale a , i due fuochi coincidono e l'ellisse degenera in una circonferenza di raggio . Facendo tendere l'eccentricità a , l'ellisse si schiaccia sempre più e quando assume il valore unitario essa degenera in un segmento lungo  percorso due volte, quindi il perimetro dell'ellisse è uguale a .
+Il semilato retto di un'ellisse, solitamente denotato dalla lettera , è la distanza tra ciascuno dei fuochi dell'ellisse e i punti sull'ellisse di cui i fuochi sono proiezione ortogonale sull'asse maggiore. È legato ad  e  dalla formula
+Come per le altre coniche, anche per l'ellisse vale la proprietà seguente: i punti medi di un fascio di corde parallele sono allineati.
+Il segmento che congiunge i punti medi di un fascio di corde parallele prende il nome di diametro dell'ellisse. I punti medi delle corde parallele ad un diametro dell'ellisse costituiscono il diametro coniugato al diametro dato. Due diametri coniugati si intersecano nel centro dell'ellisse. Gli assi di simmetria dell'ellisse sono gli unici diametri coniugati perpendicolari tra loro. La retta tangente ad un'ellisse nell'estremo di un diametro è sempre parallela al diametro coniugato.
+In , un'ellisse con un fuoco nell'origine e con la coordinata angolare  misurata a partire dall'asse maggiore è rappresentata dall'equazione:
+dove  denota il semilato retto e la coordinata angolare  è l'angolo che la retta r passante per  forma con l'asse maggiore (vedere figura a lato).
+Se si considera la retta  passante per il fuoco  e la coordinata angolare  è l'angolo che la retta  passante per  forma con l'asse maggiore, l'equazione diviene:
+L' racchiusa da un'ellisse è data da
+L'equazione della retta tangente all'ellisse con centro nell'origine in un suo punto  è:
+Il suo coefficiente angolare è dato da:
+Si scriva il seguente sistema non lineare di tre equazioni: la prima è l'equazione dell'ellisse, la seconda impone l'appartenenza all'ellisse del punto , la terza impone il passaggio della tangente per il punto  con inclinazione  da determinare:
+Nella prima e seconda equazione i secondi membri sono uguali a  e quindi anche i primi membri saranno tra essi uguali:
+Si consideri l'equazione della tangente:
+Sostituendo nella prima equazione:
+Per la :
+Facilmente verificabile poiché il punto appartiene all'ellisse.
+Invece nel secondo fattore:
+Poiché  e :
+Si sostituisca la pendenza  nell'equazione della retta:
+Per ipotesi nel sistema
+Quindi:
+Una dimostrazione alternativa può essere fatta ricorrendo alla  della  ellisse  nel punto : infatti basta ricordare che la derivata di una funzione in un suo punto coincide con il coefficiente angolare della retta tangente nel punto stesso. Effettuando quindi la derivata rispetto a  dell'equazione dell'ellisse si ottiene:
+Poiché  con il coefficiente angolare , si ottiene
+che calcolata nel punto  fornisce:
+Una tangente all'ellisse in un suo punto  forma angoli uguali con le rette passanti per  e per ciascuno dei due fuochi.
+Per dimostrare questa proprietà si può ricorrere al  in base al quale data una retta  e due punti  ed  ad essa esterni, il punto  della retta  che minimizza la somma  è quello per il quale i segmenti  e  formano angoli uguali con la retta .
+Consideriamo a tale scopo un'ellisse con fuochi  ed : un suo qualunque punto  soddisfa la condizione
+Per un qualunque punto  interno all'ellisse vale la condizione
+Si consideri ora una retta passante per un punto  dell'ellisse tale da formare angoli uguali con i segmenti  e : per il , il punto  è il punto della retta che rende minima la somma . Ciò implica che la retta è tangente all'ellisse: infatti se così non fosse la retta entrerebbe dentro l'ellisse e detto  un suo punto ad essa interno varrebbe la condizione  in contrasto con il teorema di Erone per il quale in  e non in  si sarebbe dovuta registrare la minima somma. Resta così dimostrata l'affermazione iniziale.
+Da questo enunciato segue che in un tavolo da biliardo a forma di ellisse una palla lanciata senza effetto da uno dei due fuochi verrà  dal bordo e passerà necessariamente per l'altro fuoco. La stessa cosa si verificherà in uno specchio concavo a forma di ellisse nel quale tutti i  emessi da uno dei due fuochi passeranno necessariamente per l'altro fuoco indipendentemente dalla direzione seguita: da qui deriva il nome di fuochi dati a questi due particolari punti dell'ellisse. Analogamente, in una camera a forma di ellisse le  che partono da uno dei due fuochi raggiungeranno l'altro da tutte le direzioni e poiché la distanza percorsa nel tragitto da un fuoco all'altro è sempre la stessa le onde arriveranno tutte sincronizzate: questo spiega perché due persone poste nei due fuochi di una stanza ellittica possono comunicare facilmente anche da lunghe distanze, a differenza di due persone più vicine tra loro ma non situate nei fuochi.
+Si consideri una ellisse di fuochi ,  e asse maggiore  e un punto  appartenente all'ellisse. Esistono due metodi grafici per tracciare la tangente in un punto  dell'ellisse.
+Tracciare i segmenti  e . Tracciare la bisettrice  dell'angolo . Tracciare la retta  perpendicolare a s nel punto . La retta  è la retta tangente cercata.
+Tracciare la circonferenza di centro  e raggio . Tracciare il segmento  e prolungarlo fino ad incontrare il punto  sulla circonferenza. Tracciare . Tracciare il segmento . Fissare il punto medio  di . La retta  passante per i punti  e  è la retta tangente cercata.
+I coefficienti angolari delle tangenti all'ellisse :  condotte dal punto  a essa esterno si ricavano dalla risoluzione della seguente equazione di secondo grado:
+con  e .
+Si traslano l'ellisse  e il punto  di un vettore , in modo da ottenere l'ellisse :  e il punto , con  e . Sapendo che nella traslazione si conserva anche il parallelismo, i coefficienti angolari delle tangenti a  passanti per  sono uguali a quelli delle tangenti a  passanti per il punto . Si scrive il sistema di due equazioni con la prima relativa all'equazione dell'ellisse e la seconda relativa al fascio di rette passanti per il punto 
+Si impone la condizione di tangenza, ossia che il discriminante  sia nullo:
+È data un'ellisse di fuochi ,  e asse maggiore , e un punto  esterno all'ellisse. Esistono due metodi per tracciare le rette tangenti all'ellisse condotte dal punto esterno .
+Tracciare la circonferenza di centro  e raggio . Tracciare la circonferenza di centro  e raggio . Le due circonferenze si intersecano nei punti  e . Tracciare i segmenti  e . Fissare i punti  ed  di intersezione tra i due segmenti e l'ellisse. Le rette  e  sono le rette tangenti cercate.
+Tracciare la circonferenza di centro  e raggio . Tracciare la circonferenza di centro  e raggio . Le due circonferenze si intersecano nei punti  e . Tracciare i segmenti  e . Condurre per  la retta  perpendicolare al segmento . Condurre per  la retta  perpendicolare al segmento . Le rette  ed  sono le rette tangenti cercate.
+L'equazione generale dell'ellisse avente i fuochi  ed  posti in posizione generica sul piano cartesiano e avente il semiasse maggiore denotato con  è data da
+dove i parametri , , , ,  ed  sono uguali a
+La  dell'ellisse è:
+in cui la funzione  è l' ed  è l'eccentricità.
+Sono state proposte numerose formule approssimate per il calcolo della lunghezza dell'ellisse, che differiscono molto per complessità e accuratezza.
+Lo sviluppo in  è:
+Una semplice ma poco raffinata approssimazione per la lunghezza è
+che fornisce il risultato esatto quando l'ellisse è una circonferenza, cioè per , mentre dà un risultato approssimato per eccesso negli altri casi. Nel caso limite in cui  la formula dà , mentre il valore esatto è . La formula è più precisa per ellissi con bassa eccentricità. Utilizzare questa formula equivale ad assumere che l'ellisse abbia la stessa lunghezza di una circonferenza che ha raggio uguale alla media quadratica dei semiassi dell'ellisse.
+Un'approssimazione migliore si ottiene con uno sviluppo in serie nel modo seguente: posto  si ha
+Anche in questo caso l'approssimazione è migliore per le ellissi di bassa eccentricità.
+Due formule approssimate sono dovute a :
+Entrambe le formule danno il risultato esatto per una circonferenza e, nel caso generale, l'errore delle due formule è dell'ordine di e di , rispettivamente. Nel caso di ellisse degenere in un segmento (, ) la prima dà , mentre la seconda dà , quando il risultato esatto è .
+Fissare i due fuochi  e  e l'asse maggiore di lunghezza  (con ). Costruire una circonferenza di centro  e raggio . Fissare sulla circonferenza un punto generico . Tracciare il raggio . Tracciare il segmento  e l'asse di tale segmento (retta perpendicolare al segmento passante per il suo punto medio ) che interseca  nel punto . Il punto  è equidistante da  e da  in quanto sta sull'asse del segmento . Dunque . D'altra parte  e quindi . Quindi  è un punto dell'ellisse.
+Questo metodo viene detto della tangente in quanto la retta  è la tangente all'ellisse nel punto , infatti gode della proprietà tangenziale, precedentemente descritta.
+In questo caso sono note le lunghezze dei lati del rettangolo circoscritto all'ellisse. La linea rossa nella figura qui accanto sia la corda utilizzata dal "giardiniere" per tracciare l'ellisse.
+Nel film  del 2009 Ipazia, interpretata da , studiando l'orbita della Terra attorno al Sole traccia sulla sabbia un'ellisse con il metodo del giardiniere. In alcuni momenti si vede anche un .
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		
+ 
+ .
+
+Puoi  aggiungendo citazioni da  secondo le . Segui i suggerimenti del .
+
+
+   indica la lunghezza del semiasse maggiore,  quella del semiasse minore, F ed F identificano i due fuochi,  indica la distanza di uno qualunque dei fuochi dal centro e infine la somma  è costante per definizione di ellisse e risulta uguale a 2a, lunghezza dell'asse maggiore.
+  Tipi di sezioni coniche: 1.  2.  ed ellisse 3. 
+
+
+
+
+
+
+  Dimostrazione geometrica del fatto che la somma, costante per definizione, delle distanze di un punto qualsiasi dell'ellisse dai due fuochi risulta uguale a 2a, lunghezza dell'asse maggiore. Essendo costante, per definizione, la somma suddetta e questo indipendentemente dal punto preso in considerazione, si può decidere di scegliere quello che si ritiene più conveniente ai fini della dimostrazione. Se in particolare si sceglie il punto B si nota come la somma  sia uguale proprio alla lunghezza 2a dell'asse maggiore.
+
+
+  Relazione tra i parametri ,  e  di un'ellisse. Se scegliamo in particolare il punto , dovendo essere costante e uguale a  la somma delle distanze dei due fuochi da  ed essendoci simmetria rispetto al punto , ciascuna delle due distanze sarà uguale ad . Applicando il  si ricava che 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Coordinate polari con centro in uno dei fuochi.
+
+
+
+
+
+
+
+
+  Tangente a un'ellisse in un suo punto P(x,y). Coefficiente angolare: Equazione: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Costruzione della retta tangente all'ellisse nel suo punto 
+
+
+
+
+
+
+
+
+  Tangenti a un'ellisse centrata nell'origine condotte da un punto P(x,y) ad essa esterno. I coefficienti angolari delle due rette si ottengono risolvendo l'equazione di secondo grado:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Rette tangenti ad un'ellisse condotte da un punto esterno 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Tecnica del giardiniere per tracciare un'ellisse, utilizzando due pioli, una funicella ed un punteruolo
+
+
+
+
+
+
+
+
+
+
+
+ : accedi alle voci di Wikipedia che trattano di matematica
+
+
+
+
+
+		Estratto da ""
+		: Categorie nascoste: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

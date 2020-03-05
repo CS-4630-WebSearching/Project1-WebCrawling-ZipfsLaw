@@ -1,0 +1,161 @@
+https://it.wikipedia.org/wiki/SemiperimetroIn , il  (dal  , composto di , intorno, e , misura) è la misura della  del contorno di una . È diffusa la convenzione di indicarlo con la sigla  (oppure "P"), da intendersi come , dove p è quindi la metà del perimetro o .
+Nei  per trovare il perimetro bisogna sommare tra di loro i lati: (ad esempio in un  ). Nei poligoni equilateri (come  e ) si può moltiplicare la lunghezza di un lato per il numero dei lati della figura (ad esempio nel quadrato ).
+Nel  il perimetro non è composto da lati ma da una linea continua curva i cui punti sono equidistanti da un punto chiamato . Questa linea è detta .
+La formula per trovare la lunghezza della circonferenza è:
+o
+Dove:
+In , il  (dal  , composto di , intorno, e , misura) è la misura della  del contorno di una . È diffusa la convenzione di indicarlo con la sigla  (oppure "P"), da intendersi come , dove p è quindi la metà del perimetro o .
+Nei  per trovare il perimetro bisogna sommare tra di loro i lati: (ad esempio in un  ). Nei poligoni equilateri (come  e ) si può moltiplicare la lunghezza di un lato per il numero dei lati della figura (ad esempio nel quadrato ).
+Nel  il perimetro non è composto da lati ma da una linea continua curva i cui punti sono equidistanti da un punto chiamato . Questa linea è detta .
+La formula per trovare la lunghezza della circonferenza è:
+o
+Dove:
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		 .
+ a migliorarla secondo le . Segui i suggerimenti del .
+
+
+
+
+
+
+
+
+
+
+
+
+  La circonferenza di un cerchio
+
+
+
+
+
+
+
+
+
+
+
+ : accedi alle voci di Wikipedia che trattano di matematica
+
+
+
+
+
+		Estratto da ""
+		: Categoria nascosta: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

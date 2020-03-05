@@ -1,0 +1,234 @@
+https://it.wikipedia.org/wiki/Cilindro_(geometria)In  un  è una  (cioè una superficie nello spazio tridimensionale definita da un'equazione polinomiale di secondo grado in , , ), che soddisfa la seguente equazione in :
+Questa è l'equazione di un cilindro ellittico. Un cilindro può essere anche considerato un  a base circolare, dove il numero dei rettangoli è quindi infinito.
+Se  si ha la superficie di un . Il cilindro è una  in quanto una delle coordinate dello spazio non compare nella sua equazione (nel caso precedente la coordinata ). Secondo certe terminologie i cilindri non sono considerati casi particolari di quadriche.
+Nell'uso comune, con la parola  si intende l'insieme limitato dei punti delimitati da un  e da due piani ortogonali al suo asse; alle sue due estremità piane esso presenta due superfici circolari, come nella figura a destra. Se questo cilindro ha   e altezza , il suo  è dato da
+e la sua 
+mentre la sua superficie totale è data dalla somma della  e del doppio della superficie di base.
+Superficie di base:
+Superficie totale:
+Si può calcolare il volume del cilindro per mezzo del calcolo integrale come il volume del solido ottenuto dalla rotazione di una retta parallela all'asse delle ordinate (del tipo , con  costante) attorno all'asse delle ascisse. Si ha:
+Essendo  proprio il raggio  del cilindro.
+Per un dato volume, il cilindro con la minima area superficiale, ha . Per una data area superficiale, il cilindro con più esteso volume ha . Un cilindro di questo tipo è detto .
+Qualora si dovesse calcolare il volume di un cilindro circolare troncato si deve utilizzare la seguente formula:
+dove  indica la lunghezza del lato corto, mentre  indica la lunghezza del lato lungo.
+Nel caso si dovesse calcolare la superficie laterale di un cilindro circolare troncato la formula è:
+Un cilindro ellittico è invariante per le rotazioni di  intorno al suo asse di simmetria, l'asse delle  nel caso della equazione di partenza; esso è anche invariante per tutte le traslazioni dirette come il suo asse. Un cilindro circolare è anche invariante per tutte le rotazioni intorno al suo asse.
+Ci sono altri tipi di cilindro meno usuali. Quello caratterizzato dall'equazione che segue viene detto :
+il  ha equazione:
+mentre il  ha equazione:
+Più in generale, data una curva ed una retta, un cilindro è la  costituita dalle rette parallele alla retta data ed incidenti con la curva.
+Un problema ricorrente è il calcolo del volume di  posto all'interno di un cilindro in orizzontale di lunghezza  e raggio , in funzione dell'altezza  raggiunta dal liquido. Il problema è di facile risoluzione: il volume è pari all'area sottesa tra la  di altezza  e la circonferenza, moltiplicata per la lunghezza  del cilindro.
+Sia  l'angolo al centro (misurato in ) che insiste sulla corda; stabiliamo sia  se  e  se invece ; sarà:
+La formula sarà allora data dall'area della sezione circolare individuata dall'angolo  meno il prodotto
+(che rappresenta l'area del triangolo che ha come vertici il centro del cerchio e le intersezioni fra i lati dell'angolo e la circonferenza, o il suo opposto, a seconda del segno di ), il tutto moltiplicato per la lunghezza  del cilindro, e quindi:
+Dall'applicazione del calcolo integrale si ottiene invece la seguente formula, valida per qualsiasi altezza di liquido () sia per un livello al di sotto della metà del serbatoio, sia per un livello al di sopra della metà stessa, applicabile misurando direttamente la sola altezza h del liquido e conoscendo la lunghezza del cilindro e il suo raggio. In tale formula, per  si intende l'altezza di liquido misurata con l'asticella graduata dal fondo del serbatoio.
+Va tuttavia tenuto presente che generalmente i serbatoi non sono perfettamente cilindrici. Vengono pertanto predisposte apposite tabelle di ragguaglio per la determinazione del volume di liquido, contenuto in un serbatoio posto orizzontalmente, in base al livello del liquido stesso.
+In  un  è una  (cioè una superficie nello spazio tridimensionale definita da un'equazione polinomiale di secondo grado in , , ), che soddisfa la seguente equazione in :
+Questa è l'equazione di un cilindro ellittico. Un cilindro può essere anche considerato un  a base circolare, dove il numero dei rettangoli è quindi infinito.
+Se  si ha la superficie di un . Il cilindro è una  in quanto una delle coordinate dello spazio non compare nella sua equazione (nel caso precedente la coordinata ). Secondo certe terminologie i cilindri non sono considerati casi particolari di quadriche.
+Nell'uso comune, con la parola  si intende l'insieme limitato dei punti delimitati da un  e da due piani ortogonali al suo asse; alle sue due estremità piane esso presenta due superfici circolari, come nella figura a destra. Se questo cilindro ha   e altezza , il suo  è dato da
+e la sua 
+mentre la sua superficie totale è data dalla somma della  e del doppio della superficie di base.
+Superficie di base:
+Superficie totale:
+Si può calcolare il volume del cilindro per mezzo del calcolo integrale come il volume del solido ottenuto dalla rotazione di una retta parallela all'asse delle ordinate (del tipo , con  costante) attorno all'asse delle ascisse. Si ha:
+Essendo  proprio il raggio  del cilindro.
+Per un dato volume, il cilindro con la minima area superficiale, ha . Per una data area superficiale, il cilindro con più esteso volume ha . Un cilindro di questo tipo è detto .
+Qualora si dovesse calcolare il volume di un cilindro circolare troncato si deve utilizzare la seguente formula:
+dove  indica la lunghezza del lato corto, mentre  indica la lunghezza del lato lungo.
+Nel caso si dovesse calcolare la superficie laterale di un cilindro circolare troncato la formula è:
+Un cilindro ellittico è invariante per le rotazioni di  intorno al suo asse di simmetria, l'asse delle  nel caso della equazione di partenza; esso è anche invariante per tutte le traslazioni dirette come il suo asse. Un cilindro circolare è anche invariante per tutte le rotazioni intorno al suo asse.
+Ci sono altri tipi di cilindro meno usuali. Quello caratterizzato dall'equazione che segue viene detto :
+il  ha equazione:
+mentre il  ha equazione:
+Più in generale, data una curva ed una retta, un cilindro è la  costituita dalle rette parallele alla retta data ed incidenti con la curva.
+Un problema ricorrente è il calcolo del volume di  posto all'interno di un cilindro in orizzontale di lunghezza  e raggio , in funzione dell'altezza  raggiunta dal liquido. Il problema è di facile risoluzione: il volume è pari all'area sottesa tra la  di altezza  e la circonferenza, moltiplicata per la lunghezza  del cilindro.
+Sia  l'angolo al centro (misurato in ) che insiste sulla corda; stabiliamo sia  se  e  se invece ; sarà:
+La formula sarà allora data dall'area della sezione circolare individuata dall'angolo  meno il prodotto
+(che rappresenta l'area del triangolo che ha come vertici il centro del cerchio e le intersezioni fra i lati dell'angolo e la circonferenza, o il suo opposto, a seconda del segno di ), il tutto moltiplicato per la lunghezza  del cilindro, e quindi:
+Dall'applicazione del calcolo integrale si ottiene invece la seguente formula, valida per qualsiasi altezza di liquido () sia per un livello al di sotto della metà del serbatoio, sia per un livello al di sopra della metà stessa, applicabile misurando direttamente la sola altezza h del liquido e conoscendo la lunghezza del cilindro e il suo raggio. In tale formula, per  si intende l'altezza di liquido misurata con l'asticella graduata dal fondo del serbatoio.
+Va tuttavia tenuto presente che generalmente i serbatoi non sono perfettamente cilindrici. Vengono pertanto predisposte apposite tabelle di ragguaglio per la determinazione del volume di liquido, contenuto in un serbatoio posto orizzontalmente, in base al livello del liquido stesso.
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		  Cilindro circolare retto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Cilindro ellittico
+
+
+
+
+
+
+
+
+
+  Cilindro con h < r   Cilindro con h > r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ : accedi alle voci di Wikipedia che trattano di matematica
+
+
+
+
+
+		Estratto da ""
+		: Categoria nascosta: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

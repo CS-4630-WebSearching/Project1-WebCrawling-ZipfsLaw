@@ -1,0 +1,216 @@
+https://it.wikipedia.org/wiki/Cono_(solido)In , il  è un  che si ottiene ruotando un  intorno a uno dei suoi .
+L'asse del cono è il cateto intorno a cui il solido è costruito; la base del cono è altresì il  ottenuto dalla rotazione dell'altro cateto.
+Il  del cono è, infine, il punto dell'asse opposto a quello dell'intersezione con la sua base.
+L'aggettivo che definisce gli oggetti di natura simile al cono è ; da esso derivano anche le  e le  cosiddette , ovvero risultanti dall'intersezione di un  con un cono.
+In  un cono può essere considerato come una  di base circolare, avente quindi numero infinito di facce oblique.
+Un cono il cui vertice è tagliato da un piano parallelo alla sua base è detto . Il termine cono viene talvolta esteso a figure più generali:
+Il termine "cono" senza ulteriori specificazioni indica generalmente un cono circolare retto.
+Il   di un cono con   e con base di   è  del volume del  che ha le stesse dimensioni. Quindi:
+Se la base è ellittica di semiassi  e :
+Si può calcolare il volume del cono per mezzo del  come il volume del solido ottenuto dalla rotazione di una retta  con  positivo (per semplicità passante per l'origine degli assi) attorno all'asse delle ascisse. Si ha:
+Essendo  l' formato dalla retta  con l'asse delle ascisse, da considerazioni trigonometriche si ha che:
+e poiché il coefficiente angolare  è uguale alla  di , elevando al quadrato ambo i membri della precedente equazione si ha:
+da cui si ottiene:
+L'area totale  di una superficie conica è data dalla somma dell'area della base  con l'area laterale :
+dove:
+avendo definito l'  del cono come
+Sostituendo nella formula, si ottiene infine:
+Il  di un cono di  uniforme è sull'asse, ad altezza , partendo dalla base.
+In , il  è un  che si ottiene ruotando un  intorno a uno dei suoi .
+L'asse del cono è il cateto intorno a cui il solido è costruito; la base del cono è altresì il  ottenuto dalla rotazione dell'altro cateto.
+Il  del cono è, infine, il punto dell'asse opposto a quello dell'intersezione con la sua base.
+L'aggettivo che definisce gli oggetti di natura simile al cono è ; da esso derivano anche le  e le  cosiddette , ovvero risultanti dall'intersezione di un  con un cono.
+In  un cono può essere considerato come una  di base circolare, avente quindi numero infinito di facce oblique.
+Un cono il cui vertice è tagliato da un piano parallelo alla sua base è detto . Il termine cono viene talvolta esteso a figure più generali:
+Il termine "cono" senza ulteriori specificazioni indica generalmente un cono circolare retto.
+Il   di un cono con   e con base di   è  del volume del  che ha le stesse dimensioni. Quindi:
+Se la base è ellittica di semiassi  e :
+Si può calcolare il volume del cono per mezzo del  come il volume del solido ottenuto dalla rotazione di una retta  con  positivo (per semplicità passante per l'origine degli assi) attorno all'asse delle ascisse. Si ha:
+Essendo  l' formato dalla retta  con l'asse delle ascisse, da considerazioni trigonometriche si ha che:
+e poiché il coefficiente angolare  è uguale alla  di , elevando al quadrato ambo i membri della precedente equazione si ha:
+da cui si ottiene:
+L'area totale  di una superficie conica è data dalla somma dell'area della base  con l'area laterale :
+dove:
+avendo definito l'  del cono come
+Sostituendo nella formula, si ottiene infine:
+Il  di un cono di  uniforme è sull'asse, ad altezza , partendo dalla base.
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		
+ 
+  Cono
+
+  Illustrazione relativa a un articolo intitolato  pubblicato sugli  nel 1734
+
+
+
+
+
+  Cono circolare retto (a sinistra) e cono circolare obliquo (a destra). Nel primo l'apotema è colorato in giallo. Nel secondo, l'altezza  non cade nel centro del cerchio di base, essendo l'asse  non ortogonale. L' è colorato in giallo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ : accedi alle voci di Wikipedia che trattano di matematica
+
+
+
+
+
+		Estratto da ""
+		: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

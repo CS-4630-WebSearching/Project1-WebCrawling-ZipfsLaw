@@ -1,0 +1,290 @@
+https://it.wikipedia.org/wiki/SferaLa  (dal  σφαῖρα, ) è il solido  costituito da tutti i punti che sono a distanza minore o uguale a una distanza fissata , detta , da un punto  detto .
+L'insieme dei punti la cui distanza è eguale a  è detto  di centro  e raggio .
+È detta "semisfera" ciascuna delle metà di un solido sferico diviso in due da un piano passante per il centro o anche ciascuna delle due superfici di una sfera divisa da una sua circonferenza massima.
+In , una superficie sferica con centro  e di raggio  è rappresentata dall'insieme di punti  tali che
+I punti della superficie sferica possono essere parametrizzati in  nel modo seguente
+dove  e  rappresentano la  e la  del punto, variando negli intervalli
+Ogni punto della superficie sferica è descritto da una sola coppia  di questo tipo, tranne i poli: la coppia  descrive sempre il polo nord, e  sempre il polo sud (per qualsiasi valore di ).
+Alternativamente si può utilizzare l'equazione cartesiana della superficie sferica:
+con , , , , numeri reali tali che . Dall'equazione cartesiana si possono ricavare le coordinate del centro:
+L' della superficie di una sfera di raggio  è data dall'equazione:
+La sfera può essere pensata come un solido di rotazione ottenuto ruotando attorno all'asse  il grafico della funzione
+che rappresenta una semicirconferenza di raggio . Pertanto, per il , la superficie laterale è data da:
+La superficie totale della sfera si può ottenere, per il , tramite il seguente integrale:
+Il  della sfera di raggio  è dato dall'equazione ( in  della superficie):
+La dimostrazione di questa formula può essere ottenuta in modo immediato usando il  oppure con gli strumenti nell'.
+Si pensi di sommare tutte le aree dei cerchi che si ottengono sezionando la sfera con dei piani orizzontali. Il raggio di questi cerchi varierà con una funzione  della distanza del piano orizzontale dal centro della sfera e dato che l'area di un cerchio equivale a  per il raggio al quadrato:
+dove  appunto è la distanza del piano dal centro della sfera.
+Raggio alla distanza 
+Dunque, dal ,  vale:
+che, sostituita nell'equazione del volume, si trova:
+Allo stesso modo si può calcolare il volume  di un segmento di sfera di altezza 
+La sfera può anche essere intesa come l'insieme di numerose  , tutte con il vertice nel centro della sfera e con i  di base delle piramidi che poggiano sulla superficie della sfera: queste infinite piramidi elementari riempiranno tutto e solo il volume della sfera. Il volume di ogni piramide è:
+dal quale si desume il significato della formula per il volume della sfera.
+La sfera è la figura tridimensionale con il minimo rapporto superficie/volume: ciò spiega perché a tale forma tendono molti oggetti fisici, dalle gocce di liquido ai corpi celesti. Ad esempio, le bolle sono sferiche perché la  tende a minimizzare l'area a parità di volume.
+Il  circoscritto ha un volume che è  quello della sfera, ed una superficie laterale che è la stessa di quella della sfera. Questo fatto, e le formule scritte sopra, erano già noti ad .
+Con l'aumentare del raggio, il volume della sfera cresce più della superficie. Infatti il rapporto fra queste due quantità è .
+Una sfera può anche essere definita come formata da un  che ruota intorno al suo . Se si usa una , si ottiene un  di rotazione.
+Due punti della superficie sferica che stanno sulla stessa retta passante per l'origine sono detti , e una tale retta è detta , poiché è un  della sfera.
+Un  è una circonferenza avente lo stesso centro della sfera, ottenuta quindi intersecando la superficie sferica con un piano passante per l'origine.
+Se un punto della superficie sferica è identificato come , il suo antipodale è il  e l' è il cerchio massimo equidistante dai due poli. I cerchi massimi passanti per i poli sono i , mentre la linea retta passante per l'origine ed i due poli è l'. Questa terminologia è usata anche per i corpi celesti come la , anche se non perfettamente sferici.
+La sfera può essere generalizzata in altre . Per ogni  , una  è l'insieme dei punti nello  -dimensionale  che hanno una distanza fissata  da un certo punto dello spazio.
+Ad esempio:
+Le sfere di dimensione > 2 sono chiamate anche . La sfera -dimensionale di raggio unitario, centrata nell'origine, viene indicata con .
+Più in generale, in uno  , la sfera di centro  e raggio  è l'insieme 
+Una sfera in uno spazio metrico può essere un oggetto molto diverso dalla sfera usuale. Ad esempio, può essere vuota: se consideriamo  con la metrica euclidea, una sfera di raggio  è vuota se e solo se  non può essere scritto come somma di  quadrati.
+Dove con  si intende il raggio della sfera, con  l'altezza del segmento di sfera o della calotta sferica, con  l'ampiezza in  della calotta.
+Per quanto si sia avvicinato, l'uomo non è ancora riuscito a produrre alcun oggetto dalla sfericità matematicamente perfetta. Finora il miglior risultato è stato raggiunto dall', di  (). La sfera è stata ottenuta attraverso una levigazione ad altissima precisione di una barra di silicio 28 (un  del ) ed è frutto del , che si propone di arrivare alla definizione del  perfetto, basata sulla conoscenza dell'esatto numero di  che compongono tale sfera. Il suo diametro è di 9,36  e come uniche imperfezioni presenta una rugosità di 0,3  e piccole deviazioni di sfericità di circa 60-70 nanometri. In precedenza, il miglior risultato era stato ottenuto dalla , che per la  , costruita per degli studi  in , ha creato dei  con deviazioni inferiori ai 100 nanometri.
+ paragona l' a una sfera perfetta, sempre uguale a se stessa nello spazio e nel tempo, chiusa e finita (per gli  il finito era sinonimo di perfezione). La sfera è infatti l'unico solido  che non ha differenze al suo interno, ed è uguale dovunque la si guardi; l'ipotesi collima suggestivamente con la  di  che nel  dirà: «Se prendessimo un  e lo puntassimo nello spazio, vedremmo una linea curva chiusa all'infinito» in tutte le direzioni dello spazio, ovvero, complessivamente, una sfera (per lo scienziato infatti l' è finito sebbene illimitato, fatto di uno spazio tondo ripiegato su se stesso).
+La  (dal  σφαῖρα, ) è il solido  costituito da tutti i punti che sono a distanza minore o uguale a una distanza fissata , detta , da un punto  detto .
+L'insieme dei punti la cui distanza è eguale a  è detto  di centro  e raggio .
+È detta "semisfera" ciascuna delle metà di un solido sferico diviso in due da un piano passante per il centro o anche ciascuna delle due superfici di una sfera divisa da una sua circonferenza massima.
+In , una superficie sferica con centro  e di raggio  è rappresentata dall'insieme di punti  tali che
+I punti della superficie sferica possono essere parametrizzati in  nel modo seguente
+dove  e  rappresentano la  e la  del punto, variando negli intervalli
+Ogni punto della superficie sferica è descritto da una sola coppia  di questo tipo, tranne i poli: la coppia  descrive sempre il polo nord, e  sempre il polo sud (per qualsiasi valore di ).
+Alternativamente si può utilizzare l'equazione cartesiana della superficie sferica:
+con , , , , numeri reali tali che . Dall'equazione cartesiana si possono ricavare le coordinate del centro:
+L' della superficie di una sfera di raggio  è data dall'equazione:
+La sfera può essere pensata come un solido di rotazione ottenuto ruotando attorno all'asse  il grafico della funzione
+che rappresenta una semicirconferenza di raggio . Pertanto, per il , la superficie laterale è data da:
+La superficie totale della sfera si può ottenere, per il , tramite il seguente integrale:
+Il  della sfera di raggio  è dato dall'equazione ( in  della superficie):
+La dimostrazione di questa formula può essere ottenuta in modo immediato usando il  oppure con gli strumenti nell'.
+Si pensi di sommare tutte le aree dei cerchi che si ottengono sezionando la sfera con dei piani orizzontali. Il raggio di questi cerchi varierà con una funzione  della distanza del piano orizzontale dal centro della sfera e dato che l'area di un cerchio equivale a  per il raggio al quadrato:
+dove  appunto è la distanza del piano dal centro della sfera.
+Raggio alla distanza 
+Dunque, dal ,  vale:
+che, sostituita nell'equazione del volume, si trova:
+Allo stesso modo si può calcolare il volume  di un segmento di sfera di altezza 
+La sfera può anche essere intesa come l'insieme di numerose  , tutte con il vertice nel centro della sfera e con i  di base delle piramidi che poggiano sulla superficie della sfera: queste infinite piramidi elementari riempiranno tutto e solo il volume della sfera. Il volume di ogni piramide è:
+dal quale si desume il significato della formula per il volume della sfera.
+La sfera è la figura tridimensionale con il minimo rapporto superficie/volume: ciò spiega perché a tale forma tendono molti oggetti fisici, dalle gocce di liquido ai corpi celesti. Ad esempio, le bolle sono sferiche perché la  tende a minimizzare l'area a parità di volume.
+Il  circoscritto ha un volume che è  quello della sfera, ed una superficie laterale che è la stessa di quella della sfera. Questo fatto, e le formule scritte sopra, erano già noti ad .
+Con l'aumentare del raggio, il volume della sfera cresce più della superficie. Infatti il rapporto fra queste due quantità è .
+Una sfera può anche essere definita come formata da un  che ruota intorno al suo . Se si usa una , si ottiene un  di rotazione.
+Due punti della superficie sferica che stanno sulla stessa retta passante per l'origine sono detti , e una tale retta è detta , poiché è un  della sfera.
+Un  è una circonferenza avente lo stesso centro della sfera, ottenuta quindi intersecando la superficie sferica con un piano passante per l'origine.
+Se un punto della superficie sferica è identificato come , il suo antipodale è il  e l' è il cerchio massimo equidistante dai due poli. I cerchi massimi passanti per i poli sono i , mentre la linea retta passante per l'origine ed i due poli è l'. Questa terminologia è usata anche per i corpi celesti come la , anche se non perfettamente sferici.
+La sfera può essere generalizzata in altre . Per ogni  , una  è l'insieme dei punti nello  -dimensionale  che hanno una distanza fissata  da un certo punto dello spazio.
+Ad esempio:
+Le sfere di dimensione > 2 sono chiamate anche . La sfera -dimensionale di raggio unitario, centrata nell'origine, viene indicata con .
+Più in generale, in uno  , la sfera di centro  e raggio  è l'insieme 
+Una sfera in uno spazio metrico può essere un oggetto molto diverso dalla sfera usuale. Ad esempio, può essere vuota: se consideriamo  con la metrica euclidea, una sfera di raggio  è vuota se e solo se  non può essere scritto come somma di  quadrati.
+Dove con  si intende il raggio della sfera, con  l'altezza del segmento di sfera o della calotta sferica, con  l'ampiezza in  della calotta.
+Per quanto si sia avvicinato, l'uomo non è ancora riuscito a produrre alcun oggetto dalla sfericità matematicamente perfetta. Finora il miglior risultato è stato raggiunto dall', di  (). La sfera è stata ottenuta attraverso una levigazione ad altissima precisione di una barra di silicio 28 (un  del ) ed è frutto del , che si propone di arrivare alla definizione del  perfetto, basata sulla conoscenza dell'esatto numero di  che compongono tale sfera. Il suo diametro è di 9,36  e come uniche imperfezioni presenta una rugosità di 0,3  e piccole deviazioni di sfericità di circa 60-70 nanometri. In precedenza, il miglior risultato era stato ottenuto dalla , che per la  , costruita per degli studi  in , ha creato dei  con deviazioni inferiori ai 100 nanometri.
+ paragona l' a una sfera perfetta, sempre uguale a se stessa nello spazio e nel tempo, chiusa e finita (per gli  il finito era sinonimo di perfezione). La sfera è infatti l'unico solido  che non ha differenze al suo interno, ed è uguale dovunque la si guardi; l'ipotesi collima suggestivamente con la  di  che nel  dirà: «Se prendessimo un  e lo puntassimo nello spazio, vedremmo una linea curva chiusa all'infinito» in tutte le direzioni dello spazio, ovvero, complessivamente, una sfera (per lo scienziato infatti l' è finito sebbene illimitato, fatto di uno spazio tondo ripiegato su se stesso).
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Sfera campione del 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ·  · 
+
+ : accedi alle voci di Wikipedia che trattano di matematica
+
+
+
+
+
+		Estratto da ""
+		: Categorie nascoste: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

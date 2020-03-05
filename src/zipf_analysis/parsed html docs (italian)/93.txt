@@ -1,0 +1,243 @@
+https://it.wikipedia.org/wiki/Formula_dell%27area_di_GaussLa  è un  matematico utilizzato per determinare l' di un  i cui vertici siano descritti in . Il risultato si ottiene moltiplicando in croce le coordinate corrispondenti seguendo uno schema simile a quello dei lacci della scarpa.
+La formula può essere rappresentata dall'espressione:
+dove
+Oppure, servendosi delle :
+, dove  e  indicano rispettivamente  e .
+La dimostrazione della formula si basa sul concetto di : il calcolo dell'area della figura è infatti la generalizzazione dell' utilizzata per il calcolo di una superficie.
+Sia  l'insieme dei punti  appartenenti al poligono. 
+L'area è , dove  è una  definita come .
+Sia , con
+Grazie a questa sostituzione,
+ma, per il  risulterà:
+Il   della varietà considerata corrisponde all'unione dei segmenti che uniscono i vari punti:   dove  è il segmento che unisce il punto  a .
+Perciò
+Sostituendo per , sarà
+e, parametrizzando, 
+L' porta al risultato
+che, semplificato con un po' di  elementare è
+Q.E.D.
+Si prenda un triangolo con vertici di coordinate . Si prenda la prima  e la si moltiplichi per la seconda  e così via. Si arriverà alla formula
+dove  e  rappresentano le coordinate di un punto. Ma questo vale solo per i triangoli. Usando la formula, si trova che l'area del triangolo descritto sopra è uguale al  della metà di , che è uguale a .
+E così l'area del  diventerà
+e per il  sarà
+Si consideri il poligono di vertici , , ,  e  illustrato qui sotto:
+
+L'area del poligono vale:
+Se si costruisce una  rettangolare dove siano indicate, su ogni riga, le coordinate di ogni vertice, avendo cura di riportare il primo vertice alla fine della lista, l'applicazione della formula risulterà notevolmente più semplice.
+Sia il triangolo , , . La matrice da utilizzare sarà:
+Innanzitutto si disegneranno dei trattini che uniscano, in diagonale i punti da sinistra a destra verso il basso, e viceversa (da destra a sinistra sempre verso il basso)
+e si moltiplicheranno i due numeri connessi dalle linee, poi si calcolerà la somma dei prodotti
+Lo stesso andrà fatto con le diagonali secondarie. 
+da cui si ha
+Ora i due numeri vanno sottratti tra loro, e va considerato il valore assoluto della differenza (non esistono aree negative!): . Infine, dimezzando il risultato si ottiene l'area: .
+Da questo sistema la formula prende il nome del "laccio di scarpa": infatti i trattini disegnati sulla matrice sembrano proprio i lacci di una scarpa.
+
+La  è un  matematico utilizzato per determinare l' di un  i cui vertici siano descritti in . Il risultato si ottiene moltiplicando in croce le coordinate corrispondenti seguendo uno schema simile a quello dei lacci della scarpa.
+La formula può essere rappresentata dall'espressione:
+dove
+Oppure, servendosi delle :
+, dove  e  indicano rispettivamente  e .
+La dimostrazione della formula si basa sul concetto di : il calcolo dell'area della figura è infatti la generalizzazione dell' utilizzata per il calcolo di una superficie.
+Sia  l'insieme dei punti  appartenenti al poligono. 
+L'area è , dove  è una  definita come .
+Sia , con
+Grazie a questa sostituzione,
+ma, per il  risulterà:
+Il   della varietà considerata corrisponde all'unione dei segmenti che uniscono i vari punti:   dove  è il segmento che unisce il punto  a .
+Perciò
+Sostituendo per , sarà
+e, parametrizzando, 
+L' porta al risultato
+che, semplificato con un po' di  elementare è
+Q.E.D.
+Si prenda un triangolo con vertici di coordinate . Si prenda la prima  e la si moltiplichi per la seconda  e così via. Si arriverà alla formula
+dove  e  rappresentano le coordinate di un punto. Ma questo vale solo per i triangoli. Usando la formula, si trova che l'area del triangolo descritto sopra è uguale al  della metà di , che è uguale a .
+E così l'area del  diventerà
+e per il  sarà
+Si consideri il poligono di vertici , , ,  e  illustrato qui sotto:
+
+L'area del poligono vale:
+Se si costruisce una  rettangolare dove siano indicate, su ogni riga, le coordinate di ogni vertice, avendo cura di riportare il primo vertice alla fine della lista, l'applicazione della formula risulterà notevolmente più semplice.
+Sia il triangolo , , . La matrice da utilizzare sarà:
+Innanzitutto si disegneranno dei trattini che uniscano, in diagonale i punti da sinistra a destra verso il basso, e viceversa (da destra a sinistra sempre verso il basso)
+e si moltiplicheranno i due numeri connessi dalle linee, poi si calcolerà la somma dei prodotti
+Lo stesso andrà fatto con le diagonali secondarie. 
+da cui si ha
+Ora i due numeri vanno sottratti tra loro, e va considerato il valore assoluto della differenza (non esistono aree negative!): . Infine, dimezzando il risultato si ottiene l'area: .
+Da questo sistema la formula prende il nome del "laccio di scarpa": infatti i trattini disegnati sulla matrice sembrano proprio i lacci di una scarpa.
+
+
+	
+	
+	
+
+
+	
+	
+	
+		Da Wikipedia, l'enciclopedia libera.
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ : accedi alle voci di Wikipedia che trattano di Matematica
+
+
+
+
+
+		Estratto da ""
+		: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	

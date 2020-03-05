@@ -1,0 +1,449 @@
+https://es.wikipedia.org/wiki/Portal:Inform%C3%A1tica
+La informática abarca un amplio campo de conocimientos que incluyen: fundamentos teóricos, diseño de sistemas de información, algoritmia,  y uso de las computadoras.
+La  es la ciencia que estudia el tratamiento automático de la información por medio de . Entre las tareas más populares que ha facilitado esta ciencia se encuentran: elaborar documentos, enviar y recibir , crear efectos visuales y sonoros, dibujar, la maquetación de folletos y libros, el manejo de información contable para las empresas, el control de procesos industriales y el desarrollo de juegos.
+La  ha sido uno de los sectores económicos que mayores beneficios ha recibido del desarrollo de la informática y de la vertiginosa evolución de los equipos de cómputo, al ofrecer soluciones integrales, incluyendo la , a empresas que tienen necesidades de optimizar los procesos de fabricación de bienes y servicios.
+Los beneficios en el  también son amplios. El registro de enfermedades, el crecimiento de la población son aspectos de la sociedad que pueden ser controlados eficientemente con el uso de la informática. El manejo de grandes volúmenes de información médica es posible gracias a dispositivos de alta velocidad y capacidad de almacenaje de datos, en combinación con el desarrollo de aplicaciones especializadas.
+Últimamente las  (TIC), están revolucionando al sector educativo al insertar en el aula el equipo de cómputo y las aplicaciones didácticas necesarios para mejorar el proceso enseñanza-aprendizaje, permitiendo que los estudiantes desarrollen y asimilen nuevos conocimientos. Ejemplo de ello son el  () aplicado por la  a sus países miembros cada cuatro años para medir el desempeño académico de estudiantes de un nivel educativo y el  (MAP), esfuerzo estadounidense de unificar los planes de estudio a nivel nacional en la enseñanza del idioma inglés y el estudio de las matemáticas.
+La  es otro sector del ámbito educativo que se ha beneficiado con los avances tecnológicos en la informática, tales como el desarrollo de plataformas de trabajo colaborativo que permiten a los estudiantes lograr su desarrollo profesional sin tener que acudir físicamente a las instalaciones de la institución educativa. Ejemplo de estas plataformas son: , , Classroom.
+Algunos momentos principales en ese proceso de desarrollo son los siguientes:
+ o multipuesto, también llamado multiterminal, multi-station, multihead, es la configuración especial de una  para soportar múltiples usuarios trabajando al mismo tiempo, cada uno con su propio , ,  y, opcionalmente, con su propia .
+Con el creciente aumento de capacidad del , tanto en  como , más el vertiginoso avance y desarrollo de los sistemas , cada vez más robustos y con un mejor manejo de los recursos, en una computadora puede hacerse un alto número de tareas sin que se vuelva lenta. Sin embargo, al usar la configuración estándar de un PC de escritorio, únicamente un usuario puede usar la computadora a la vez, limitando la efectividad del sistema pues permanece desocupado la mayor parte del tiempo, mantiene su recursos ociosos.
+Con la configuración multipuesto, muchos usuarios pueden compartir la misma computadora, así que se estaría usado un mayor porcentaje de su capacidad total, teniendo así un mejor aprovechamiento del sistema. 
+
+ •  • 
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • 
+: , , , , , ,  •  •  •  () •  • :  y  •  •  • : , , ,  y  •  • : , , , ;  •  •  •  •  •   •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • . El Hardware también se puede clasificar en : ,  y .
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ •
+ • 
+ • 
+ • 
+ • 
+ • 
+ •
+ •
+ •
+ •
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ •
+ •
+ •
+
+Lea en  las noticias más recientes sobre 
+.
+
+El  es un conjunto descentralizado de  interconectadas que utilizan la familia de  , garantizando que las redes físicas  que la componen funcionen como una red lógica única, de alcance mundial.
+
+El , o soporte lógico son todos los componentes intangibles de una , es decir, el conjunto de programas y procedimientos necesarios para hacer posible la realización de una tarea específica.
+
+El  es el programa que puede ser usado, copiado, estudiado, modificado y redistribuido .
+
+ es el  o kernel del    (también llamado erróneamente como Linux).
+
+ (o simplemente programación) es el proceso de escribir, probar, , y mantener el  de un programa de computadora.
+
+ es una palabra compuesta formada por dos raíces ,  (τεχνη 'arte, técnica u oficio') y  (λογος 'palabra, discusión, razonamiento'); por tanto, tecnología es el estudio o ciencia de los oficios.
+
+La  es la profesión en la cual los conocimientos de  y , son aplicados al desarrollo de medios para utilizar los materiales y las fuerzas de la .
+
+ · 
+ · 
+ · 
+ · 
+
+
+ · 
+ ·
+·
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+
+
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+  · 
+
+
+ ·
+ · 
+ · 
+ · 
+ · 
+
+
+ · 
+
+
+ · 
+ · 
+ · 
+
+
+La informática abarca un amplio campo de conocimientos que incluyen: fundamentos teóricos, diseño de sistemas de información, algoritmia,  y uso de las computadoras.
+La  es la ciencia que estudia el tratamiento automático de la información por medio de . Entre las tareas más populares que ha facilitado esta ciencia se encuentran: elaborar documentos, enviar y recibir , crear efectos visuales y sonoros, dibujar, la maquetación de folletos y libros, el manejo de información contable para las empresas, el control de procesos industriales y el desarrollo de juegos.
+La  ha sido uno de los sectores económicos que mayores beneficios ha recibido del desarrollo de la informática y de la vertiginosa evolución de los equipos de cómputo, al ofrecer soluciones integrales, incluyendo la , a empresas que tienen necesidades de optimizar los procesos de fabricación de bienes y servicios.
+Los beneficios en el  también son amplios. El registro de enfermedades, el crecimiento de la población son aspectos de la sociedad que pueden ser controlados eficientemente con el uso de la informática. El manejo de grandes volúmenes de información médica es posible gracias a dispositivos de alta velocidad y capacidad de almacenaje de datos, en combinación con el desarrollo de aplicaciones especializadas.
+Últimamente las  (TIC), están revolucionando al sector educativo al insertar en el aula el equipo de cómputo y las aplicaciones didácticas necesarios para mejorar el proceso enseñanza-aprendizaje, permitiendo que los estudiantes desarrollen y asimilen nuevos conocimientos. Ejemplo de ello son el  () aplicado por la  a sus países miembros cada cuatro años para medir el desempeño académico de estudiantes de un nivel educativo y el  (MAP), esfuerzo estadounidense de unificar los planes de estudio a nivel nacional en la enseñanza del idioma inglés y el estudio de las matemáticas.
+La  es otro sector del ámbito educativo que se ha beneficiado con los avances tecnológicos en la informática, tales como el desarrollo de plataformas de trabajo colaborativo que permiten a los estudiantes lograr su desarrollo profesional sin tener que acudir físicamente a las instalaciones de la institución educativa. Ejemplo de estas plataformas son: , , Classroom.
+Algunos momentos principales en ese proceso de desarrollo son los siguientes:
+ o multipuesto, también llamado multiterminal, multi-station, multihead, es la configuración especial de una  para soportar múltiples usuarios trabajando al mismo tiempo, cada uno con su propio , ,  y, opcionalmente, con su propia .
+Con el creciente aumento de capacidad del , tanto en  como , más el vertiginoso avance y desarrollo de los sistemas , cada vez más robustos y con un mejor manejo de los recursos, en una computadora puede hacerse un alto número de tareas sin que se vuelva lenta. Sin embargo, al usar la configuración estándar de un PC de escritorio, únicamente un usuario puede usar la computadora a la vez, limitando la efectividad del sistema pues permanece desocupado la mayor parte del tiempo, mantiene su recursos ociosos.
+Con la configuración multipuesto, muchos usuarios pueden compartir la misma computadora, así que se estaría usado un mayor porcentaje de su capacidad total, teniendo así un mejor aprovechamiento del sistema. 
+
+ •  • 
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • 
+: , , , , , ,  •  •  •  () •  • :  y  •  •  • : , , ,  y  •  • : , , , ;  •  •  •  •  •   •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • . El Hardware también se puede clasificar en : ,  y .
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ •
+ • 
+ • 
+ • 
+ • 
+ • 
+ •
+ •
+ •
+ •
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ • 
+ •
+ •
+ •
+
+Lea en  las noticias más recientes sobre 
+.
+
+El  es un conjunto descentralizado de  interconectadas que utilizan la familia de  , garantizando que las redes físicas  que la componen funcionen como una red lógica única, de alcance mundial.
+
+El , o soporte lógico son todos los componentes intangibles de una , es decir, el conjunto de programas y procedimientos necesarios para hacer posible la realización de una tarea específica.
+
+El  es el programa que puede ser usado, copiado, estudiado, modificado y redistribuido .
+
+ es el  o kernel del    (también llamado erróneamente como Linux).
+
+ (o simplemente programación) es el proceso de escribir, probar, , y mantener el  de un programa de computadora.
+
+ es una palabra compuesta formada por dos raíces ,  (τεχνη 'arte, técnica u oficio') y  (λογος 'palabra, discusión, razonamiento'); por tanto, tecnología es el estudio o ciencia de los oficios.
+
+La  es la profesión en la cual los conocimientos de  y , son aplicados al desarrollo de medios para utilizar los materiales y las fuerzas de la .
+
+ · 
+ · 
+ · 
+ · 
+
+
+ · 
+ ·
+·
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+
+
+ · 
+ · 
+ · 
+ · 
+ · 
+ · 
+  · 
+
+
+ ·
+ · 
+ · 
+ · 
+ · 
+
+
+ · 
+
+
+ · 
+ · 
+ · 
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		De Wikipedia, la enciclopedia libre
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+
+
+
+
+
+
+
+		Obtenido de «»
+		: Categoría oculta: 
+		
+		
+	
+
+	
+
+    
+    
+        
+
+	
+	
+
+
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+        
+        
+            
+	
+	
+
+
+	
+	
+	
+
+
+	
+	
+			
+			
+			
+			
+		
+
+
+        
+    
+    
+        
+            
+        
+        
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+	
+		
+		
+	
+
+
+    
+
+	
+	
+	
+	
